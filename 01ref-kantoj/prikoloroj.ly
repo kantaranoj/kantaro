@@ -25,7 +25,7 @@
 	\autoBeamOn
 	} % relative
 	\addlyrics {
-Ver -- das, ver -- das ĉi -- uj mi -- aj ves -- toj, ver -- das ĉi -- o, ki -- on ha -- vas mi. Kaj mi ti -- om a -- mas ĉi -- on ki -- o blan -- kas, ĉar mu -- e -- lis -- ton en -- a -- mi -- ĝis mi.
+Blan -- kas, blan -- kas ĉi -- uj mi -- aj ves -- toj, blan -- kas ĉi -- o, ki -- on ha -- vas mi. Kaj mi ti -- om a -- mas ĉi -- on ki -- o blan -- kas, ĉar mu -- e -- lis -- ton en -- a -- mi -- ĝis mi.
 	}
 >>
 	} % transpose
@@ -38,7 +38,7 @@ Ver -- das, ver -- das ĉi -- uj mi -- aj ves -- toj, ver -- das ĉi -- o, ki --
      \column {
       \line { \bold "Aliaj strofoj:"
         \column {
-          " Blankas ... mariston, nigras ... kameniston, bluas ... mariston, buntas ... pentriston "
+          " Blankas ... mariston, nigras ... kameniston, bluas ... mariston, buntas ... pentriston, verdas ... esperantiston "
 		  ""
                   } %   column
                   } % line  
