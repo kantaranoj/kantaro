@@ -6,7 +6,7 @@
 	}
 	
 	\transpose c c' {
-	<<\chords { r4 c1 c c g:7 c c c2 g2:7 c1 c1 c c g:7 c c c2 g2:7 c1 f f c g:7  c c c2 g:7 c2.}
+	<<\chords { rx4 c1 c c g:7 c c c2 g2:7 c1 c1 c c g:7 c c c2 g2:7 c1 f f c g:7  c c c2 g:7 c2.}
 
 	\relative {
 		\time 4/4

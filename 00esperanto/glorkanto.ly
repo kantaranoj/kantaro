@@ -6,16 +6,16 @@
 	subsubtitle = "Verkinto: nekonata"
 	}
 	
-	\transpose c c' {
+	\transpose c a {
 	<<\chords {
-		  r4 g2.:m g:m g:m g:m c:m  c:m  g:m  g:m  g:m  g:m  g:m  g:m  d:7 d:7  g:m  g:m d:7 d:7  g:m
+		  rx4 g2.:m g:m g:m g:m c:m  c:m  g:m  g:m  g:m  g:m  g:m  g:m  d:7 d:7  g:m  g:m d:7 d:7  g:m
                                } % chords
 	\relative {
 		\time 3/4
 		\key g \minor
 		\partial 4
 	\autoBeamOff
-	d4 g2 a4 bes2 a4 g2. d2 d4 e r2 g4 r2 d2.( d4) r d g2 a4 bes2 a4 g2. d'2 d4 d2 c4 bes2 c4 d r2 g,4 a bes  a4 r2 a4 r2 g4 r2 r2 
+	d4 g2 a4 bes2 a4 g2. d2 d4 es r2 g4 r2 d2.( d4) r d g2 a4 bes2 a4 g2. d'2 d4 d2 c4 bes2 c4 d r2 g,4 a bes  a4 r2 a4 r2 g4 r2 r2 
        \bar "|." 
 	\autoBeamOn
 	} % relative
