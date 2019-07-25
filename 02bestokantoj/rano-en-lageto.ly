@@ -4,8 +4,8 @@
 	subtitle = "Originala titolo: Mh, mh macht der grüne Frosch - tradukita de Nikola"
 	}
 	
-	\transpose c c' {
-	<<\chords { r4 g2 g2 g2 g2 g2 g2 g2 g2 g2 g2 g2 g2 d:7 d:7 g g g g g g d:7 d:7 g g g g g g c d:7 g }
+	\transpose c bes {
+	<<\chords { rx4 g2 g2 g2 g2 g2 g2 g2 g2 g2 g2 g2 g2 d:7 d:7 g g g g g g d:7 d:7 g g g g g g c d:7 g }
 
 	\relative {
 		\time 2/4
@@ -55,6 +55,8 @@ kaj la ra -- no fa -- ras u-me.
           "1. Etendu la langon kantante la -e de ume "
 		  "2. Kantante ŝubidubidu faru serpentan movon per unu brako."
 		  "3. Kantante ŝlingelingeling faru ambaŭmane de supre malsupren serpentan movon"
+              \combine \null \vspace #0.5 % adds vertical spacing between verses
+
             } % column
       } %
 	}	

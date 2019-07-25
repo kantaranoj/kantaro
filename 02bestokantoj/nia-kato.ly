@@ -16,7 +16,7 @@
 		\key c \major
 		%\partial 4
 	%\autoBeamOff
-	g4 e c e d e f d e2 f g g4 e d e d e f d e2 d c
+	g4 e c e d e f d e2 f g g4 e c e d e f d e2 d c
 \bar "|." 
 	\autoBeamOn
 	} % relative

@@ -6,7 +6,7 @@
 	subsubtitle = "Tradukis el la itala L. Sözüer"
 	}
 	
-	\transpose c bes {
+	\transpose c a {
 	<<\chords {
 		  a2.:m c2 g c g c e:m7 a1:m c2 g c g c e:m7 a
                                } % chords

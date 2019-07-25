@@ -6,7 +6,7 @@
 	subsubtitle = "El la germana"
 	}
 	
-	\transpose c c' {
+	\transpose c bes {
 	<<\chords {
 		  
         x4 g1 g g g d g d g d g d g e2:m d2 g1 d g d g      
@@ -48,4 +48,6 @@ pro -- fun -- de dormas kaj tre laŭ -- te ron -- kas.
 
 >>
 	} % transpose
+ 
 } % score
+    \combine \null \vspace #0.5 % adds vertical spacing between verses
