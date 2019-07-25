@@ -35,9 +35,10 @@ Ni kantis al la mondo: |:Bonan tagon, pluva mond':|."
         \column {
 		"Morgaŭ fulmotondros, sed ho ni estos feliĉaj.
 Ni kantos al la mondo: |:Bonan vesperon, tondra mond':|"
-        } % column
+ \combine \null \vspace #0.5 % adds vertical spacing between verses
+
+} % column
       } % line
     } % fill-line
     }
- \combine \null \vspace #0.5 % adds vertical spacing between verses
 } % markup	

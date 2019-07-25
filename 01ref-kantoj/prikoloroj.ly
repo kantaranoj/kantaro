@@ -38,11 +38,12 @@ Blan -- kas, blan -- kas ĉi -- uj mi -- aj ves -- toj, blan -- kas ĉi -- o, ki
      \column {
       \line { \bold "Aliaj strofoj:"
         \column {
-          " Blankas ... mariston, nigras ... kameniston, bluas ... mariston, buntas ... pentriston, verdas ... esperantiston "
-		  ""
+          " Blankas ... mariston, nigras ... kameniston, bluas ... mariston," " buntas ... pentriston, verdas ... esperantiston "
+		  " "
                   } %   column
                   } % line  
 	
                 }	
   }
+  	  \combine \null \vspace #0.1 % adds vertical spacing between 
 }
