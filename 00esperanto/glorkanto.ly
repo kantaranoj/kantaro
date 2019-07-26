@@ -48,7 +48,7 @@ fer -- vo -- ran pli ol mi.
       \combine \null \vspace #0.05 % adds vertical spacing between verses
       \line { \bold "4."
         \column {
-		"Kaj kun la prezidento -- je sano tostis li."
+		"Kaj kun la prezidanto -- je sano tostis li."
         } % column
       } % line
       \combine \null \vspace #0.05 % adds vertical spacing between verses
@@ -102,7 +102,7 @@ fer -- vo -- ran pli ol mi.
     \combine \null \vspace #0.1 % adds vertical spacing between verses
       \line { \bold "12."
         \column {
-		"Ni kantu do la glorojn -- de l' granda asoci'."
+		"Ni kantu do la gloron -- de l' granda asoci'."
                 " "
                 " "
         } % column
