@@ -21,13 +21,13 @@ c f e8 e g g c,4 g' g8 e a4 c,4 c f f e e g g c c c bes a g f4
 	\autoBeamOn
 	} % relative
 	\addlyrics { \set stanza = #"1. "
-Ni -- a a -- vo fo -- je tro -- vis e -- ri -- na -- con en -- ar -- den' kaj li ka -- ŝis in sub tu -- kon sur la ben -- ko ĉe ka -- men'. 
-Jes, jes es -- tas ve --ro, jes, jes es -- tas ver', se ne kre -- das vi, do ve -- nu kon -- vin -- ki -- i pri l'a -- fer'.
+Ni -- a a -- vo fo -- je tro -- vis e -- ri -- na -- con en -- ĝar -- den' kaj li ka -- ŝis in sub tu -- kon sur la ben -- ko ĉe ka -- men'. 
+Jes, jes es -- tas ve --ro, jes, jes es -- tas ver', se ne kre -- das vi, do ve -- nu kon -- vin -- ki -- ĝi pri l'a -- fer'.
 	} %addlyrics
 	\addlyrics { \set stanza = #"2. "
-	Sen a -- tent' sur e -- ri -- na -- con ek -- si -- di -- as la on -- klin', ki -- el la dra -- gon' en se -- lo sal -- te ŝi -- el -- pa -- fis sin.} %addlyrics
+	Sen a -- tent' sur e -- ri -- na -- con ek -- si -- di -- ĝas la on -- klin', ki -- el la dra -- gon' en se -- lo sal -- te ŝi -- el -- pa -- fis sin.} %addlyrics
 	\addlyrics { \set stanza = #"3. "
-	En vi -- la -- o nu -- ne ŝve -- bas mo -- kaj mi -- roj pri sa -- gac' de  l'on -- kli -- no ki -- u pro -- vis raj -- di sur la e -- ri -- nac'.} %addlyrics
+	En vi -- la -- ĝo nu -- ne ŝve -- bas mo -- kaj mi -- roj pri sa -- gac' de  l'on -- kli -- no ki -- u pro -- vis raj -- di sur la e -- ri -- nac'.} %addlyrics
 
 >>
 	} % transpose
