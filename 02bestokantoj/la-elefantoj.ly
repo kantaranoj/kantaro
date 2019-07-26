@@ -49,5 +49,5 @@ pro -- fun -- de dormas kaj tre laŭ -- te ron -- kas.
 >>
 	} % transpose
  
+    %\combine \null \vspace #0.5 % adds vertical spacing between verses
 } % score
-    \combine \null \vspace #0.5 % adds vertical spacing between verses

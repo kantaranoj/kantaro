@@ -68,7 +68,8 @@
         \column {
 		"Jen venis buĉisto kaj buĉis la bovon ..."
         } % column
-      } % line     
+      } % line 
+     
     \combine \null \vspace #0.1 % adds vertical spacing between verses
       \line { \bold "8."
         \column {
@@ -83,6 +84,6 @@
                 " "
         } % column
       } % line   
-      }  
+     } % column 
     } % fill-line
 } % markup	
