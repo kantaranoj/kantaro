@@ -21,7 +21,7 @@ c f e8 e g g c,4 g' g8 e a4 c,4 c f f e e g g c c c bes a g f4
 	\autoBeamOn
 	} % relative
 	\addlyrics { \set stanza = #"1. "
-Ni -- a a -- vo fo -- je tro -- vis e -- ri -- na -- con en -- ĝar -- den' kaj li ka -- ŝis in sub tu -- kon sur la ben -- ko ĉe ka -- men'. 
+Ni -- a a -- vo fo -- je tro -- vis e -- ri -- na -- con en ĝar -- den' kaj li ka -- ŝis ĝin sub tu -- kon sur la ben -- ko ĉe ka -- men'. 
 Jes, jes es -- tas ve --ro, jes, jes es -- tas ver', se ne kre -- das vi, do ve -- nu kon -- vin -- ki -- ĝi pri l'a -- fer'.
 	} %addlyrics
 	\addlyrics { \set stanza = #"2. "
