@@ -9,14 +9,14 @@
 	\transpose c c' {
 	<< \chords {
 		 f2 e:m c:7 c4:7 f f2 e:m f4 c:7 c:7 f
-         f  e:m c:7 c4:7 f f2 e:m f4 c:7 c:7 f
+         f2  e:m c:7 c4:7 f f2 e:m f4 c:7 c:7 f
            } % chords
 	\relative {
 		\time 2/4
 		\key f \major
 	%\autoBeamOff
-f8 c a' f f e g g g c, bes' g g f a4 f c a' f f e g g c c c  bes a g f4
-c f e8 e g g c,4 g' g8 e a4 c,4 c f f e e g g c c c bes a g f4
+f8 c a' f f e g g g c, bes' g g f a4 f8 c a' f f e g g c c c  bes a g f4
+c f e8 e g g c,4 g' g8 e a4 c,8 c f f e e g g c c c bes a g f4
 \bar "|." 
 	\autoBeamOn
 	} % relative
