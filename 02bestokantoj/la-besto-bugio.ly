@@ -10,12 +10,13 @@
 	<<\chords {
 		  x8 c2 c f g 
                   c c f g
-                  c2 c f g 
-                  c g c4 g c2 c f c
+                  c2 c f fis:dim 
+                  c g c4 g c2
+                  x x x
                   c2 c f g 
                   c c f g
-                  c2 c f g 
-                  c g c4 g c2
+                  c2 c f fis:dim 
+                  c  g c4 g c2
                                } % chords
 	\relative {
 		\time 2/4
@@ -24,14 +25,14 @@
 	%\autoBeamOff
         g8 c,8. c16 c8. c16 e8 e4. f8. f16 f8. g16( g4)  r4 
         c,8. c16 c8. c16 e8 e4. f8. f16 f8. f16 g4  r4 
-        c,8. c16 c8. c16 e8 e4 e8 f8. f16 f8. f16 g4  r4 
+        c,8. c16 c8. c16 e8 e4 e8 f8. f16 f8. f16 fis4  r4 
         g4. a8 g4 f e8.( c16) d8. c16( c4) r4
         \improvisationOn
         g' g a g( g) r
         \improvisationOff
         c, c e e f8. e16 f8. e16 f8 g8( g4)
         c, c e e f8. e16 f8. e16 f8 g8( g4) 
-        c, c e e f8. e16 f8. e16 f8 g8( g4) 
+        c, c e e f8. f16 f8. f16 fis8 fis8( fis4) 
         g4. a8 g4 f e8. c16 d8. c16( c4) r8
        \bar "|." 
 	%\autoBeamOn
