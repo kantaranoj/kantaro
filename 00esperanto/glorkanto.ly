@@ -76,12 +76,6 @@ fer -- vo -- ran pli ol mi.
         } % column
       } % line     
     \combine \null \vspace #0.1 % adds vertical spacing between verses
-      \line { \bold "8."
-        \column {
-		"En tiu ĉi momento -- forkuri devis li."
-        } % column
-      } % line     
-    \combine \null \vspace #0.1 % adds vertical spacing between verses
       \line { \bold "9."
         \column {
 		"Rezultis el agado -- kolik' kaj kompani'."
