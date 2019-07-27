@@ -81,6 +81,8 @@
 	"Venu vi kaj stampfu kun ni."
         } % column
       } % line
+     } % column
+      \column {
       \combine \null \vspace #0.05 % adds vertical spacing between verses
       \line { \bold "5."
         \column {

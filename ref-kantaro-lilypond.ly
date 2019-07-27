@@ -1,9 +1,9 @@
 \version "2.18.2"
+
 \book {
 	\paper {
 		print-all-headers = ##t
 		ragged-bottom = ##t
-
 	}
 	\header {
 		title = "REF-Kantaro"
@@ -54,7 +54,9 @@
 	} % header
 
 \include "02bestokantoj/cxiuj-kantoj.ly"
-} % bookpart ĉ ŝ ĵ ĥ ĝ ŭ
+
+} % bookpart 
+% ĉ ŝ ĵ ĥ ĝ ŭ
 
 %\markuplist \tableofcontents
 

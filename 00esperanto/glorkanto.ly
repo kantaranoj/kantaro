@@ -69,6 +69,8 @@ fer -- vo -- ran pli ol mi.
 		"Li diris: Karaj membroj -- ni venis tien ĉi."
         } % column
       } % line     
+           }
+      \column {
     \combine \null \vspace #0.1 % adds vertical spacing between verses
       \line { \bold "8."
         \column {

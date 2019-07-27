@@ -20,7 +20,7 @@
 	\autoBeamOn
 	} % relative
 	\addlyrics {
-	En Mühl -- hau -- sen en Ger -- ma -- ni -- o mi -- a pa -- tro a -- ĉe -- tis blan -- kan mu -- son por mi.
+	En An -- to -- nik' en Ger -- ma -- ni -- o mi -- a pa -- tro a -- ĉe -- tis blan -- kan mu -- son por mi.
         Kaj ve -- nis ka -- to, al -- sal -- tis la mu -- son, ki -- on la pa -- tro a -- ĉe -- tis por mi.
 	} %addlyrics
 >>
@@ -33,57 +33,44 @@
     % \hspace #0.1 % moves the column off the left margin;
      % can be removed if space on the page is tight
      \column {
-      \line { \bold "2."
-        \column {
-		"Jen venis hundo kaj forpelis la katon,
-	kiu alsaltis la muson, kiun la patro aĉetis por mi."
-           } % column
+      \line { \bold "2." "Jen venis hundo kaj forpelis la katon," } \line{
+	"kiu alsaltis la muson, kiun la patro aĉetis por mi."
       } % line
 	  \combine \null \vspace #0.05 % adds vertical spacing between verses
       \line { \bold "3."
-        \column {
-		"Jen venis bastono kaj batis la hundon, kiu forpelis la katon kiu alsaltis la muson, kiun la patro ..."
-        } % column
+		"Jen venis bastono kaj batis la hundon," } \line{
+		  "kiu forpelis la katon kiu alsaltis la muson, kiun la patro ..."
       } % line
-      \combine \null \vspace #0.05 % adds vertical spacing between verses
+
+\combine \null \vspace #0.05 % adds vertical spacing between verses
       \line { \bold "4."
-        \column {
 		"Jen venis fajro kaj bruligis la bastonon ..."
-        } % column
       } % line
       \combine \null \vspace #0.05 % adds vertical spacing between verses
-      \line { \bold "5."
-        \column {
-		"Jen venis akvo kaj estingis la fajron ..."
-        } % column
+     
+ 
+\line { \bold "5." "Jen venis akvo kaj estingis la fajron ..."
       } % line     
+      
+             } % column
+    \column {
+      
     \combine \null \vspace #0.05 % adds vertical spacing between verses
-      \line { \bold "6."
-        \column {
-		"Jen venis bovo kaj fortrinkis la akvon ..."
-        } % column
+      \line { \bold "6."		"Jen venis bovo kaj fortrinkis la akvon ..."
       } % line     
+
     \combine \null \vspace #0.1 % adds vertical spacing between verses
-      \line { \bold "7."
-        \column {
-		"Jen venis buĉisto kaj buĉis la bovon ..."
-        } % column
+      \line { \bold "7."	 "Jen venis buĉisto kaj buĉis la bovon ..."
       } % line 
      
     \combine \null \vspace #0.1 % adds vertical spacing between verses
-      \line { \bold "8."
-        \column {
-		"Jen venis anĝelo kaj prenis la buĉiston ..."
-        } % column
+      \line { \bold "8." "Jen venis anĝelo kaj prenis la buĉiston ..."
       } % line     
     \combine \null \vspace #0.1 % adds vertical spacing between verses
-      \line { \bold "9."
-        \column {
-		"Kaj fine venis Dio kaj faligis la anĝelon ..."
-                " "
-                " "
-        } % column
+      \line { \bold "9." "Kaj fine venis Dio kaj faligis la anĝelon ..."
+
       } % line   
-     } % column 
+
+     }  % column
     } % fill-line
 } % markup	

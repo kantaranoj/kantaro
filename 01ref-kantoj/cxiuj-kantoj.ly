@@ -10,10 +10,14 @@
 
 \include "01ref-kantoj/lingvo-por-ni.ly"
 
+\include "01ref-kantoj/veterokanto.ly"
+
+\pageBreak 
+
 \include "01ref-kantoj/tru-en-la-poto.ly"
 
 \include "01ref-kantoj/estas-tru-en-sitelo.ly"
 
-\include "01ref-kantoj/veterokanto.ly"
+\pageBreak 
 
 \include "01ref-kantoj/la-avino-motociklas.ly"
