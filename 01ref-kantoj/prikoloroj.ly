@@ -38,7 +38,7 @@ Blan -- kas, blan -- kas ĉi -- uj mi -- aj ves -- toj, blan -- kas ĉi -- o, ki
      \column {
       \line { \bold "Aliaj strofoj:"
         \column {
-          " Blankas ... mariston, nigras ... kameniston, bluas ... mariston," " buntas ... pentriston, verdas ... esperantiston "
+          " Nigras ... kameniston, bluas ... mariston," " buntas ... pentriston, verdas ... esperantiston "
 		  " "
                   } %   column
                   } % line  
