@@ -3,9 +3,10 @@
 	title = "Rano en lageto"
 	subtitle = "Originala titolo: Mh, mh macht der grüne Frosch - tradukita de Nikola"
 	}
-	
+
+     
 	\transpose c bes {
-	<<\chords { rx4 g2 g2 g2 g2 g2 g2 g2 g2 g2 g2 g2 g2 d:7 d:7 g g g g g g d:7 d:7 g g g g g g c d:7 g }
+	<<\chords { s4 g2 g2 g2 g2 g2 g2 g2 g2 g2 g2 g2 g2 d:7 d:7 g g g g g g d:7 d:7 g g g g g g c d:7 g }
 
 	\relative {
 		\time 2/4
