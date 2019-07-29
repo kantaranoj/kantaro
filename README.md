@@ -1,5 +1,3 @@
-tiu ĉi versio estas ne plu aktuala, bv uzi nun https://github.com/kantaranoj/kantaro
-
 # Kantaro
 
 Tiu ĉi paĝo kolektas kantojn en Esperanto, kutime kantataj en [Renkontiĝo de Esperantistaj Familioj](https://familioj.miraheze.org/wiki/REF).
