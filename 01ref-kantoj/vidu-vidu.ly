@@ -37,7 +37,7 @@ La al -- ve -- no de am -- ik', kaj mul -- te pli el la vor -- tar'
 
 \score {
   <<
-    \new Staff { \melody }
+    \new Staff { \transpose c' d \melody }
     \addlyrics { \set stanza = #"1" \words }
     \addlyrics { \set stanza = #"2" 
                  Vi -- du, vi -- du!  Ki -- on do? A -- fer -- on be -- lan! Kaj ki -- e es -- tas ĝi?
