@@ -20,7 +20,7 @@ melody = \relative c'' {
   bes8 bes8 es4 es8 es8 es8 es4
   c8 c8 d4 d8 d8 d8 d4
   bes8 bes8 d4 d8 d8 d8 d4
-  bes8 bes8 bes8 bes8 bes8 c8 d8 es8
+  bes8 bes8 bes8 bes8 bes8 c8 d8 c4 r4 r2
   
 }
 
