@@ -3,7 +3,7 @@
 \header {
   title = "Vidu vidu"
   subtitle = "Originala titolo: Veo veo de Hot Banditoz"
-  subsubtitle = "tradukis: Felix Zesch & Bertilo"
+  subsubtitle = "tradukis: Felix, Frida & Bertilo"
 }
 
 global = {
@@ -19,8 +19,8 @@ melody = \relative c'' {
   es4 es4 es4 d8 c8 d4 d4 d4 c8 bes8 c4 c4 c4 bes8 c8 d4 r4 r4 
   bes8 bes8 es4 es8 es8 es8 es4
   c8 c8 d4 d8 d8 d8 d4
-  bes8 bes8 d4 d8 d8 d8 d4
-  bes8 bes8 bes8 bes8 bes8 c8 d8 c4 r4 r2
+  bes8 bes8 c4 c8 c8 c8 c4
+  a8 a8 a8 a8 a8 bes8 c8 bes4 r4 r2
   
 }
 
