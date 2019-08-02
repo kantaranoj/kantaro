@@ -39,8 +39,17 @@ Por krei novajn kantojn, necesas fine aldoni tekstdosieron al tiu ĉi retdosieru
 Por atingi tion, vi havas plurajn opciojn:
 
 1. La facila opcio estas uzi la retan, senpagan servon [lilybin](http://lilybin.com/). 
-2. La iom pli malfacila opcio estas instali LilyPond sur via komputilo. Por redakti, ni rekomendas la senpagan programon [frescobaldi](http://frescobaldi.org/) por linukso.
+2. La iom pli malfacila opcio estas instali LilyPond sur via komputilo. Por redakti, ni rekomendas la senpagan programon [frescobaldi](http://frescobaldi.org/), kiu haveblas por linukso, vindozo, kaj makoso.
 3. La plej malfacila opcio estas instali LilyPond kaj simple uzi normalan tekstredaktilon kiel vim, emacs aŭ notepad. Sed ankaŭ tio funkcias fidinde.
 
+# Kunlabori kaj aldoni dosierojn
 
+Por pli amplekse kunlabori kaj aldoni dosierojn, necesas instali `git` sur sia komputilo. Vi povas tiam elŝuti ĉiujn dosierojn sur vian komputilon helpe de 
 
+    git clone https://github.com/kantaranoj/kantaro.git
+
+Por komencantoj pri `git`, ni rekomendas uzi la grafikan interfacon git gui sekve:
+
+1. Elŝutu kaj instalu git de https://git-scm.com/downloads
+2. [Agordu bazajn informojn pri vi](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup): nomo kaj retpoŝtadreso
+3. Uzu `git gui` por preni kaj aldoni dosierojn
