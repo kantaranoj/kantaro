@@ -20,13 +20,28 @@ Unua paŝo por kontribui al tiu ĉi kantaro estas [kreado de konto ĉe github](h
 
 Kantoj en REF konsistas ĝenerale el du partoj: teksto kaj melodio. Foje aldoniĝas ankoraŭ gestoj aŭ movoj.
 
-## Noti melodion por kanto, kiu ankoraŭ ne estas en la kantaro
+## Teksto
 
-Por multaj kantoj el la REF-kantaro, la melodio ankoraŭ ne estas dokumentita. Vi povas helpi simple notante la melodion de kanto sur nota papero, skani aŭ foti tion kaj krei novan diskuton (*"issue"*) aldonante la dosieron. Tiam iu alia povas traduki la melodion en la lilypond-lingvon kaj ankaŭ aldoni la tekston.
-
-## Noti tekston por kanto, kiu ankoraŭ ne estas en la kantaro
+### Noti tekston por kanto, kiu ankoraŭ ne estas en la kantaro
 
 Por kantoj, kiuj ankoraŭ ne haveblas ĉi-tie, vi povas aldoni tekston ankaŭ sen melodio. Simple rigardu en la kantaro, kiu kanto estas laŭ enpaĝigo simila al via, tiam trovu la tekstdosieron kiu enhavas ĝin. Kopiu ĝin kaj savu ĝin per alia nomo kaj poste ŝanĝu la dosieron tiel ke ĝi enhavas nur vian kanton (do forigu la malnovan tekston kaj enmetu vian novan en la ĝustajn lokojn). Melodion iu alia povas poste aldoni, kaze ke vi ne povas/volas tion fari.
+
+### Kontrollegi kantojn kaj korekti eraretojn
+
+Certe en iuj kantoj estas tajperaroj aŭ lingvaj plibonigindaĵoj. Tajperarojn vi povas tuj korekti, ekz. per la retumila interfaco. Pri lingvo, indus unue malfermi diskuton ("issue") por iom pridiskuti la aferon.
+
+## Melodio
+
+Por multaj kantoj el la REF-kantaro, la melodio ankoraŭ ne estas dokumentita.
+
+### Noti melodion por kanto, kiu ankoraŭ ne estas en la kantaro
+
+ Vi povas helpi simple notante la melodion de kanto sur nota papero, skani aŭ foti tion kaj krei novan diskuton (*"issue"*) aldonante la dosieron. Ofte ankaŭ la notoj de tradukitaj kantoj estas troveblaj en interreto por alia lingvo kaj vi povus aldoni ligilon tien. Tiam iu alia povas traduki la melodion en la lilypond-lingvon kaj ankaŭ aldoni la tekston.
+
+
+### Kanti melodion por kanto, kiu ankoraŭ ne estas en la kantaro
+
+Kaze ke vi ne certas pri notoj de la kanto kaj nenio troveblas jam en interreto, vi povas ankaŭ registri vian voĉon kantantan la koncernan kanton.
 
 ## Priskribi gestojn por movkantoj
 
