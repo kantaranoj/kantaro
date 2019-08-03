@@ -3,7 +3,7 @@
 
 \score {
 	\header {
-	title = "La avino motociklas"
+	title = "La avino motorciklas"
 	subtitle = "Originala titolo: Meine Oma fährt im Hühnerstall Motorrad"
 %	subsubtitle = "Tradukis"
 	}
@@ -35,10 +35,10 @@
 	} % relative
 	\addlyrics {
         \repeat volta 2 {
-        La a -- vi -- no en ku -- ke -- jo mo -- to -- ci -- klas,
+        La a -- vi -- no en ku -- ke -- jo mo -- tor -- ci -- klas,
            }
         \alternative {
-         { mo -- to -- ci -- klas, mo -- to -- ci -- klas,}
+         { mo -- to -- ci -- klas, mo -- tor -- ci -- klas,}
          { la a -- vi -- no es -- tas tre mo -- der -- na in. }
         }
 	} %addlyrics
@@ -82,7 +82,7 @@
       \combine \null \vspace #0.1 % adds vertical spacing between verses     
        \line { \bold " 6."
         \column {
-		"La avino en kalson havas pistolon ..."
+		"La avino en kalson' havas pistolon ..."
         } % column
       } % line
       \combine \null \vspace #0.1 % adds vertical spacing between verses
