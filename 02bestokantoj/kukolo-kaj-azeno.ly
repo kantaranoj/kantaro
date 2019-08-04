@@ -3,7 +3,7 @@
 \score {
 	\header {
 	title = "Kukolo kaj azeno"
-	subsubtitle = "El la germana tradukis Volfram Distel'"
+	subsubtitle = "El la germana tradukis Volframo Distel'"
 	}
 	
 	\transpose c c'' {
