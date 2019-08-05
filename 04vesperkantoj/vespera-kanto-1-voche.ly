@@ -27,17 +27,17 @@
 	\addlyrics { \set stanza = #"1. "
 		     La lu -- no sur -- ĉi -- e -- le jam sta -- ras kaj or -- he -- le la
 		     ste -- loj bri -- las jen. Si -- len -- tas la ar -- bar -- ro, kaj
-		     el la her -- bo -- ma -- ro le -- vi -- ĝas nun ne -- bul -- kur ten'.
+		     el la her -- bo -- ma -- ro le -- vi -- ĝas nun ne -- bul -- kur ten'. __
 	} %addlyrics
 	\addlyrics { \set stanza = #"2. "
 		     La ta -- go a -- di -- aŭ -- as, kre -- pus -- ko nun ĉir -- kaŭ -- as la
 		     mon -- don per tran -- kvil'. Ĝi es -- tas kva -- zaŭ li -- to, en
-		     ki -- u a -- flik -- ti -- to ri -- po -- zu de la mal -- fa -- cil'.
+		     ki -- u a -- flik -- ti -- to ri -- po -- zu de la mal -- fa -- cil'. __
 	} %addlyrics
 	\addlyrics { \set stanza = #"3. "
 		     La lu -- non ka -- ŝas nu -- bo, kaj en ni kres -- kas du -- bo, ĉu
 		     ron -- da es -- tas ĝi. Ko -- nan -- te ne la tu -- ton, ja
-		     of -- te mis -- kon -- du -- ton al la a -- fe -- roj mon -- tras ni.
+		     of -- te mis -- kon -- du -- ton al la a -- fe -- roj mon -- tras ni. __
 	} %addlyrics
 
 >>
