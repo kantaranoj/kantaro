@@ -21,7 +21,7 @@
 	} % relative
 	\addlyrics {
 	En An -- to -- nik' en Ger -- ma -- ni -- o mi -- a pa -- tro a -- ĉe -- tis blan -- kan mu -- son por mi.
-        Kaj ve -- nis ka -- to, al -- sal -- tis la mu -- son, ki -- on la pa -- tro a -- ĉe -- tis por mi.
+        Kaj ve -- nis ka -- to, al -- sal -- tis la mu -- son, ki -- un la pa -- tro a -- ĉe -- tis por mi.
 	} %addlyrics
 >>
 	} % transpose
