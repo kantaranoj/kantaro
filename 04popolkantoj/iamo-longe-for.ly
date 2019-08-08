@@ -9,7 +9,7 @@
 	
 	\transpose c c' { <<
 	\relative {
-	    \time 2/2
+	    \time 4/4
 	    \key f \major
 	    \partial 4
 %   	    \autoBeamOff
