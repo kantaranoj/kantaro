@@ -56,7 +56,7 @@
 %	\addlyrics {
 	\new Lyrics \lyricsto "aldo" {
 	\set stanza = #"2. "
-	Kara kna -- bino, res -- pon -- di vi pro -- vu:
+	Ka -- ru lin', res -- pon -- di vi pro -- vu:
 	ki -- o sen plu -- vo kres -- kas, vi tro -- vu!
 	Ki -- o bru -- lan -- te bru -- las sen fla -- mi,
 	ki -- o plo -- ran -- te plo -- ras sen lar -- mi?
