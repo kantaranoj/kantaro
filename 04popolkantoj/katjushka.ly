@@ -16,7 +16,7 @@
 	    \repeat volta 2 {
 	      a'4 d4 c d8( c)  bes bes a g a4 d,4 bes'4. g8 a4. f8 g g f e d2 
 	    } % repeat
-	    \bar "|."
+	   % \bar "|."
 %	\autoBeamOn
 	} % relative
 	\addlyrics { \set stanza = #"1. "
