@@ -55,7 +55,30 @@
 
 \include "02bestokantoj/cxiuj-kantoj.ly"
 
-} % bookpart 
+      } % bookpart
+
+
+\bookpart {
+	\header {
+		title = "Popol-kantoj"
+	} % header
+
+\include "04popolkantoj/cxiuj-kantoj.ly"
+
+      } % bookpart
+
+%... ch 5 ... 6 aldonendaj...
+	
+\bookpart {
+	\header {
+		title = "Vesper- kaj lulkantoj"
+	} % header
+
+\include "07vesperkantoj/cxiuj-kantoj.ly"
+
+      } % bookpart
+	
+	
 % ĉ ŝ ĵ ĥ ĝ ŭ
 
 %\markuplist \tableofcontents
