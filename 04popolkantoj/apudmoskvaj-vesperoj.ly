@@ -7,6 +7,11 @@
 	}
 	
 	\transpose c c' { <<
+	  \chords {
+	    \set chordChanges = ##t
+	    d2:m g:m g:m d:m f bes f
+	    a d:m d:m g:m g:m f g:m d:m 
+	    }
 	\relative {
 	    \time 2/4
 	    \key d \minor
