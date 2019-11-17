@@ -1,3 +1,7 @@
 \include "07vesperkantoj/la-tago-iras-jam.ly"
 \include "07vesperkantoj/vespera-kanto-1-voche.ly"
 \include "07vesperkantoj/vespera-kanto-4-voche.ly"
+\include "07vesperkantoj/okuletoj.ly"
+\include "07vesperkantoj/steletoj.ly"
+\include "07vesperkantoj/cxe-arbaro.ly"
+\include "07vesperkantoj/dormu-milde.ly"
