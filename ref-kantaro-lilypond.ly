@@ -57,6 +57,18 @@
 
       } % bookpart
 
+\bookpart {
+	\header {
+		title = "Mov-kantoj"
+	} % header
+
+\include "03movkantoj/cxiuj-kantoj.ly"
+
+      } % bookpart
+
+
+
+
 
 \bookpart {
 	\header {
@@ -87,4 +99,4 @@
 
 } % book
 
-}
+%}
