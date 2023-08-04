@@ -1,3 +1,5 @@
+\version "2.22.2"
+
 \score {
 %       \tocItem \markup { Ludoviko }
 	\header {
@@ -6,6 +8,9 @@
 	}
 	
 	\transpose c c' {
+		% la paŭzosintakso "rx4" anstataŭ "r4" forigas anglalingvan "N.C." (t.e. no chords) por la gitaro
+		% sed kaŭzas eraromesaĝon. Cetere la kompilado bone funkcias kun tiu artifiko. Ĉu ekzistas pli ĝusta
+		% rimedo?
 	<<\chords { rx4 c1 c c g:7 c c c2 g2:7 c1 c1 c c g:7 c c c2 g2:7 c1 f f c g:7  c c c2 g:7 c2.}
 
 	\relative {
