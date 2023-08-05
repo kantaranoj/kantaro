@@ -1,4 +1,4 @@
-
+\version "2.20.0"
 
 \score {
 	\header {
@@ -8,6 +8,7 @@
 	
 	\transpose c c' {
 	<<\chords {
+	    \set noChordSymbol = ""	  
 		  c2 c e:m e4:m g g2 g d:7 g 
 		  c2 c e:m e4:m g g2 g d:7 g 
 		  
@@ -16,13 +17,13 @@
 		  }
 		  \alternative {
                   {c2}
-                  {c2 xm} % intenca por eviti troan akordon
+                  {c2 r2} 
                   }
 		  \repeat volta 2 {
                   c2 c g g g g:7 
 		  }
 		  \alternative {
-                  {c2 xm}
+                  {c2 r2}
                   {c2}
                   }
                                                 } % chords

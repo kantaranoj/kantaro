@@ -1,4 +1,4 @@
-
+\version "2.20.0"
 
 \score {
 	\header {
@@ -8,18 +8,16 @@
 	
 	\transpose c c' {
 	<<\chords {
-		   x4 g2. e:m a:m7 b:7 e:m a:7 d d:7
-		      g2. e:m a:m7 b:7 e:m a:7 d d:7
-		     a:m e a:m e a:m e:7 a:m a:m
-		     a:7 d a:7 d:7 a:m a:m7 d d:7
-		     g e:m a:m7 d:7
-		     g e:m a:m7 d:7
-		     g g c a:m
-		     c g a:m d:7 g
-
-		  
-                  
-                                                } % chords
+       \set noChordSymbol = ""	  
+		r4 g2. e:m a:m7 b:7 e:m a:7 d d:7
+		g2. e:m a:m7 b:7 e:m a:7 d d:7
+		a:m e a:m e a:m e:7 a:m a:m
+		a:7 d a:7 d:7 a:m a:m7 d d:7
+		g e:m a:m7 d:7
+		g e:m a:m7 d:7
+		g g c a:m
+		c g a:m d:7 g              
+    } % chords
 	\relative {
 		\time 3/4
 		\key g \major
@@ -65,8 +63,8 @@ Kaj tu -- te ek -- sta -- zu en ŝlim', be -- la ŝlim'
 	} %addlyrics
 	\addlyrics { \set stanza = #"3. "
 I -- li -- an ek -- zem -- plon sekvis pa -- ro post par'
-Ĉe la bor -- do de ti -- u river'
-A -- li -- ĝis a -- man -- toj de la tu -- ta bes -- tar'
+Ĉe la bor -- do de ti -- u ri -- ver'
+A -- li -- ĝis a -- man -- toj de-l' tu -- ta bes -- tar'
 Al la hi -- po -- po -- tam  -- am -- a -- fer'
 I -- li ĉi -- uj en -- sal -- tis kun plaŭ -- do kaj ond' _
 Pe- _ to -- lis kaj plon -- ĝis sen pen'

@@ -1,4 +1,4 @@
-
+\version "2.20.0"
 
 \score {
 	\header {
@@ -8,16 +8,18 @@
 	
 	\transpose c c' {
 	<<\chords {
-		  x8 c2 c f g 
-                  c c f g
-                  c2 c f fis:dim 
-                  c g c4 g c2
-                  x x x
-                  c2 c f g 
-                  c c f g
-                  c2 c f fis:dim 
-                  c  g c4 g c2
-                               } % chords
+    \set noChordSymbol = ""	  
+
+		r8 c2 c f g 
+    c c f g
+    c2 c f fis:dim 
+    c g c4 g c2
+    r r r
+    c2 c f g 
+    c c f g
+    c2 c f fis:dim 
+    c  g c4 g c2
+  } % chords
 	\relative {
 		\time 2/4
 		\key c \major
