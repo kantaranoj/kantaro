@@ -95,8 +95,7 @@
 
 %\markuplist \tableofcontents
 
-} % markup
+%} % markup
 
 } % book
 
-%}
