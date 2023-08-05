@@ -1,4 +1,4 @@
-
+\version "2.20.0"
 
 \score {
 	\header {
@@ -8,7 +8,8 @@
 	
 	\transpose c a {
 	<<\chords {
-		  rx4 g2.:m g:m g:m g:m c:m  c:m  g:m  g:m  g:m  g:m  g:m  g:m  d:7 d:7  g:m  g:m d:7 d:7  g:m
+  		\set noChordSymbol = ""
+		  r4 g2.:m g:m g:m g:m c:m  c:m  g:m  g:m  g:m  g:m  g:m  g:m  d:7 d:7  g:m  g:m d:7 d:7  g:m
                                } % chords
 	\relative {
 		\time 3/4

@@ -1,3 +1,5 @@
+\version "2.20.0"
+
 %\pageBreak
 
 \include "00esperanto/ludoviko.ly"
