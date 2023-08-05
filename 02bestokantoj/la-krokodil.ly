@@ -26,7 +26,7 @@
                   {c2 r2}
                   {c2}
                   }
-                                                } % chords
+        } % chords
 	\relative {
 		\time 2/4
 		\key c \major

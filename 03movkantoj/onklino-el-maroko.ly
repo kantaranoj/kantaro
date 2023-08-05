@@ -1,4 +1,4 @@
-%\version "2.18.2"
+\version "2.20.0"
 
 \score {
   \header {
@@ -9,8 +9,9 @@
   <<
     \new ChordNames {
       \set chordChanges = ##t
+      \set noChordSymbol = ""	  
       \chordmode {
-        x1 c c c g c2 c2:7 f1 c2 g2 c1
+        r1 c c c g c2 c2:7 f1 c2 g2 c1
       }
     }
     \new Voice = "melodio" {
@@ -26,13 +27,14 @@
       }
     } 
     \new Lyrics \lyricsto "melodio"
-      \lyricmode {
-La on -- kli -- no el Ma -- ro -- ko ve -- nos ŝi 
-La on -- kli -- no el Ma -- ro -- ko ve -- nos ŝi
-La on -- kli -- no el Ma -- ro -- ko, la on -- kli -- no el Ma -- ro -- ko,
-La on -- kli -- no el Ma -- ro -- ko ve -- nos ŝi
+      {
+        La on -- kli -- no el Ma -- ro -- ko ve -- nos ŝi 
+        La on -- kli -- no el Ma -- ro -- ko ve -- nos ŝi
+        La on -- kli -- no el Ma -- ro -- ko, la on -- kli -- no el Ma -- ro -- ko,
+        La on -- kli -- no el Ma -- ro -- ko ve -- nos ŝi
       }
 >>
+
 \layout { }
 }
 
