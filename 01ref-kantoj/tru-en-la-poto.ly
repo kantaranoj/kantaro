@@ -1,4 +1,6 @@
-% mi konas gxin kiel 'wenn der Topf aber ein Loch hat' ...
+\version "2.20.0"
+
+% mi konas gxin kiel 'Wenn der Topf aber ein Loch hat' ...
 % la aktoroj estas cxi tie intersxangxitaj kaj la strukturo
 % 1. Sxi: Se ...? 2. Li: Faru jenon! 3. Sxi: Kiel 4. Li: Per jenon! perdigxis.
 % Kio estas 'staranta pajlo'? En la originalo gxi tro longas kaj estas dehakita per hakilo.
@@ -37,17 +39,18 @@
 	
 	\transpose c d' {
 	<<\chords {
-                  \repeat volta 2 {xm4 f2. f2} 
-                  \alternative {
-                               {f4 c2.:7 f2 }
-                               {f4 bes2 c4:7 f2}
-                               } % alternative
-                 \repeat volta 2 {xm4 f2. f2} 
-                  \alternative {
-                               {f4 c2.:7 f2}
-                               {f4 bes2 c4:7 f2}
-                               } % alternative
-                               } % chords
+    \set noChordSymbol = ""
+    \repeat volta 2 {r4 f2. f2} 
+    \alternative {
+                  {f4 c2.:7 f2 }
+                  {f4 bes2 c4:7 f2}
+                  } % alternative
+    \repeat volta 2 {r4 f2. f2} 
+    \alternative {
+                  {f4 c2.:7 f2}
+                  {f4 bes2 c4:7 f2}
+                  } % alternative
+                  } % chords
 	\relative {
 		\time 3/4
 		\key f \major

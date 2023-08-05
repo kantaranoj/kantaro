@@ -1,3 +1,4 @@
+\version "2.20.0"
 \score {
 	\header {
 	title = "Lingvo por ni"
@@ -5,8 +6,11 @@
 	}
 	
 	\transpose c c' {
-	<<\chords { xm4 f2. bes f f f bes c c:7 f bes f f bes c:7 f f
-                  f f bes bes c c:7 f f f f bes bes c c:7 f f2  }
+	<<\chords { 
+		\set noChordSymbol = ""
+		r4 f2. bes f f f bes c c:7 f bes f f bes c:7 f f
+        f f bes bes c c:7 f f f f bes bes c c:7 f f2  
+	}
 
 	\relative {
 		\time 3/4

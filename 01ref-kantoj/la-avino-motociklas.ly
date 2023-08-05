@@ -1,5 +1,4 @@
-
-
+\version "2.20.0"
 
 \score {
 	\header {
@@ -10,14 +9,15 @@
 	
 	\transpose c c' {
 	<<\chords {
-        \repeat volta 2 {
-                 xm4 g2 d g g4
-                  }
-        \alternative {
-        { g4 d2 d2 g g4 }
-        { g4 c2 d:7 g g4}
-        }
-                               } % chords
+      \set noChordSymbol = ""
+      \repeat volta 2 {
+                r4 g2 d g g4
+                }
+      \alternative {
+      { g4 d2 d2 g g4 }
+      { g4 c2 d:7 g g4}
+      }
+  } % chords
 	\relative {
 		\time 2/4
 		\key g \major
