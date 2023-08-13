@@ -61,7 +61,7 @@ Por atingi tion, vi havas plurajn opciojn:
 
 Por pli amplekse kunlabori kaj aldoni dosierojn, necesas instali `git` sur sia komputilo. Vi povas tiam elŝuti ĉiujn dosierojn sur vian komputilon helpe de 
 
-    git clone https://github.com/kantaranoj/kantaro.git
+    git clone git@github.com:kantaranoj/kantaro.git
 
 Por komencantoj pri `git`, ni rekomendas uzi la grafikan interfacon git gui sekve:
 
