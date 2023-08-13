@@ -90,8 +90,6 @@
 
       } % bookpart
 	
-	
-% ĉ ŝ ĵ ĥ ĝ ŭ
 
 %\markuplist \tableofcontents
 
