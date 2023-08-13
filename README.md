@@ -16,7 +16,7 @@ Ni volas traduki kaj plibonigi la ekzistantajn priskribojn de kantoj (teksto + m
 
 # Kiel kontribui
 
-Unua paŝo por kontribui al tiu ĉi kantaro estas [kreado de konto ĉe github](https://github.com/join). 
+Unua paŝo por kontribui al tiu ĉi kantaro estas [kreado de konto ĉe github](https://github.com/join). Vi ne bezonas profundajn sciojn pri git por helpi. Malgrandajn korektojn vi ankaŭ povas fari simple per retumilo, se vi komprenas kie estas la teksto en kanto kaj kie la melodio. Ĉio troviĝas en tekstdosieroj. Por kontroli, ĉu io daŭre funkcias, vi povas mane kopii la tekston al programo kiel Frescobaldi instalita sur via loka komputilo.
 
 Kantoj en REF konsistas ĝenerale el du partoj: teksto kaj melodio. Foje aldoniĝas ankoraŭ gestoj aŭ movoj.
 
