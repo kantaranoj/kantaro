@@ -1,11 +1,16 @@
 \version "2.20.0"
 
+% ebla korekto: tridek jarojn da agad' (anstataŭ "de agad'")?
+% ebla korekto: KantarViki havas nur "tridek jaroj", do sen la akuzativo, eble ĉar pli facile kanteblas
+% ebla korekto: mirinda fak' de ni (anstataŭ "fakt'", laŭ KantarViki)
+
+\tocItem \markup "Ludoviko"
 \score {
 
-%       \tocItem \markup { Ludoviko }
 	\header {
 	title = "Ludoviko"
 	subtitle = "Originala titolo: Oh, Susanna"
+	subsubtitle = "Esperantigis Renato Corsetti" % laŭ KantarViki
 	}
 		
 	\transpose c c' {
@@ -47,7 +52,7 @@ Jen mi ve -- nis al kon -- gre -- so, sur la ja -- ko ver -- da stel',
 		"decidadis ili arde, ĉu la voston havas kat'."
 		"Tie estis veterano, tridek jarojn de agad',"
 		"nur bezonis li vortaron, por ke klaru parolad'."
- 		{\bold "Rekantaĵo (2x):"} "Ludoviko, ne ploru vi pri ni," "progresadas Esperanto malgraŭ la forir' de vi."
+ 		{\bold "Rekantaĵo (2×):"} "Ludoviko, ne ploru vi pri ni," "progresadas Esperanto malgraŭ la forir' de vi."
            } % column
       } % line
 	  \combine \null \vspace #0.1 % adds vertical spacing between verses
@@ -57,7 +62,7 @@ Jen mi ve -- nis al kon -- gre -- so, sur la ja -- ko ver -- da stel',
 		"ili fajfas pri la celoj, en kongreso gravas am'."
 		"Vicurbestro retorikis pri mirinda fakt' de ni,"
 		"nur kongreson li trapikis, ĉar la anglan uzis li."
-		{\bold "Rekantaĵo (2x):"} "Ludoviko, ne ploru vi pri ni," "progresadas Esperanto malgraŭ la forir' de vi."
+		{\bold "Rekantaĵo (2×):"} "Ludoviko, ne ploru vi pri ni," "progresadas Esperanto malgraŭ la forir' de vi."
         } % column
       } % line
     } % fill-line
@@ -69,7 +74,7 @@ Jen mi ve -- nis al kon -- gre -- so, sur la ja -- ko ver -- da stel',
 		"sed de amuzo estis estro nur virino-priserĉant'."
 		"Mi komprenis en finfino, ke nur unu estas voj'"
 		"kaj decidis mi per ino iri vojon de la ĝoj'."
-		{\bold "Rekantaĵo (2x):"} "Ludoviko, ne ploru vi pri ni," "progresadas Esperanto malgraŭ la forir' de vi."
+		{\bold "Rekantaĵo (2×):"} "Ludoviko, ne ploru vi pri ni," "progresadas Esperanto malgraŭ la forir' de vi."
         } % column
       } % line
 	} % column

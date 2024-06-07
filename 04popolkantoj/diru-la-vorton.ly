@@ -1,4 +1,4 @@
-
+\tocItem \markup "Diru la vorton"
 
 \score {
 	\header {

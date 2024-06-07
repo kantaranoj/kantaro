@@ -1,8 +1,11 @@
 \version "2.20.0"
 
+% eble devas esti: nu ja, amanton(!) perdis la vivo
+
+\tocItem \markup "La balado de l' akuzativo"
 \score {
 	\header {
-	  title = "La Balado de l' Akuzativo"
+	  title = "La balado de l' akuzativo"
 	  composer = "muziko laŭ Tumbalalajko"
 	  subsubtitle = "Volframo Distel' laŭ ideo de Edi Werner"
 	}
@@ -40,18 +43,18 @@
 	} % transpose
 	 \new Lyrics \lyricsto "soprano" {
 				%\addlyrics {
-	   \set stanza = #"i. "
+	   \set stanza = #"1. "
 	   Vi -- ro a -- mis be -- la vi -- ri -- no, vi -- ro a -- mis be -- la vi -- ri -- no;
 	   nu ja, ŝi es -- tis in -- stru -- is -- ti -- non, nu ja ŝi es -- tis in -- stru -- is -- ti -- non.
 	  % rekantaĵo
-	   \set stanza = #"i-iv. "
+	   \set stanza = #"1-4. "
 	   A -- ku -- za, a -- ku -- za a -- ku -- za -- ti -- vo,
 	   a -- ku -- za, a -- ku -- za a -- ku -- za -- ti -- vo!
 	   A -- ku -- zas ni la a -- ku -- za -- ti -- vo, a -- ku -- zas ni la a -- ku -- za -- tiv'. __
 	} % lyrics
 				%	\addlyrics {
 	\new Lyrics \lyricsto "aldo" {
-	\set stanza = #"ii. "
+	\set stanza = #"2. "
 	"\"Mi" vi a -- "mas\"," li al ŝin di -- ris, "\"mi" vi a -- "mas\"," li al ŝin di -- ris;
 	nu ja, pri ti -- o mul -- te ŝin mi -- ris, nu ja, pri ti -- o mul -- te ŝin mi -- ris.
 				% rekantaĵo
@@ -60,13 +63,13 @@
 		A -- ku-, a -- ku-, a -- ku -- za -- ti -- vo! __ A -- ku-, a -- ku-, a -- ku za -- ti -- vo! __
 	} %lyrics
 	\new Lyrics \lyricsto "soprano"	 {
-	 \set stanza = #"iii. "
+	 \set stanza = #"3. "
 	 Ŝi ri -- fu -- zis ti -- al la vi -- ro, ŝi ri -- fu -- zis ti -- al la vi -- ro;
 	 nu ja, ĝi kaŭ -- zis li -- a for -- i -- ro, nu ja, ĝi kaŭ -- zis li -- a for -- i -- ro.
 		   } %lyrics
 
 	\new Lyrics \lyricsto "soprano"	 {
-	 \set stanza = #"iv. "
+	 \set stanza = #"4. "
 	 Nur, ĉar man -- kis a -- ku -- za -- ti -- von, nur ĉar man -- kis a -- ku -- za -- ti -- von;
 	 nu ja, a -- man -- to per -- dis la vi -- vo, nu ja, a -- man -- to per -- dis la vi -- vo.
 		   } %lyrics

@@ -1,4 +1,4 @@
-
+\tocItem \markup "Sankta Lucia"
 
 \score {
 	\header {

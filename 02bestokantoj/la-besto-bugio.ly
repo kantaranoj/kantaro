@@ -1,5 +1,6 @@
 \version "2.20.0"
 
+\tocItem \markup "La besta bugio"
 \score {
 	\header {
 	title = "La besta bugio"
@@ -60,7 +61,7 @@
 	"Estas tie besto, kion faras ĝi?"
 	"Tra arboj ĝi svingiĝas, kun granda pasi'"
 	"Kiu besto estas ĝi?  Estas simio!"
-	"Sving, sving, bugi ŭugi ugi  (3x),"
+	"Sving, sving, bugi ŭugi ugi  (3×),"
 	"Venu kaj svingiĝu kun ni."
            } % column
       } % line
@@ -70,7 +71,7 @@
           "Profunde ..."
 		"Ĝi flugas en l' aero, je mia envi'"
 	"Kiu besto estas ĝi?  Estas birdo!"
-	"Flugu, flugu, bugi ŭugi ugi (3x)"
+	"Flugu, flugu, bugi ŭugi ugi (3×)"
 	"Venu vi kaj flugu kun ni."
         } % column
       } % line
@@ -79,7 +80,7 @@
         \column {
 		"Ĝi stampfas sur la tero, preskaŭ timas mi."
 	"Kiu besto estas ĝi?  Estas elefanto!"
-	"Stampfu, stampfu, bugi ŭugi ugi  (3x)"
+	"Stampfu, stampfu, bugi ŭugi ugi  (3×)"
 	"Venu vi kaj stampfu kun ni."
         } % column
       } % line
@@ -90,7 +91,7 @@
         \column {
 		"Ĝi kuras tre rapide, kun granda energi'."
 	"Kiu besto estas ĝi?  Estas leopardo!"
-	"Kuru, kuru, bugi ŭugi ugi  (3x)"
+	"Kuru, kuru, bugi ŭugi ugi  (3×)"
 	"Venu vi kaj kuru kun ni."
         } % column
       } % line     
@@ -99,7 +100,7 @@
         \column {
 		"Ĝi rampas tre silente, sen ajna histeri'." 
 	"Kiu besto estas ĝi?  Estas serpento!"
-	"Rampu, rampu, bugi ŭugi ugi  (3x)"
+	"Rampu, rampu, bugi ŭugi ugi  (3×)"
 	"Venu vi kaj rampu kun ni."
         } % column
       } % line     
@@ -110,7 +111,7 @@
 	"Estas tie homoj, kion faras ili?"
 	"Ili dancas senbride, al bela melodi'." 
 	"Kiuj homoj estas ili?  Estas ni!"
-	"Dancu, dancu, bugi ŭugi ugi  (3x)" 
+	"Dancu, dancu, bugi ŭugi ugi  (3×)" 
         "Venu vi kaj dancu kun ni."
         " "
         } % column

@@ -1,4 +1,4 @@
-
+\tocItem \markup "La iamo longe for"
 
 \score {
 	\header {

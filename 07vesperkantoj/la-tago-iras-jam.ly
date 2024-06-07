@@ -1,4 +1,4 @@
-
+\tocItem \markup "La tago iras jam de ni"
 
 \score {
 	\header {

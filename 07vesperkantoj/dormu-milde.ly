@@ -1,4 +1,4 @@
-
+\tocItem \markup "Dormu milde"
 
 \score {
 	\header {

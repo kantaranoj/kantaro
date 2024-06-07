@@ -1,5 +1,6 @@
 \version "2.20.0"
 
+\tocItem \markup "La avino motorciklas"
 \score {
 	\header {
 	title = "La avino motorciklas"

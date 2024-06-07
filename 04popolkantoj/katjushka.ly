@@ -1,4 +1,4 @@
-
+\tocItem \markup "Katjuŝka"
 
 \score {
 	\header {

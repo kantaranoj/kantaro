@@ -1,14 +1,30 @@
 \version "2.20.0"
+\include "lilypond-book-preamble.ly"
+
+tocAct =
+#(define-music-function (label text) (symbol-list-or-symbol? markup?)
+	(add-toc-item! 'tocActMarkup text label))
 
 \book {
 	\paper {
 		print-all-headers = ##t
 		ragged-bottom = ##t
+		tocTitleMarkup = \markup \huge \column {
+			\fill-line { \null "Enhavtabelo" \null }
+			\null
+		}
+		tocActMarkup = \markup \large \column {
+			\hspace #1
+			\fill-line { \null \italic \fromproperty #'toc:text \null }
+			\hspace #1
+			}
+		tocItemMarkup = \tocItemWithDotsMarkup
 	}
 	\header {
 		title = "REF-Kantaro"
 		copyright = "Farita per lilypond"
 	}
+
 
 
 \markup {
@@ -18,13 +34,14 @@
     %\epsfile #Y #20 #"Picture1.eps" ŝ
   }
 }
+\pageBreak
 
 
 
-
+\tocAct actI \markup { Esperantaj kantoj }
 \bookpart {
 	\header {
-		title = "Agadaj kantoj"
+		title = "Esperantaj kantoj"
 	}
 
 %\markup {
@@ -40,6 +57,7 @@
 
 } % bookpart
 
+\tocAct actI \markup { REF-kantoj }
 \bookpart {
 	\header {
 		title = "REF-kantoj"
@@ -48,6 +66,7 @@
 \include "01ref-kantoj/cxiuj-kantoj.ly"
 } % bookpart
 
+\tocAct actI \markup { Besto-kantoj }
 \bookpart {
 	\header {
 		title = "Besto-kantoj"
@@ -57,6 +76,7 @@
 
       } % bookpart
 
+\tocAct actI \markup { Mov-kantoj }
 \bookpart {
 	\header {
 		title = "Mov-kantoj"
@@ -70,6 +90,7 @@
 
 
 
+\tocAct actI \markup { Popol-kantoj }
 \bookpart {
 	\header {
 		title = "Popol-kantoj"
@@ -81,6 +102,7 @@
 
 %... ch 5 ... 6 aldonendaj...
 	
+\tocAct actI \markup { Vesper- kaj lulkantoj }
 \bookpart {
 	\header {
 		title = "Vesper- kaj lulkantoj"
@@ -91,7 +113,8 @@
       } % bookpart
 	
 
-%\markuplist \tableofcontents
+
+\markuplist \table-of-contents
 
 %} % markup
 

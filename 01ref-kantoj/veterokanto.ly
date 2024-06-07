@@ -1,3 +1,4 @@
+\tocItem \markup "Veterokanto"
 \score {
 	\header {
 	title = "Veterokanto"

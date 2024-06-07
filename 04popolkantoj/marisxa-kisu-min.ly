@@ -1,8 +1,8 @@
-
+\tocItem \markup "Mariŝa kisu min"
 
 \score {
 	\header {
-	  title = "Marisâ kisu min"
+	  title = "Mariŝa kisu min"
 	  subsubtitle = "slovaka popolkanto"
 	}
 	

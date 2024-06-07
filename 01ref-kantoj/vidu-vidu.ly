@@ -1,5 +1,7 @@
 \version "2.18.2"
 
+\tocItem \markup "Vidu vidu"
+
 \header {
   title = "Vidu vidu"
   subtitle = "Originala titolo: Veo veo de Hot Banditoz"

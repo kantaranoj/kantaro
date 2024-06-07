@@ -1,9 +1,9 @@
-
+\tocItem \markup "Blanka muso"
 
 \score {
 	\header {
 	title = "Blanka muso"
-	subsubtitle = "Tradukis el la itala L. Sözüer"
+	subsubtitle = "Tradukis el la itala Lars Sözüer"
 	}
 	
 	\transpose c a {
@@ -27,6 +27,7 @@
 	} % transpose
 } % score
 
+\noPageBreak
 
 \markup {
   \fill-line {

@@ -1,3 +1,4 @@
+\tocItem \markup "Rano en lageto"
 \score {
 	\header {
 	title = "Rano en lageto"
@@ -31,7 +32,7 @@ Um -- e fa -- ras ra -- no en la -- get', an -- sta -- taŭ kŭa kŭa kŭa.
 Kaj la fi -- ŝoj en la a -- kvo fa -- ras
 ŝu -- bi --du --bi --du, ŝu -- bi --du --bi --du, ŝu -- bi --du --bi --du,
 kaj la fi -- ŝoj en la a -- kvo fa -- ras ŝu -- bi --du --bi --du, 
-kaj la ra -- no fa -- ras u-me.
+kaj la ra -- no fa -- ras um-e.
 	}
 \addlyrics { \set stanza = #"2. "
 Um -- e fa -- ras ra -- no en la -- get', um -- e fa -- ras e -- ta ran'.
@@ -39,7 +40,7 @@ Um -- e fa -- ras ra -- no en la -- get', an -- sta -- taŭ kŭa kŭa kŭa.
 Kaj la al -- goj en la a -- kvo fa -- ras ŝli -- nge -- li -- nge -- ling,
 ŝli -- nge -- li -- nge -- ling, ŝli -- nge -- li -- nge -- ling
 Kaj la al -- goj en la a -- kvo fa -- ras ŝli -- nge -- li -- nge -- ling,
-kaj la ra -- no fa -- ras u-me.
+kaj la ra -- no fa -- ras um-e.
 	}
 >>
 	} % transpose
@@ -53,7 +54,7 @@ kaj la ra -- no fa -- ras u-me.
      \column {
       \line { \bold "Atentigoj:"
         \column {
-          "1. Etendu la langon kantante la -e de ume "
+          "1. Etendu la langon kantante la -e de um-e "
 		  "2. Kantante ŝubidubidu faru serpentan movon per unu brako."
 		  "3. Kantante ŝlingelingeling faru ambaŭmane de supre malsupren serpentan movon"
               \combine \null \vspace #0.5 % adds vertical spacing between verses

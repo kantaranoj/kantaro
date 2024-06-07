@@ -3,24 +3,21 @@
 
 \include "02bestokantoj/la-erinaco.ly"
 
-%%\include "02bestokantoj/katoj-katoj.ly"
+\include "02bestokantoj/katoj-katoj.ly"
 
 \include "02bestokantoj/blanka-muso.ly"
 
-%
 \include "02bestokantoj/rano-en-lageto.ly"
 
-%%\include "02bestokantoj/musxokanto.ly"
+\include "02bestokantoj/musxokanto.ly"
 
 
-%
 \include "02bestokantoj/la-elefantoj.ly"
 
 %%\include "02bestokantoj/festu-kun-mi.ly"
 
 %%\include "02bestokantoj/ara-araneo.ly"
 
-%
 \include "02bestokantoj/la-hipopotamo.ly"
 
 %%\include "02bestokantoj/papilio.ly"

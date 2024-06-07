@@ -1,4 +1,4 @@
-
+\tocItem \markup "La erinaco"
 
 \score {
 	\header {

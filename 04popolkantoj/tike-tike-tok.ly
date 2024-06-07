@@ -1,4 +1,4 @@
-
+\tocItem \markup "Tike tike tok"
 
 \score {
 	\header {

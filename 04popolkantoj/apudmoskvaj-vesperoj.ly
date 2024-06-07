@@ -1,5 +1,6 @@
 \version "2.20.0"
 
+\tocItem \markup "Apudmoskvaj vesperoj"
 \score {
 	\header {
 	  title = "Apudmoskvaj vesperoj"

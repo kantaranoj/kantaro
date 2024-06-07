@@ -1,3 +1,6 @@
+% kontrolindas la korespondo inter la notoj kaj ĉiu el la du strofoj (kiuj ĉiu havas malsaman kvanton da silaboj ĉe la fino)
+
+\tocItem \markup "Du amikoj"
 \score {
 	\header {
 	title = "Du amikoj"
@@ -17,8 +20,11 @@
 %	c8. c16 c8 d e4 c8 c d4 g8 g e4 c c8. c16 c8 d e4 c8 c d d g g c,2 
 	\autoBeamOn
 	} % relative
-	\addlyrics {
-Ku -- ne mi kaj vi --, a -- mi -- koj es -- tas ni, mi kaj vi, pli kaj pli, du a -- mi -- koj ni.
+	\addlyrics { \set stanza = #"1. " 
+Ku -- ne mi kaj vi --, a -- mi -- koj es -- tas ni, mi kaj vi, pli kaj pli, ami -- koj es -- tas ni.
+	}
+	\addlyrics { \set stanza = #"2. " 
+Ku -- ne mi kaj vi --, a -- mi -- koj es -- tas ni, mi kaj vi, pli kaj pli, du a -- mi -- koj ni!
 	}
 >>
 	} % transpose

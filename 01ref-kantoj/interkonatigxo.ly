@@ -1,3 +1,8 @@
+% ŝanĝis "li(ŝi)" al "li/ŝi"
+% anstataŭigis "kiu ni estas" per "kiuj ni estas"
+% korektis "Esperantistoj" al "esperantistoj" (laŭ PIV)
+
+\tocItem \markup "Interkonatiĝo"
 \score {
 	\header {
 	title = "Interkonatiĝo"
@@ -20,10 +25,10 @@
 	\autoBeamOn
 	} % relative
 	\addlyrics {
-Ki -- u vi es -- tas? Mi -- a no -- mo es -- tas ? -- ? -- ?
-Ki -- e vi lo -- ĝas? Mi lo -- ĝas  en ? -- ? 
-Ho li(ŝi) es -- tas ĝo -- ja, li(ŝi) ĝo -- jas,  li(ŝi) ĝo -- jas, 
-	ĝo -- je li(ŝi) pa -- ro -- las kaj kan -- tas la ? -- an.
+Ki -- u vi es -- tas? Mi -- a no -- mo es -- tas … -- … -- …
+Ki -- e vi lo -- ĝas? Mi lo -- ĝas  en … -- … 
+Ho li/ŝi es -- tas ĝo -- ja, li/ŝi ĝo -- jas,  li/ŝi ĝo -- jas, 
+	ĝo -- je li/ŝi pa -- ro -- las kaj kan -- tas la … -- an.
 
 	}
 >>
@@ -38,7 +43,7 @@ Ho li(ŝi) es -- tas ĝo -- ja, li(ŝi) ĝo -- jas,  li(ŝi) ĝo -- jas,
      \column {
       \line { \bold "Lasta strofo:"
         \column {
-          "Kiu ni estas? Ni estas Esperantistoj. "
+          "Kiuj ni estas? Ni estas esperantistoj. "
 		  "Kie ni loĝas? Ni loĝas en Esperantujo."
             } % column
       } % line
@@ -47,7 +52,22 @@ Ho li(ŝi) es -- tas ĝo -- ja, li(ŝi) ĝo -- jas,  li(ŝi) ĝo -- jas,
 		\column { "Ho ni estas ĝojaj, ni ĝojas, ni ĝojas," "ĝoje ni parolas kaj kantas Esperanton." " "
 		} %column
 	  } % line
-
 	}	
+  }
+}
+
+
+\markup {
+  \fill-line {
+    %\hspace #0.1 % moves the column off the left margin;
+     % can be removed if space on the page is tight
+     \column {
+      \line { \bold "Atentigo:"
+        \column {
+          "Oni kantas sinsekve por ĉiu ĉeestanto kaj tiu mem enmetas siajn nomon, landon kaj nacian lingvon."
+              \combine \null \vspace #0.5 % adds vertical spacing between verses
+            } % column
+      } %
+    }	
   }
 }

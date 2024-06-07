@@ -45,6 +45,7 @@ Ne dromedaroj, gxirafoj, la-la-lamoj
 al mi nur placxas hipo-po-po-tamoj
 kaj al hipopopotamoj placxas mi
 
+\tocItem \markup "Nia kato"
 \score {
 	\header {
 	title = "Nia kato"

@@ -6,7 +6,7 @@
 
 \include "01ref-kantoj/rugxan-pomon.ly"
 
-\include "01ref-kantoj/prikoloroj.ly"
+\include "01ref-kantoj/pri-koloroj.ly"
 
 \include "01ref-kantoj/lingvo-por-ni.ly"
 
@@ -20,6 +20,6 @@
 
 \pageBreak 
 
-\include "01ref-kantoj/la-avino-motociklas.ly"
+\include "01ref-kantoj/la-avino-motorciklas.ly"
 
 % \include "01ref-kantoj/vidu-vidu.ly" -- ankorau ne funkcias, necesas shanghi ion en la kodo, sed Felix ne scias kion.

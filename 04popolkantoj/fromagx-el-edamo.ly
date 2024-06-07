@@ -1,4 +1,4 @@
-
+\tocItem \markup "Fromaĝ' el Edamo"
 
 \score {
 	\header {

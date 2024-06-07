@@ -1,6 +1,7 @@
 % rugxa pomo estis lingve terura kaj mi tute reverkis gxin
 
 
+\tocItem \markup "Ruĝan pomon"
 \score {
 	\header {
 	title = "Ruĝan pomon"
@@ -19,7 +20,7 @@
 	\autoBeamOn
 	} % relative
 	\addlyrics {
-	Ru -- ĝan po -- mon, ru -- ĝan po -- mon, ha -- vas mi, ha -- vas mi, po -- mo: ne le -- go -- mo, po -- mo: ne le -- go -- mo, man -- ĝu vi, man -- ĝu vi.
+	Ru -- ĝan po -- mon, ru -- ĝan po -- mon, ha -- vas mi, ha -- vas mi. Po -- mo: ne le -- go -- mo; po -- mo: ne le -- go -- mo; man -- ĝu vi, man -- ĝu vi!
 	}
 >>
 	} % transpose
@@ -33,15 +34,15 @@
      \column {
       \line { \bold "2."
         \column {
-		"Nigran katon, nigran katon," " havas mi, havas mi."
-		"Kat' forpelas raton, kat' forpelas raton!" "Ĉarmas ĝi! Ĉarmas ĝi!"
+		"Nigran katon, nigran katon," "havas mi, havas mi."
+		"Kat' forpelas raton, kat' forpelas raton:" "Ĉarmas ĝi, ĉarmas ĝi."
            } % column
       } % line
 	  \combine \null \vspace #0.1 % adds vertical spacing between verses
       \line { \bold "3."
         \column {
-		"Bluan seĝon, bluan seĝon," "havas mi, havas mi,"
-		"seĝon ne por reĝo, seĝon ne por reĝo:" "Sidu vi, sidu vi!"
+		"Bluan seĝon, bluan seĝon," "havas mi, havas mi."
+		"Seĝon ne por reĝo, seĝon ne por reĝo:" "Sidu vi, sidu vi!"
         } % column
       } % line
     } % fill-line
@@ -49,15 +50,15 @@
     \column {
       \line { \bold "4."
         \column {
-		"Flavan floron, flavan floron" "havas mi, havas mi:"
+		"Flavan floron, flavan floron" "havas mi, havas mi."
 		"Flor' el mia koro, flor' el mia koro," "jen por vi, jen por vi."
         } % column
       } % line
       \combine \null \vspace #0.1 % adds vertical spacing between verses
       \line { \bold "5."
         \column {
-		"Verdan stelon, verdan stelon" "havas mi, havas mi,"
-		"en Esperantujo, en Esperantujo," "kiel vi, kiel vi!"
+		"Verdan stelon, verdan stelon" "havas mi, havas mi."
+		"En Esperantujo, en Esperantujo," "kiel vi, kiel vi."
                 " "
                 " "
                  } % column

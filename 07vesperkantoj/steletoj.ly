@@ -1,4 +1,4 @@
-
+\tocItem \markup "Steletoj"
 
 \score {
 	\header {

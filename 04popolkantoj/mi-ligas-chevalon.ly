@@ -1,4 +1,4 @@
-
+\tocItem \markup "Mi ligas ĉevalon"
 
 \score {
 	\header {

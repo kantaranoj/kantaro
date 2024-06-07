@@ -1,5 +1,6 @@
 \version "2.20.0"
 
+\tocItem \markup "La glorkanto de UEA"
 \score {
 	\header {
 	title = "La glorkanto de UEA"

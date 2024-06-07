@@ -1,4 +1,4 @@
-
+\tocItem \markup "Kukolo"
 
 \score {
 	\header {

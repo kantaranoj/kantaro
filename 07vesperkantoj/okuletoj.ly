@@ -1,4 +1,4 @@
-
+\tocItem \markup "Okuletoj, dormu nun"
 
 \score {
 	\header {

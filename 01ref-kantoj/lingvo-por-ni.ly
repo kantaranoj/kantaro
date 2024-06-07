@@ -1,4 +1,6 @@
 \version "2.20.0"
+
+\tocItem \markup "Lingvo por ni"
 \score {
 	\header {
 	title = "Lingvo por ni"

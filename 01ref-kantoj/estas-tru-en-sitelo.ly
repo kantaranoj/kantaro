@@ -7,6 +7,7 @@
 % Kio estas 'staranta pajlo'? En la originalo gxi tro longas kaj estas dehakita per hakilo.
 
 
+\tocItem \markup "Estas tru' en sitelo"
 \score {
 	\header {
 	title = "Estas tru' en sitelo"

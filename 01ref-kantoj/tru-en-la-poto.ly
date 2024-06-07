@@ -30,6 +30,7 @@
 % Per kio mi portu akvon -- Per poto 
 
 
+\tocItem \markup "Truo en la poto"
 \score {
 	\header {
 	title = "Truo en la poto"

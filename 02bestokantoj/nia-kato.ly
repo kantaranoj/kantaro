@@ -1,4 +1,4 @@
-
+\tocItem \markup "Nia kato"
 
 \score {
 	\header {
