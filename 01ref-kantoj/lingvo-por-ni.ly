@@ -1,3 +1,10 @@
+% KantarVikio havas ĝin sub la titolo "La kri'": https://kantaro.ikso.net/la_kri
+
+% Marek:
+% korektis aŭdigas → aŭdiĝas
+% ŝanĝis samideanaro → gesamideanoj por pli granda vokala varieco
+% tradicia dua strofo, ĉi tie ellasita, parolis pri "sovaĝaj nigruloj sen Di'"; la libro "Kantoj por ĝojo" ĝin ŝanĝis al "nigruloj sen teknologi'" kaj tia ĝi eble estas reenmetinda por havi pli ol nur du "popolojn" en la kanto?
+
 \version "2.20.0"
 
 \tocItem \markup "Lingvo por ni"
@@ -33,13 +40,13 @@
 	}
         \addlyrics {  \set stanza = #"2. "
         Ĉe nor -- da po -- lu -- so es -- ki -- moj vi -- va -- das en neĝ' kaj gla -- ci',
-	se i -- li be -- zo -- nas pa -- ro -- lon aŭ -- di -- gas tut -- sa -- me la kri'.
+	se i -- li be -- zo -- nas pa -- ro -- lon, aŭ -- di -- ĝas tut -- sa -- me la kri'.
 	Es -- pe -- ran -- to es -- tas la ling -- vo por ni, por ni, 
 	Es -- pe -- ran -- to es -- tas la ling -- vo por ni.
 }
         \addlyrics {  \set stanza = #"3. "
         Sur tu -- ta la vas -- ta ter -- glo -- bo en ur -- boj de ĉi -- u na -- ci'
-	tro -- vi -- ĝas sam -- i -- de -- a -- na -- ro kaj so -- nas de bu -- ŝoj la kri'.
+	tro -- vi -- ĝas ge -- sam -- i -- de -- a -- noj kaj so -- nas de bu -- ŝoj la kri'.
 }
 >>
 	} % transpose

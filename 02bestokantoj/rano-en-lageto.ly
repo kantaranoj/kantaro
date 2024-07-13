@@ -27,19 +27,19 @@
 	\autoBeamOn
 	} % relative
 	\addlyrics { \set stanza = #"1. "
-Um -- e fa -- ras ra -- no en la -- get', um -- e fa -- ras e -- ta ran'.
-Um -- e fa -- ras ra -- no en la -- get', an -- sta -- taŭ kŭa kŭa kŭa.
+Um- e fa -- ras ra -- no en la -- get', um- e fa -- ras e -- ta ran'.
+Um- e fa -- ras ra -- no en la -- get', an -- sta -- taŭ kŭa kŭa kŭa.
 Kaj la fi -- ŝoj en la a -- kvo fa -- ras
-ŝu -- bi --du --bi --du, ŝu -- bi --du --bi --du, ŝu -- bi --du --bi --du,
-kaj la fi -- ŝoj en la a -- kvo fa -- ras ŝu -- bi --du --bi --du, 
+ŝu -- bi -- du -- bi -- du, ŝu -- bi -- du -- bi -- du, ŝu -- bi -- du -- bi -- du,
+kaj la fi -- ŝoj en la a -- kvo fa -- ras ŝu -- bi -- du -- bi -- du, 
 kaj la ra -- no fa -- ras um-e.
 	}
 \addlyrics { \set stanza = #"2. "
-Um -- e fa -- ras ra -- no en la -- get', um -- e fa -- ras e -- ta ran'.
-Um -- e fa -- ras ra -- no en la -- get', an -- sta -- taŭ kŭa kŭa kŭa.
-Kaj la al -- goj en la a -- kvo fa -- ras ŝli -- nge -- li -- nge -- ling,
-ŝli -- nge -- li -- nge -- ling, ŝli -- nge -- li -- nge -- ling
-Kaj la al -- goj en la a -- kvo fa -- ras ŝli -- nge -- li -- nge -- ling,
+Um- e fa -- ras ra -- no en la -- get', um- e fa -- ras e -- ta ran'.
+Um- e fa -- ras ra -- no en la -- get', an -- sta -- taŭ kŭa kŭa kŭa.
+Kaj la al -- goj en la a -- kvo fa -- ras ŝlin -- ge -- lin -- ge -- ling,
+ŝlin -- ge -- lin -- ge -- ling, ŝlin -- ge -- lin -- ge -- ling,
+kaj la al -- goj en la a -- kvo fa -- ras ŝlin -- ge -- lin -- ge -- ling,
 kaj la ra -- no fa -- ras um-e.
 	}
 >>
@@ -52,11 +52,11 @@ kaj la ra -- no fa -- ras um-e.
     %\hspace #0.1 % moves the column off the left margin;
      % can be removed if space on the page is tight
      \column {
-      \line { \bold "Atentigoj:"
+      \line { \bold "Klarigoj:"
         \column {
-          "1. Etendu la langon kantante la -e de um-e "
-		  "2. Kantante ŝubidubidu faru serpentan movon per unu brako."
-		  "3. Kantante ŝlingelingeling faru ambaŭmane de supre malsupren serpentan movon"
+          "1. Etendu la langon kantante la \"-e\" de \"um-e\"."
+		  "2. Kantante \"ŝubidubidu\" faru serpentan movon per unu brako."
+		  "3. Kantante \"ŝlingelingeling\" faru ambaŭmane de supre malsupren serpentan movon."
               \combine \null \vspace #0.5 % adds vertical spacing between verses
 
             } % column

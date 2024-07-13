@@ -2,7 +2,7 @@
 \score {
 	\header {
 	title = "Veterokanto"
-%	subtitle = "Originala titolo: Meine Oma fährt im Hühnerstall Motorrad"
+%	subtitle = "Originala titolo: "
 %	subsubtitle = "Tradukis"
 	}
 <<

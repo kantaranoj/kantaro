@@ -28,7 +28,7 @@
 		     lon -- ge de nun, lon -- ge nun!
 		     Of -- te tur -- men -- tis min pe -- za ĉa -- gren',
 		     ĉi -- o e -- li -- ĝis per vi -- a re -- ven', es -- tas ja
-		     l'_am' ki -- el bri -- la ru -- ben', long -- ge de nun,
+		     l'_am' ki -- el bri -- la ru -- ben', lon -- ge de nun,
 		     lon -- ge nun!
 	} %addlyrics
 	\addlyrics { \set stanza = #"2. "
@@ -39,17 +39,17 @@
 		     Mi nur pe -- na -- dis por vi -- a fa -- vor',
 		     vi min a -- mu -- zis per ga -- ja hu -- mor',
 		     res -- tis de_l' a -- mo plej dol -- ĉa me -- mor',
-		     long -- ge de nun, lon -- ge nun!
+		     lon -- ge de nun, lon -- ge nun!
 		   } %addlyrics
 	\addlyrics { \set stanza = #"3. "
 		     Mul -- taj a -- li -- aj fla -- ta -- dis ja vin,
 		     lon -- ge de nun, lon -- ge de nun;
 		     ta -- men vi a -- mis fi -- de -- le nur min,
 		     lon -- ge de nun, lon -- ge nun!
-		     A -- mon ti -- mi -- gas nek tent', nek dan -- ĝer,
+		     A -- mon ti -- mi -- gas nek tent', nek dan -- ĝer',
 		     es -- tas kun vi pa -- ra -- di -- zo sur ter',
 		     dol -- ĉe so -- no -- ras fe -- li -- ĉa mis -- ter',
-		     long -- ge de nun, lon -- ge nun!
+		     lon -- ge de nun, lon -- ge nun!
 			   } %addlyrics
 
 >>

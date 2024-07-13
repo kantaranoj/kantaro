@@ -4,7 +4,7 @@
 \include "04popolkantoj/fromagx-el-edamo.ly"
 \include "04popolkantoj/iamo-longe-for.ly"
 \include "04popolkantoj/iris-knabineto.ly"
-\include "04popolkantoj/katjushka.ly"
+\include "04popolkantoj/katjusxka.ly"
 \include "04popolkantoj/kukolo.ly"
 \include "04popolkantoj/marisxa-kisu-min.ly"
 \include "04popolkantoj/mi-ligas-chevalon.ly"

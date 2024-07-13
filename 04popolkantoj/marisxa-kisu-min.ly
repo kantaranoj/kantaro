@@ -11,7 +11,8 @@
 	    \time 2/4
 	    \key c \major
    	    \autoBeamOff
-	    e8 g g g e g g g f4 a a r b8 b a b b b a b c4 e4 c r
+	    \repeat volta 2 {
+	    e8 g g g e g g g f4 a a r b8 b a b b b a b c4 e4 c r }
 				% rekantaĵo
 	    \repeat volta 2 {
 	    r8 g\fermata a\fermata b\fermata c c c4 r8 c b a b b b4

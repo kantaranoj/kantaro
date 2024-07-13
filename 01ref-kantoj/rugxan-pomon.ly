@@ -1,3 +1,4 @@
+% komento de E. Werner:
 % rugxa pomo estis lingve terura kaj mi tute reverkis gxin
 
 

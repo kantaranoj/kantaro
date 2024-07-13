@@ -4,7 +4,7 @@
 \score {
 	\header {
 	  title = "Apudmoskvaj vesperoj"
-	  subsubtitle = "rusa popolkanto"
+	  subsubtitle = "laŭ la rusa kanto Подмосковные вечера de Miĥail Matusovskij kaj Vasilij Solovjov-Sedoj"
 	}
 	
 	\transpose c c' { <<
@@ -39,16 +39,16 @@
 		     kaj sen -- vor -- tas ni en si -- lent'.
 		   } %addlyrics
 	\addlyrics { \set stanza = #"3. "
-		     A -- ma -- ti -- no, vi kun sub -- ti -- la spir'.
-		     Ne ri -- gar -- das min kun bon -- vol'.
-		     Mal -- fa -- ci -- le tre la kon -- fe -- sa dir'.
+		     A -- ma -- ti -- no, vi kun sub -- ti -- la spir',
+		     ne ri -- gar -- das min kun bon -- vol'.
+		     Mal -- fa -- ci -- las tre la kon -- fe -- sa dir'.
 		     Ne ka -- pab -- las mi al pa -- rol'.
 		   } %addlyrics
 	\addlyrics { \set stanza = #"4. "
 		     Ma -- ten -- ru -- ĝo jam tre prok -- si -- mas nun.
 		     Do mi pe -- tas vin kun sin -- cer'.
-		     Ne for -- ge -- su vi nok -- tan lu -- mon nun
-		     a -- pud -- mos -- kva urb' en so -- "" -- mer'.
+		     Ne for -- ge -- su vi nok -- tan lu -- mon nun.
+		     A -- pud -- mos -- kva urb' en so _ -- mer'.
 		   } %addlyrics
 >>
 	} % transpose

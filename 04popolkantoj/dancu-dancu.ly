@@ -3,7 +3,7 @@
 \score {
 	\header {
 	  title = "Dancu, dancu"
-	  subsubtitle = "ĉeĥa popolkanto, trad. Tomas Pumpr"
+	  subsubtitle = "ĉeĥa popolkanto, tradukis Tomáš Pumpr"
 	}
 	
 	\transpose c c' { <<
@@ -37,3 +37,4 @@
 
 
 
+	

@@ -1,9 +1,9 @@
-\tocItem \markup "Vent', printempa"
+\tocItem \markup "Vent' printempa"
 
 \score {
 	\header {
-	  title = "Vent', printempa"
-	  subsubtitle = "hungara popolkanto, trad. Ferenc Jáki"
+	  title = "Vent' printempa"
+	  subsubtitle = "hungara popolkanto, tradukis Ferenc Jáki"
 	}
 	
 	\transpose c c' { <<

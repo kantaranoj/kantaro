@@ -1,5 +1,7 @@
 \version "2.20.0"
 
+% E. Werner komentis:
+
 % mi konas gxin kiel 'Wenn der Topf aber ein Loch hat' ...
 % la aktoroj estas cxi tie intersxangxitaj kaj la strukturo
 % 1. Sxi: Se ...? 2. Li: Faru jenon! 3. Sxi: Kiel 4. Li: Per jenon! perdigxis.

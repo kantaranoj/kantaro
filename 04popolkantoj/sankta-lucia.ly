@@ -3,7 +3,7 @@
 \score {
 	\header {
 	  title = "Sankta Lucia"
-	  subsubtitle = "nordia vintra solstica lumkanto, trad. Eckard Bick"
+	  subsubtitle = "nordia vintra solstica lumkanto, tradukis Eckhard Bick"
 	}
 	
 	\transpose c c' { <<
@@ -40,10 +40,10 @@
 	\addlyrics { \set stanza = #"2. "
 		     Mu -- te gran -- das nokt', kaj nun ek -- zu -- mas, tra_l' tut -- si --
 		     len -- ta dom', ki -- el de plu -- mar'. Vi -- du, en blan -- ka bel'
-		     sta -- ras kun har -- kan del',
+		     sta -- ras kun har -- kan -- del',
 	} %addlyrics
 	\addlyrics { \set stanza = #"3. "
-		     "\"Mal" -- lu -- mo fuĝas nun de val' kaj mon -- "to.\"," pro -- fe -- tas
+		     "\"Mal" -- lu -- mo fuĝas nun de val' kaj mon -- "to,\"" pro -- fe -- tas
 		     ti -- el ŝi pri lum' es -- ton -- ta. Re -- ve -- nos ru -- ĝa tag'
 		     aŭ -- ro -- re su -- per lag'.
 	} %addlyrics

@@ -1,10 +1,12 @@
 \version "2.20.0"
 
+% Marek: alternativan renkantaĵon mi kaj Feliks elpensis jene: "Ĉar la kroko-, ĉar la kroko-, ĉar la krokodilo fuĝis de sur bord' de Nil', pri ĝi ne kantu plu" – tio evitas la nekompreneblajn francismojn "se" = "ĉar", "malaperi for el io", kaj "ni ne parolu plu" = "oni ne parolu pri ĝi"
+
 \tocItem \markup "La krokodil'"
 \score {
 	\header {
 	title = "La krokodil'"
-	subsubtitle = "El la franca"
+	subsubtitle = "El la franca tradukis Lidia Zamenhof"
 	}
 	
 	\transpose c c' {
@@ -61,8 +63,8 @@
 	} %addlyrics
 	\addlyrics { \set stanza = #"3. "
 	Ĉe Ni -- lo -- bor -- do zu -- mis ĝi -- a kan -- to 
-	kaj ĉi -- o tre -- mis ĉe la bord‘ de Nil',
-	sed – su -- bi -- te ve -- nis e -- le -- fan -- to 
+	kaj ĉi -- o tre -- mis ĉe la bord' de Nil',
+	sed _ -- su -- bi -- te ve -- nis e -- le -- fan -- to 
 	kaj mal -- a -- pe -- ris bra -- va kro -- ko -- dil'.
 
 	} %addlyrics

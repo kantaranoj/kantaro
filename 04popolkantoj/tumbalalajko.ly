@@ -3,6 +3,7 @@
 \score {
 	\header {
 	  title = "Tumbalalajko"
+          subtitle = "jida popolkanto טום־באַלאַלײַקע"
 	  subsubtitle = "laŭ traduko de Claude Piron"
 	}
 	
@@ -47,8 +48,8 @@
 	   kun ki -- u i -- ri sen ko -- ron ŝi -- ri,
 	   ki -- un kun -- pre -- ni, sed ne ĉa -- gre -- ni?
 	   % rekantaĵo
-	   Tum -- ba -- la, tum -- ba -- la, tum -- ba -- la -- laj -- ko,
-           tum -- ba -- la, tum -- ba -- la, tum -- ba -- la -- laj -- ko,
+	   Tum -- ba -- la-, tum -- ba -- la-, tum -- ba -- la -- laj -- ko,
+           tum -- ba -- la-, tum -- ba -- la-, tum -- ba -- la -- laj -- ko,
            nu, ba -- la -- laj -- ko, pli laŭ -- te, pli,
            kun ba -- la -- laj -- ko nun ĝoju ni!
 
@@ -56,7 +57,7 @@
 %	\addlyrics {
 	\new Lyrics \lyricsto "aldo" {
 	\set stanza = #"2. "
-	Ka -- ru lin', res -- pon -- di vi pro -- vu:
+	Ka -- ru -- lin', res -- pon -- di vi pro -- vu:
 	ki -- o sen plu -- vo kres -- kas, vi tro -- vu!
 	Ki -- o bru -- lan -- te bru -- las sen fla -- mi,
 	ki -- o plo -- ran -- te plo -- ras sen lar -- mi?

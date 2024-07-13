@@ -1,3 +1,4 @@
+% komentoj de E. Werner:
 % pri koloroj do ne havas rimojn en la germana, sed ŝajnas iom fuŝa, 
 % do mi reverkis la tekston
 % Verdas, verdas ... esperantiston ...

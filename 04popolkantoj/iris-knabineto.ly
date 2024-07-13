@@ -1,9 +1,11 @@
+% Marek: la registraĵoj de la pola kanto en Jutubo enhavas plian tekston por la loko kie la nuna Esperanta havas nur "la la la" – eblus altraduki tion
+
 \tocItem \markup "Iris knabineto"
 
 \score {
 	\header {
 	  title = "Iris knabineto"
-	  subsubtitle = "pola kanto"
+	  subsubtitle = "pola titolo: Szła dzieweczka do laseczka"
 	}
 	
 	\transpose c c' { <<
@@ -27,10 +29,13 @@
 	\addlyrics { \set stanza = #"1. "
 		     Kna -- bi -- ne -- to ar -- ba -- re -- ton i -- ris
 		     kun la ĝoj', i -- ris kun la ĝoj', i -- ris kun la ĝoj'
-		     kaj ren -- kon -- tis ĉa -- sis -- t -- ton sur la sa -- ma voj',
+		     kaj ren -- kon -- tis ĉa -- sis -- te -- ton sur la sa -- ma voj',
 		     sur la sa -- ma voj', sur la sa -- ma voj'.
 				% rekantaĵo
-		     La la la, la la la, la la la ktp.
+		     La la_la la, la la_la la, la la la la,
+		     la la_la la, la la_la la, la la la la,
+		     la la_la la, la la_la la, la la la la,
+		     la la la, la la la, la la la, la.
 	
 	} %addlyrics
 	\addlyrics { \set stanza = #"2. "

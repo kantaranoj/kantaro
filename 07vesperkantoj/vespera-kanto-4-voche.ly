@@ -39,7 +39,7 @@
 	   \set stanza = #"1. "
 		     La lu -- no sur -- ĉi -- e -- le jam sta -- ras kaj or -- he -- le la
 		     ste -- loj bri -- las jen. Si -- len -- tas la ar -- bar -- ro, kaj
-		     el la her -- bo -- ma -- ro le -- vi -- ĝas nun ne -- bul -- kur ten'. __
+		     el la her -- bo -- ma -- ro le -- vi -- ĝas nun ne -- bul -- kur -- ten'. __
 	} % lyrics
 				%	\addlyrics {
 	\new Lyrics \lyricsto "soprano" {

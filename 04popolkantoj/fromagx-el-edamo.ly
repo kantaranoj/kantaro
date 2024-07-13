@@ -26,12 +26,12 @@
 	       \set stanza = #"1. "
 	       Li es -- tis ma -- ri -- to fi -- de -- la,
 	       ki -- u post lon -- ga vo -- jaĝ', __
-	       al la fi -- an -- ĉi -- no en hej -- ma vi -- laĝ,
+	       al la fi -- an -- ĉi -- no en hej -- ma vi -- laĝ',
 	       re -- ve -- nis kun bu -- lo da fro -- maĝ'.
 				% rekontaĵo
 	       Fro -- maĝ' el E -- da -- mo, ĝi es -- tu por vi
 	       pri mi -- a a -- mo la ga -- ran -- ti'. __
-	       Kon -- ser -- vu ĝin pi -- e, sub sil -- ka pa -- per'
+	       Kon -- ser -- vu ĝin pi -- e sub sil -- ka pa -- per'
 	       kaj ĝin vi -- dan -- te, pen -- su pri mi dum ves -- per'. __
 	     } %addlyrics
 	\addlyrics {
@@ -39,11 +39,11 @@
 	       Sed ni -- a ma -- ri -- to tuj de -- vis
 	       i -- ri por no -- va ve -- tur' __
 	       kaj li -- a fraŭ -- li -- no kun plo -- ra mur -- mur'
-	       pro -- me -- sis per plej so -- le -- na ĵur:	       
+	       pro -- me -- sis per plej so -- le -- na ĵur:
 				% rekontaĵo
-	       Fro -- maĝ' el E -- da -- mo, mi ĵu -- ras al vi
+	       Fro -- maĝ' el E -- da -- mo, mi ĵu -- ras al vi,
 	       ke mi -- a a -- mo nur es -- tos li. __
-	       Mi gar -- dos vin pi -- e, ĝis mi -- a a -- mant'
+	       Mi gar -- dos vin pi -- e ĝis mi -- a a -- mant'
 	       re -- ve -- nos por ed -- zi -- ĝi el trans -- ma -- ra land'. __
 	     } %addlyrics
 	\addlyrics {
@@ -55,19 +55,19 @@
 				% rekontaĵo
 	       Fro -- maĝ' el E -- da -- mo, vi es -- tos por mi
 	       pri mi -- a a -- mo la ga -- ran -- ti'. __
-	       Mi ĝo -- je re -- ko -- nas, de li -- a vi -- zaĝ'
+	       Mi ĝo -- je re -- ko -- nas de li -- a vi -- zaĝ'
 	       la ka -- rajn traj -- tojn nun en ti -- u ĉi fro -- maĝ'. __
 	     } %addlyrics
 	\addlyrics {
 	       \set stanza = #"4. "
 	       Sed ŝi -- a ma -- ris -- to pe -- re -- is.
-	       Ve!, en la on -- doj de_l' mar'. __
+	       Ve, en la on -- doj de_l' mar'. __
 	       Ŝi ti -- on ek -- sci -- is sen an -- taŭ -- pre -- par'
 	       nur per te -- le gra -- ma for -- mu -- lar'.
 				% rekontaĵo
 	       Fro -- maĝ' el E -- da -- mo, nin tra -- fis la sort',
 	       jen te -- le gra -- mo pri li -- a mort'. __
-	       To -- ren -- te plo -- ran -- te, la bo -- na fraŭ -- lin...
+	       To -- ren -- te plo -- ran -- te, la bo -- na fraŭ -- lin'...
 	       dis -- tran -- ĉis la fro -- ma -- ĝon kaj for -- man -- ĝis ĝin!
 	     } %addlyrics
 

@@ -1,10 +1,13 @@
 \version "2.20.0"
 
+% Marek: sen aŭdi la germanan originalon, mi pensis ke "jen X, tie X" rilatas al la sama X; pro tio la 2-a strofo strangis al mi, ĉar kiel povus esti akvofalo inter unusola lago? pli bone estu ekz. "tie lago, plia lago" aŭ "jen la lagoj, tie lagoj"
+
 \tocItem \markup "La elefantoj"
 \score {
 	\header {
 	title = "La elefantoj"
-	subsubtitle = "El la germana"
+        %title = "Kiaj estas tiuj arboj nur"
+	subsubtitle = "Germana titolo: Was müssen das für Bäume sein"
 	}
 	
 	\transpose c bes {

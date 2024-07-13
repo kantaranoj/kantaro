@@ -6,12 +6,13 @@
 % 1. Sxi: Se ...? 2. Li: Faru jenon! 3. Sxi: Kiel 4. Li: Per jenon! perdigxis.
 % Kio estas 'staranta pajlo'? En la originalo gxi tro longas kaj estas dehakita per hakilo.
 
+% Marek: mi grandparte korektis la kvanton de silaboj (4 kiam parolas Lizbeto, 7 kiam parolas Henriko), krom unu loko (la malsekigado de la ŝtono) kie neniu el la ebloj estas plene kontentiga, kiel indikite
 
 \tocItem \markup "Estas tru' en sitelo"
 \score {
 	\header {
 	title = "Estas tru' en sitelo"
-	subtitle = "Originala titolo: Theres a hole in my bucket"
+	subtitle = "Originala titolo: There's a hole in my bucket"
 	}
 	
 	\transpose c c' {
@@ -56,15 +57,15 @@
      \column {
       \line {
         \column {
-		"Ĝin riparu ... Henriko, riparu."
-"Sed per kio ripari, ... Lizbeto, per kio?"
-"Ho, per pajlo, ... Henriko, per pajlo."
-"Sed la greno ankoraŭ staras, ... Lizbeto, ĝi staras."
-"Do ĝin falĉu, ... Henriko, ĝin falĉu."
-"Sed per kio ĝin falĉi, ... Lizbeto, per kio?"
-"Per falĉilo, ... Henriko, per falĉilo."
-"Tro malakra ĝi estas, ... Lizbeto, tro malakra."
-"Ĝin akrigu, ... Henriko, ĝin akrigu."
+		"Ĝin riparu, Henriko ... riparu."
+"Sed per kio ripari, Lizbeto ... per kio?"
+"Ho, per pajlo, Henriko ... per pajlo."
+"Sed ankoraŭ gren' staras, Lizbeto ... gren' staras."
+"Do ĝin falĉu, Henriko ... ĝin falĉu."
+"Sed per kio ĝin falĉi, Lizbeto ... per kio?"
+"Per falĉilo, Henriko ... falĉilo."
+"Tro malakra ĝi estas, Lizbeto ... malakra."
+"Ĝin akrigu, Henriko ... akrigu."
            } % column
       } % line
     } % fill-line
@@ -72,15 +73,16 @@
     \column {
        \line {
         \column {
-"Sed per kio ĝin akrigi ... Lizbeto, per kio?"
-"Ho, per ŝtono ...  Henriko, per ŝtono."
-"Sed ĝi estas tro seka, ... Lizbeto, tro seka."
-"Do, ĝin faru malseka, ... Henriko, malseka."
-"Sed per kio tion fari, ... Lizbeto, per kio?"
-"Ho, per akvo ... Henriko, per akvo."
-"Sed per kio ĝin ĉerpi ... Lizbeto, per kio?"
-"Per sitelo, ... Henriko, per sitelo."
-"Estas tru' en sitelo, ... Lizbeto, jes truo."
+"Sed per kio akrigi, Lizbeto ... per kio?"
+"Ho, per ŝtono Henriko ... per ŝtono."
+"Sed ĝi estas tro seka, Lizbeto ... tro seka."
+"Do, ĝin faru malseka, Henriko ... malseka."
+% aŭ: "Malsekigu, Henriko ... malsekigu."
+"Sed per kio ĝin fari, Lizbeto ... per kio?"
+"Ho, per akvo, Henriko ... per akvo."
+"Sed per kio ĝin ĉerpi, Lizbeto ... per kio?"
+"Per sitelo, Henriko ... per sitelo."
+"Estas tru' en sitelo, Lizbeto ... jes truo."
 		" "
 		" "
 

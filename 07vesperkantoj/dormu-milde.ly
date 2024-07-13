@@ -3,7 +3,8 @@
 \score {
 	\header {
 	  title = "Dormu milde"
-	  composer = "Kajto"
+	  composer = "Nanne Kalma (el Kajto)"
+          poet = "Marcelo Redoulez"
 	}
 	
 	\transpose c c' {
@@ -26,9 +27,9 @@
 	\addlyrics {
 	  \set stanza = #"1. "
 	  Su -- no moŝ -- ta post mi -- nu -- to, di -- a -- fa -- na gem -- ru -- be -- no,
-	  ri -- ve ren -- cos kun sa -- lu -- to al la nok -- ta su -- ve -- re -- no.
+	  ri -- ve -- ren -- cos kun sa -- lu -- to al la nok -- ta su -- ve -- re -- no.
 	  Lu -- no bri -- la el sa -- te -- no jam ar -- ĝen -- ta en ĉi -- e -- lo.
-	  Ĉi -- o mu -- tas en se -- re -- no, dor -- mu mil -- de bri  -- las ste -- lo.
+	  Ĉi -- o mu -- tas en se -- re -- no, dor -- mu mil -- de, bri  -- las ste -- lo.
 	} %lyrics
 
 	\addlyrics {
@@ -42,7 +43,7 @@
 	\addlyrics {
 	  \set stanza = #"3. "
 	  Nek dis -- ku -- to, nek dis -- pu -- to, fo -- ren plu -- as la pro -- me -- no
-	  en ku -- pe -- o aŭ ka -- ju -- to trans la mon -- toj ĝis ha -- ve -- no.
+	  en ku -- pe -- o aŭ ka -- ju -- to trans la mon -- tojn ĝis ha -- ve -- no.
 	  Mor -- gaŭ flo -- ros la ma -- te -- no, be -- los ki -- el ak -- va -- re -- lo,
 	  sed si -- len -- te nun sen ĝe -- no dor -- mu mil -- de, bri -- las ste -- lo.
 	} %lyrics

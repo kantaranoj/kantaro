@@ -89,7 +89,7 @@
 	\combine \null \vspace #0.05 % adds vertical spacing between verses
       \line { \bold "9." "|: Karaj bestoj, kiun lingvon vi parolas," }
       \line { "karaj bestoj, kion diras vi? :|" }
-      \line { "(ĉiu beston laŭ sia plaĉo)" }
+      \line { "(ĉiu faru beston laŭ sia plaĉo)" }
       \line { "_-_, _-_-_, _-_, _, _…" }
       \line { "_-_, _-_-_, _-_, _, _…" }
       \line { "_-_, _-_-_, _-_, _, _…" }

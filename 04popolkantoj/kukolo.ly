@@ -3,7 +3,7 @@
 \score {
 	\header {
 	  title = "Kukolo"
-	  subsubtitle = "Ĉeĥa popolkanto, trad. J. Cink"
+	  subsubtitle = "ĉeĥa popolkanto, tradukis Josef Cink"
 	}
 	
 	\transpose c c' { <<
@@ -28,11 +28,11 @@
 	} % relative
 	\addlyrics { \set stanza = #"1. "
 		     De -- zi -- ran -- te trin -- ki hal -- tis mi de fon -- te -- to ĉe rand',
-		     jen aŭ -- di -- ĝis el ar -- ba -- ra fon' de ku -- ko -- lo la kant'.
+		     jen aŭ -- di -- ĝis el ar -- ba -- ra fon' de ku -- ko -- lo la kant':
 				% rekantaĵo
 		     Ho -- la -- la!
-		     Ho -- la -- la ti -- ri -- a ho -- la -- la ku -- ku.
-		     ho -- la -- la ti -- ri -- a ho -- la -- la ku -- ku!
+		     Ho -- la -- la ti -- ri -- a ho -- la -- la ku -- ku!
+		     Ho -- la -- la ti -- ri -- a ho -- la -- la ku -- ku!
 		     ho!
 	} %addlyrics
 	\addlyrics { \set stanza = #"2. "

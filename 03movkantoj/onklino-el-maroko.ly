@@ -4,7 +4,7 @@
 \score {
   \header {
   title = "La Onklino el Maroko"
-  subsubtitle = "el la germana"
+  subsubtitle = "laŭ germana alternativa teksto por usona popolkanto She'll Be Coming 'Round the Mountain"
   }
   
   <<
@@ -29,10 +29,10 @@
     } 
     \new Lyrics \lyricsto "melodio"
       {
-        La on -- kli -- no el Ma -- ro -- ko ve -- nos ŝi 
-        La on -- kli -- no el Ma -- ro -- ko ve -- nos ŝi
+        La on -- kli -- no el Ma -- ro -- ko ve -- nos ŝi. 
+        La on -- kli -- no el Ma -- ro -- ko ve -- nos ŝi.
         La on -- kli -- no el Ma -- ro -- ko, la on -- kli -- no el Ma -- ro -- ko,
-        La on -- kli -- no el Ma -- ro -- ko ve -- nos ŝi
+        la on -- kli -- no el Ma -- ro -- ko ve -- nos ŝi.
       }
 >>
 
@@ -61,3 +61,18 @@
   }
 }
 
+\markup {
+  \fill-line {
+    %\hspace #0.1 % moves the column off the left margin;
+     % can be removed if space on the page is tight
+     \column {
+      \line { \bold "Klarigo:"
+        \column {
+          "Kun la sono simbola por ĉiu strofo oni faru ankaŭ taŭgan movon aŭ geston."
+              \combine \null \vspace #0.5 % adds vertical spacing between verses
+
+            } % column
+      } %
+	}	
+  }
+}

@@ -27,7 +27,7 @@
 	\addlyrics { \set stanza = #"1. "
 		     La lu -- no sur -- ĉi -- e -- le jam sta -- ras kaj or -- he -- le la
 		     ste -- loj bri -- las jen. Si -- len -- tas la ar -- bar -- ro, kaj
-		     el la her -- bo -- ma -- ro le -- vi -- ĝas nun ne -- bul -- kur ten'. __
+		     el la her -- bo -- ma -- ro le -- vi -- ĝas nun ne -- bul -- kur -- ten'. __
 	} %addlyrics
 	\addlyrics { \set stanza = #"2. "
 		     La ta -- go a -- di -- aŭ -- as, kre -- pus -- ko nun ĉir -- kaŭ -- as la

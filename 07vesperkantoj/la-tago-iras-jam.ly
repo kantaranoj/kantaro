@@ -48,12 +48,12 @@
 	} %lyrics
 	\new Lyrics \lyricsto "soprano"	 {
 	 \set stanza = #"3. "
-	 Sus -- pi -- ro flu -- gas, aŭ -- du ĝin, tra la fe -- nest' al vi, flus --
+	 Sus -- pi -- ro flu -- gas, aŭ -- du ĝin, tra la fe -- nestr' al vi, flus --
 	 tran -- te, ke vi ra -- vis min, kaj ki -- el far -- tas mi.
 		   } %lyrics
 	\new Lyrics \lyricsto "soprano"	 {
 	 \set stanza = #"4. "
-	 Vi bo -- nan nok -- ton ha -- vu nun, su -- fer' kaj ĝu de mi! Post
+	 Vi bo -- nan nok -- ton ha -- vu nun, su -- fer' kaj ĝu' de mi! Post
 	 la a -- pe -- ro de la sun' ko -- mu -- ne es -- tu ni!
 		   } %lyrics
 

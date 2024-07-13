@@ -4,7 +4,7 @@
 	\header {
 	  title = "Vespera kanto"
 	  composer = "transskribo de Z. Kodály"
-	  subsubtitle = "el la hungara tradukis K. Kalocsay"
+	  subsubtitle = "el la hungara tradukis Kálmán Kalocsay"
 	}
 	
 	\transpose c c' {

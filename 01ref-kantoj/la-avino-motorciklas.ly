@@ -1,3 +1,7 @@
+% Marek:
+% korektis ĉie "motociklas" al "motorciklas"
+% mi neniam sciis imagi "kalvon kun barilo"
+
 \version "2.20.0"
 
 \tocItem \markup "La avino motorciklas"
@@ -36,11 +40,11 @@
 	} % relative
 	\addlyrics {
         \repeat volta 2 {
-        La a -- vi -- no en ku -- ke -- jo mo -- tor -- ci -- klas,
+        La a -- vi -- no en ko -- ke -- jo mo -- tor -- ci -- klas,
            }
         \alternative {
-         { mo -- to -- ci -- klas, mo -- tor -- ci -- klas,}
-         { la a -- vi -- no es -- tas tre mo -- der -- na in. }
+         { mo -- tor -- ci -- klas, mo -- tor -- ci -- klas,}
+         { la a -- vi -- no es -- tas tre mo -- der -- na in'. }
         }
 	} %addlyrics
 >>

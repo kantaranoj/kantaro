@@ -3,7 +3,7 @@
 \score {
 	\header {
 	  title = "Tike tike tok"
-	  subtitle = "itala kanto, trad. Paul Bennemann"
+	  subtitle = "itala kanto, tradukis Paul Bennemann"
 	}
 	
 	\transpose c c' { <<

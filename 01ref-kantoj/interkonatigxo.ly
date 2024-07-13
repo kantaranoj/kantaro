@@ -2,6 +2,8 @@
 % anstataŭigis "kiu ni estas" per "kiuj ni estas"
 % korektis "Esperantistoj" al "esperantistoj" (laŭ PIV)
 
+% Marek: aldonis la klarigon pri la maniero kanti
+
 \tocItem \markup "Interkonatiĝo"
 \score {
 	\header {
@@ -62,7 +64,7 @@ Ho li/ŝi es -- tas ĝo -- ja, li/ŝi ĝo -- jas,  li/ŝi ĝo -- jas,
     %\hspace #0.1 % moves the column off the left margin;
      % can be removed if space on the page is tight
      \column {
-      \line { \bold "Atentigo:"
+      \line { \bold "Klarigo:"
         \column {
           "Oni kantas sinsekve por ĉiu ĉeestanto kaj tiu mem enmetas siajn nomon, landon kaj nacian lingvon."
               \combine \null \vspace #0.5 % adds vertical spacing between verses

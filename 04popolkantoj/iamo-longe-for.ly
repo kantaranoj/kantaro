@@ -4,7 +4,7 @@
 	\header {
 	  title = "La iamo longe for"
 	  poet = "poemo de Robert Burns"
-	  subsubtitle = "skota popolkanto, trad. Reto Rosetti"
+	  subsubtitle = "skota popolkanto, tradukis Reto Rosetti"
 	}
 	
 	\transpose c c' { <<
@@ -27,7 +27,7 @@
 		     ka -- re pri la i -- a -- mo lon -- ge for?
 				% rekantaĵo
 		     I -- a -- mo lon -- ge for, ka -- rul', i -- a -- mo lon -- ge
-		     for: Ni trin -- ku en kon -- kor -- do pro la i -- a -- o lon -- ge for!
+		     for: Ni trin -- ku en kon -- kor -- do pro la i -- a -- mo lon -- ge for!
 	} %addlyrics
 	\addlyrics { \set stanza = #"2. "
 		     La kru -- ĉojn do ni le -- vu kaj sa -- lu -- tu el la kor',

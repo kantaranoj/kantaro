@@ -5,7 +5,7 @@
 \header {
   title = "Vidu vidu"
   subtitle = "Originala titolo: Veo veo de Hot Banditoz"
-  subsubtitle = "tradukis: Felix, Frida & Bertilo"
+  subsubtitle = "Tradukis: Felix, Frida & Bertilo"
 }
 
 global = {

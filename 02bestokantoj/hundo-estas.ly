@@ -1,9 +1,13 @@
 \tocItem \markup "Hundo estas"
 
+% Marek: ĉu vere ĝi apartenas al "bestokantoj", nur pro la mencio de hundo en la unua strofo?
+
 \score {
 	\header {
 	title = "Hundo estas"
-	subsubtitle = "Tradukis P. Balkányi"
+        %title = "Zime-zum"
+	subtitle = "Esperanta teksto de Paŭlo Balkányi"
+        subsubtitle = "laŭ melodio de ŝerca hungara popolkanto"
 	}
 	
 	\transpose c c' {
@@ -21,8 +25,8 @@
 	} % relative
 	\addlyrics {
 	Hun -- do es -- tas bo -- na bes -- to,
-La di -- man -- ĉo es -- tas fes -- to;
-zi -- me -- zum, zi -- me -- zum, Es -- tas fes -- to  bum, bum, bum.
+la di -- man -- ĉo es -- tas fes -- to;
+zi -- me -- zum, zi -- me -- zum, es -- tas fes -- to –_bum, bum, bum.
 
 	} %addlyrics
 >>
@@ -83,9 +87,9 @@ zi -- me -- zum, zi -- me -- zum, Es -- tas fes -- to  bum, bum, bum.
       \line { \bold "7."
         \column {
 		"Rozo estas en la vazo,"
-		"ruĝa kiel ĝia nazo;"
+		"ruĝa kiel lia nazo;"
 		"zi-me-zum, zi-me-zum,"
-		"ĝia nazo – bum, bum, bum."
+		"lia nazo – bum, bum, bum."
         } % column
       } % line     
     } % fill-line

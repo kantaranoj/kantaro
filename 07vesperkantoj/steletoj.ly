@@ -3,7 +3,8 @@
 \score {
 	\header {
 	  title = "Steletoj"
-	  subsubtitle = "Hvězdičky, dobrou noc, ĉeĥa popolkanto, trad. J.Kořínek"
+	  subtitle = "ĉeĥa popolkanto Hvězdičky, dobrou noc"
+          subsubtitle = "tradukis Jiří Kořínek"
 	}
 	
 	\transpose c c' {
@@ -31,7 +32,7 @@
 	} %addlyrics
 	\addlyrics { \set stanza = #"2. "
 		     Vin ho ar -- ĝenta lun' pe -- tas mi nun.
-		     Ve -- nu de fir -- ma -- ment', fir -- ma -- ment,
+		     Ve -- nu de fir -- ma -- ment', fir -- ma -- ment',
 		     ve -- nu nur por mo -- ment', por mo -- ment',
 		     di -- ri al pan -- ja kor' pri mi -- a am'.
 	} %addlyrics

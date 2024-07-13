@@ -3,7 +3,7 @@
 \score {
 	\header {
 	  title = "Mi ligas ĉevalon"
-	  subsubtitle = "hungara kanto, trad. T. Kereszhegyi"
+	  subsubtitle = "hungara kanto, tradukis T. Kereszhegyi"
 	}
 	
 	\transpose c c' { <<
@@ -24,7 +24,7 @@
 		     Mi li -- gas ĉe -- va -- lon al pom -- ar -- bo ru -- ĝa.
 		     Mi li -- gas la ko -- ron al vi -- o -- lo mi -- a.
 		     Ĉe -- va -- lo for -- i -- ros, kia -- am ek -- lu -- mi -- ĝos,
-		     sed min de_l' vi -- o -- lo nur la mort' mal -- li gos.
+		     sed min de_l' vi -- o -- lo nur la mort' mal -- li -- gos.
 		     
 	} %addlyrics
 	\addlyrics { \set stanza = #"2. "

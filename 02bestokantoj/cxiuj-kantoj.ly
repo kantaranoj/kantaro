@@ -24,7 +24,7 @@
 
 %%\include "02bestokantoj/estis-panjo-kukumka.ly"
 
-\include "02bestokantoj/la-besto-bugio.ly"
+\include "02bestokantoj/la-besta-bugio.ly"
 
 
 \include "02bestokantoj/la-krokodil.ly"
@@ -39,4 +39,6 @@
 
 \include "02bestokantoj/nia-kato.ly"
 
+%%\include "02bestokantoj/kukolo-kaj-azeno.ly"
 
+%%\include "02bestokantoj/mi-volas-hipopotamon.ly"

@@ -38,37 +38,37 @@ fer -- vo -- ran pli ol mi.
      \column {
       \line { \bold "2."
         \column {
-		"Li portis la jarlibron -- en sia poŝ' kun si."
+		"Li portis la jarlibron (de UEA)" "en sia poŝ' kun si."
            } % column
       } % line
 	  \combine \null \vspace #0.05 % adds vertical spacing between verses
       \line { \bold "3."
         \column {
-		"Ĉar dum la festomanĝo -- li manĝis pli ol tri."
+		"Ĉar dum la festomanĝo (de UEA)" "li manĝis pli ol tri."
         } % column
       } % line
       \combine \null \vspace #0.05 % adds vertical spacing between verses
       \line { \bold "4."
         \column {
-		"Kaj kun la prezidanto -- je sano tostis li."
+		"Kaj kun la prezidanto (de UEA)" "je sano tostis li."
         } % column
       } % line
       \combine \null \vspace #0.05 % adds vertical spacing between verses
       \line { \bold "5."
         \column {
-		"Nun sekvis la kunsido -- de l' granda asoci'."
+		"Nun sekvis la kunsido (de UEA)" "de l' granda asoci'."
         } % column
       } % line     
     \combine \null \vspace #0.05 % adds vertical spacing between verses
       \line { \bold "6."
         \column {
-		"Kaj nian delegiton -- ekkaptis emoci'."
+		"Kaj nian delegiton (de UEA)" "ekkaptis emoci'."
         } % column
       } % line     
     \combine \null \vspace #0.1 % adds vertical spacing between verses
       \line { \bold "7."
         \column {
-		"Li diris: Karaj membroj -- ni venis tien ĉi."
+		"Li diris: Karaj membroj (de UEA)" "ni venis tien ĉi."
         } % column
       } % line     
            }
@@ -76,31 +76,31 @@ fer -- vo -- ran pli ol mi.
     \combine \null \vspace #0.1 % adds vertical spacing between verses
       \line { \bold "8."
         \column {
-		"En tiu ĉi momento -- forkuri devis li."
+		"En tiu ĉi momento (de UEA)" "forkuri devis li."
         } % column
       } % line     
     \combine \null \vspace #0.1 % adds vertical spacing between verses
       \line { \bold "9."
         \column {
-		"Rezultis el agado -- kolik' kaj kompani'."
+		"Rezultis el agado (de UEA)" "kolik' kaj kompani'."
         } % column
       } % line     
      \combine \null \vspace #0.1 % adds vertical spacing between verses
       \line { \bold "10."
         \column {
-		"Ho ve! En necesejo -- ne estis flugfoli'."
+		"Ho ve! En necesejo (de UEA)" "ne estis flugfoli'."
         } % column
       } % line     
    \combine \null \vspace #0.1 % adds vertical spacing between verses
       \line { \bold "11."
         \column {
-		"Kaj tiam la jarlibro -- utilis tre al li."
+		"Kaj tiam la jarlibro (de UEA)" "utilis tre al li."
         } % column
       } % line     
     \combine \null \vspace #0.1 % adds vertical spacing between verses
       \line { \bold "12."
         \column {
-		"Ni kantu do la gloron -- de l' granda asoci'."
+		"Ni kantu do la gloron (de UEA)" "de l' granda asoci'."
                 " "
                 " "
         } % column
