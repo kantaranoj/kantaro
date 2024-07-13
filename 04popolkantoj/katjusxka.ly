@@ -3,7 +3,7 @@
 \score {
 	\header {
 	  title = "Katjuŝka"
-	  subsubtitle = "rusa popolkanto, trad. Davido"
+	  subsubtitle = "rusa popolkanto, tradukis Davido"
 	}
 	
 	\transpose c c' { <<
@@ -21,8 +21,8 @@
 	} % relative
 	\addlyrics { \set stanza = #"1. "
 		     Jam prin -- tem -- po blo -- vas tra la ar -- boj.
-		     No -- va vi -- vo ve -- nas el la ter'
-		     Tra la kam -- pok ve -- nas jen Kat -- juŝ -- ka
+		     No -- va vi -- vo ve -- nas el la ter'.
+		     Tra la kam -- poj ve -- nas jen Kat -- juŝ -- ka
 		     laŭ la ga -- ja flu -- o de_l' ri -- ver'.
 		     
 	} %addlyrics
