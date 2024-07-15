@@ -50,7 +50,7 @@ Ho li/ŝi es -- tas ĝo -- ja, li/ŝi ĝo -- jas,  li/ŝi ĝo -- jas,
             } % column
       } % line
 	  \combine \null \vspace #0.1 % adds vertical spacing between verses
-		\line { \bold "Rekantaĵo:" 
+		\line { \bold "Lasta rekantaĵo:" 
 		\column { "Ho ni estas ĝojaj, ni ĝojas, ni ĝojas," "ĝoje ni parolas kaj kantas Esperanton." " "
 		} %column
 	  } % line
@@ -64,6 +64,7 @@ Ho li/ŝi es -- tas ĝo -- ja, li/ŝi ĝo -- jas,  li/ŝi ĝo -- jas,
     %\hspace #0.1 % moves the column off the left margin;
      % can be removed if space on the page is tight
      \column {
+      \combine \null \vspace #0.5 % adds vertical spacing between verses
       \line { \bold "Klarigo:"
         \column {
           "Oni kantas sinsekve por ĉiu ĉeestanto kaj tiu mem enmetas siajn nomon, landon kaj nacian lingvon."

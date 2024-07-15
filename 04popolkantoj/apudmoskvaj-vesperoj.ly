@@ -4,6 +4,7 @@
 \score {
 	\header {
 	  title = "Apudmoskvaj vesperoj"
+          subtitle = "himno de Monda Festivalo de Junularo kaj Studentaro 1957"
 	  subsubtitle = "laŭ la rusa kanto Подмосковные вечера de Miĥail Matusovskij kaj Vasilij Solovjov-Sedoj"
 	}
 	

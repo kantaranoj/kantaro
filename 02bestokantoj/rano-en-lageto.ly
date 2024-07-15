@@ -52,6 +52,7 @@ kaj la ra -- no fa -- ras um-e.
     %\hspace #0.1 % moves the column off the left margin;
      % can be removed if space on the page is tight
      \column {
+      \combine \null \vspace #0.5 % adds vertical spacing between verses
       \line { \bold "Klarigoj:"
         \column {
           "1. Etendu la langon kantante la \"-e\" de \"um-e\"."

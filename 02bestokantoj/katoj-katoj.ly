@@ -6,9 +6,11 @@
 	subtitle = "Originala titolo: Krávy krávy"
         subsubtitle = "Ĉeĥa kanto de Zdeněk Svěrák kaj Jaroslav Uhlíř"
 	}
-<<
-\new Staff {c'4}
->>
+  % jen truko por aperigi kanta(j)n titolo(j)n ankaŭ kiam mankas notoj:
+  \layout { #(layout-set-staff-size 0) }
+  \new Staff \with { \remove Staff_symbol_engraver } {
+    \omit Staff.Clef \omit Staff.BarLine \omit Staff.TimeSignature \omit Score.BarNumber { s1 }
+    } % staff
 } % score
 
 \noPageBreak
