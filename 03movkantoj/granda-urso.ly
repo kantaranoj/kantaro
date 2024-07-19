@@ -2,7 +2,7 @@
 \score {
 	\header {
 	title = "Granda urso"
-	subsubtitle = "laŭ popola popolkanto Stary niedźwiedź mocno śpi"
+	subsubtitle = "laŭ pola popolkanto Stary niedźwiedź mocno śpi"
 	}
   % jen truko por aperigi kanta(j)n titolo(j)n ankaŭ kiam mankas notoj:
   \layout { #(layout-set-staff-size 0) }

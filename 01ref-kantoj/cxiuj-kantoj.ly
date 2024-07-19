@@ -10,6 +10,8 @@
 \pageBreak
 \include "01ref-kantoj/lingvo-por-ni.ly"
 \pageBreak
+\include "01ref-kantoj/lingvo-por-ni-tomio.ly"
+\pageBreak
 \include "01ref-kantoj/veterokanto.ly"
 \pageBreak 
 \include "01ref-kantoj/tru-en-la-poto.ly"

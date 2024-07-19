@@ -1,8 +1,8 @@
-\tocItem \markup "Vespera kanto"
+\tocItem \markup "Vespera kanto (unuvoĉe)"
 
 \score {
 	\header {
-	  title = "Vespera kanto"
+	  title = "Vespera kanto (unuvoĉe)"
 	  composer = "Joh. A. P. Shulz (1747-1800)"
 	  poet = "de Matthias Claudius, 1778"
 	  subsubtitle = "el la germana tradukis Volframo Distel'"

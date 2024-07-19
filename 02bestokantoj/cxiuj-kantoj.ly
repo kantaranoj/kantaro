@@ -20,8 +20,8 @@
 \include "02bestokantoj/la-hipopotamo.ly"
 \pageBreak
 %%\include "02bestokantoj/papilio.ly"
-\pageBreak
-%%\include "02bestokantoj/estis-panjo-kukumka.ly"
+%%\pageBreak
+\include "02bestokantoj/aventuroj-de-la-eta-juju.ly"
 \pageBreak
 \include "02bestokantoj/la-besta-bugio.ly"
 \pageBreak
@@ -32,9 +32,9 @@
 \include "02bestokantoj/hundo-estas.ly"
 \pageBreak
 \include "02bestokantoj/pingveno-kanto.ly"
-%%\pageBreak
-%%\include "02bestokantoj/dek-bovinoj.ly"
 \pageBreak
+%%\include "02bestokantoj/dek-bovinoj.ly"
+%%\pageBreak
 \include "02bestokantoj/nia-kato.ly"
 %%\pageBreak
 %%\include "02bestokantoj/kukolo-kaj-azeno.ly"

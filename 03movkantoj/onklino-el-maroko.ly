@@ -1,10 +1,12 @@
+% Marek: detale la priskribendaj movoj spekteblas ekzemple ĉe https://www.youtube.com/watch?v=Y1JqmEdbNUQ
+
 \version "2.20.0"
 
-\tocItem \markup "La Onklino el Maroko"
+\tocItem \markup "Onklino el Maroko"
 \score {
   \header {
-  title = "La Onklino el Maroko"
-  subsubtitle = "laŭ germana alternativa teksto por usona popolkanto She'll Be Coming 'Round the Mountain"
+  title = "Onklino el Maroko"
+  subsubtitle = "laŭ ĝermana alternativa teksto por usona popolkanto She'll Be Coming 'Round the Mountain"
   }
   
   <<
@@ -42,7 +44,7 @@
 \markup {
   \column {
     \left-align {
-      "Refreno:"
+      "Rekantaĵo:"
       "Kantu ja, ja, jipi jipi je (hip hop)"
       "Kantu ja, ja, jipi jipi je (hip hop)"
       "Kantu ja, ja, jipi jipi, ja, ja, jipi jipi"
@@ -50,13 +52,13 @@
     }
     \null
     \left-align {
-      "2. Kaj ŝi rajdos sur kamelo, venos ŝi --- (hopel hopel) ... Rf."
-      "3. Kaj ŝi pafos per pistolo, venos ŝi --- (pif paf) ... Rf."
-      "4. Kaj eksonos sonoriloj, venos ŝi --- (bim bam) ... Rf."
-      "5. Kaj ni kantos kanoneton, venos ŝi --- (la la) ... Rf."
-      "6. Kaj ni buĉos la porketon, venos ŝi --- (riĉ raĉ) ... Rf."
-      "7. Ĵus alvenis nur letero, sed ne ŝi --- (ooooo) ... Rf."
-      "8. Ĵus alvenis telegramo, venos ŝi --- (hu ra) ... Rf."
+      "2. Kaj ŝi rajdos sur kamelo, venos ŝi --- (hopel hopel) ... Rek."
+      "3. Kaj ŝi pafos per pistolo, venos ŝi --- (pif paf) ... Rek."
+      "4. Kaj eksonos sonoriloj, venos ŝi --- (bim bam) ... Rek."
+      "5. Kaj ni kantos kanoneton, venos ŝi --- (la la) ... Rek."
+      "6. Kaj ni buĉos la porketon, venos ŝi --- (riĉ raĉ) ... Rek."
+      "7. Ĵus alvenis nur letero, sed ne ŝi --- (ooooo) ... Rek."
+      "8. Ĵus alvenis telegramo, venos ŝi --- (hu ra) ... Rek."
     }
   }
 }

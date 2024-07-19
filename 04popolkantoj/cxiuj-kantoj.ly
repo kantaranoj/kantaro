@@ -1,9 +1,13 @@
 \pageBreak
 \include "04popolkantoj/apudmoskvaj-vesperoj.ly"
 \pageBreak
+\include "04popolkantoj/cxokolado.ly"
+\pageBreak
 \include "04popolkantoj/dancu-dancu.ly"
 \pageBreak
 \include "04popolkantoj/diru-la-vorton.ly"
+\pageBreak
+\include "04popolkantoj/farmisto-el-loveno.ly"
 \pageBreak
 \include "04popolkantoj/fromagx-el-edamo.ly"
 \pageBreak

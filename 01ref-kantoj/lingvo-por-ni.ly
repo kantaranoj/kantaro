@@ -3,7 +3,7 @@
 % Marek:
 % korektis aŭdigas → aŭdiĝas
 % ŝanĝis samideanaro → gesamideanoj por pli granda vokala varieco
-% tradicia dua strofo, ĉi tie ellasita, parolis pri "sovaĝaj nigruloj sen Di'"; la libro "Kantoj por ĝojo" ĝin ŝanĝis al "nigruloj sen teknologi'" kaj tia ĝi eble estas reenmetinda por havi pli ol nur du "popolojn" en la kanto?
+% tradicia dua strofo, ĉi tie ellasita, parolis pri "sovaĝaj nigruloj sen Di'"; la libro "Kantoj por ĝojo" ĝin ŝanĝis al "nigruloj sen teknologi'"; Vikipedio enhavas "la bonaj amikoj de ni", kiun mi enmetis laŭ peto de Adenjo
 
 \version "2.20.0"
 
@@ -12,6 +12,7 @@
 	\header {
 	title = "Lingvo por ni"
 	subtitle = "Originala titolo: My Bonnie is over the Ocean"
+	subsubtitle = "Teksto de Frederick Douglas Murphy (adaptita)"
 	}
 	
 	\transpose c c' {
@@ -36,17 +37,21 @@
 	} % relative
 	\addlyrics { \set stanza = #"1. " 
         Sur mon -- toj kaj step' in -- di -- a -- noj ĉa -- sa -- das kun ruĝ -- fa -- mi -- li'
-	kaj se vi po -- stu -- las pa -- ro -- lon, ka -- njo -- ne e -- ĥi -- ĝas la kri'.
-	}
-        \addlyrics {  \set stanza = #"2. "
-        Ĉe nor -- da po -- lu -- so es -- ki -- moj vi -- va -- das en neĝ' kaj gla -- ci',
-	se i -- li be -- zo -- nas pa -- ro -- lon, aŭ -- di -- ĝas tut -- sa -- me la kri'.
+	kaj se vi po -- stu -- las pa -- ro -- lon, ka -- njo -- ne e -- ĥi -- ĝas la kri':
 	Es -- pe -- ran -- to es -- tas la ling -- vo por ni, por ni, 
 	Es -- pe -- ran -- to es -- tas la ling -- vo por ni.
+	}
+        \addlyrics {  \set stanza = #"2. "
+        En den -- sa af -- ri -- ka ĝan -- ga -- lo la bo -- naj a -- mi -- koj de ni
+	jam sol -- vis la lin -- gvan pro -- ble -- mon, tam -- ta -- me re -- so -- nas la kri':
 }
         \addlyrics {  \set stanza = #"3. "
+        Ĉe nor -- da po -- lu -- so es -- ki -- moj vi -- va -- das en neĝ' kaj gla -- ci',
+	se i -- li be -- zo -- nas pa -- ro -- lon, aŭ -- di -- ĝas tut -- sa -- me la kri':
+}
+        \addlyrics {  \set stanza = #"4. "
         Sur tu -- ta la vas -- ta ter -- glo -- bo en ur -- boj de ĉi -- u na -- ci'
-	tro -- vi -- ĝas ge -- sam -- i -- de -- a -- noj kaj so -- nas de bu -- ŝoj la kri'.
+	tro -- vi -- ĝas ge -- sam -- i -- de -- a -- noj kaj so -- nas de bu -- ŝoj la kri':
 }
 >>
 	} % transpose
