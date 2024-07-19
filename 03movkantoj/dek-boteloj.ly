@@ -12,6 +12,7 @@
 	\new Staff {
 		\time 2/2
 		\key d \major
+		\autoPageBreaksOff
 d'4
 d'4
 d'16
@@ -55,6 +56,7 @@ d'16
 e'8.
 cis'16
 d'2
+		\autoPageBreaksOn
 %	} % relative
 %>>
 %	} % transpose
@@ -64,6 +66,8 @@ d'2
 	ak -- ci -- den -- te fa -- las u -- nu nur, ti -- am naŭ bo -- te -- loj pen -- das de la mur'.
 	}
 } % score
+
+\noPageBreak
 
 \markup {
 % \combine \null \vspace #0.3 % adds vertical spacing between verses
@@ -96,6 +100,8 @@ d'2
        } % column
     } % fill-line
 } % markup	
+
+\noPageBreak
 
 \markup {
   \fill-line {

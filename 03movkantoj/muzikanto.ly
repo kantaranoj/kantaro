@@ -3,14 +3,11 @@
 	\header {
 	title = "Muzikanto"
         subtitle = "silezia popolkanto"
+	subsubtitle = \markup { \vspace #1 }
 	}
-  % jen truko por aperigi kanta(j)n titolo(j)n ankaŭ kiam mankas notoj:
-  \layout { #(layout-set-staff-size 0) }
-  \new Staff \with { \remove Staff_symbol_engraver } {
-    \omit Staff.Clef \omit Staff.BarLine \omit Staff.TimeSignature \omit Score.BarNumber { s1 }
-    } % staff
-}
-
+  % nur simbolaj notoj, necesaj por ke entute aperu la titolo:
+  \layout { indent = 9\cm } \new Staff { \omit Staff.BarLine \omit Staff.TimeSignature \omit Score.BarNumber { s1 } }
+} % score
 \noPageBreak
 
 \markup {
@@ -18,6 +15,9 @@
     % \hspace #0.1 % moves the column off the left margin;
      % can be removed if space on the page is tight
      \column {
+       \line {
+         \column {
+
       \line { \bold "1."
         \column {
           "|: Mi estas muzikanto, bona ludanto. :|"
@@ -38,7 +38,10 @@
           "... violonon: vio-vio- ... violonon."
           }
         }
-      \combine \null \vspace #0.5 % adds vertical spacing between verses
+      %\combine \null \vspace #0.5 % adds vertical spacing between verses
+      }
+    \hspace #2
+    \column {
       \line { \bold "4."
         \column {
           "... la trumpeton: trumpe-trumpe- ... trumpeton."
@@ -58,6 +61,9 @@
           "gita-gita-pia-pia-vio-trumpe-tamburon."
           }
         }
+
+          } % column
+        } % line
       } % column
     } % fill-line
 } % markup	

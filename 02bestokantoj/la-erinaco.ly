@@ -16,10 +16,11 @@
 		\time 2/4
 		\key f \major
 	%\autoBeamOff
+	\autoPageBreaksOff
 f8 c a' f f e g g g c, bes' g g f a4 f8 c a' f f e g g c c c  bes a g f4
 c f e8 e g g c,4 g' g8 e a4 c,8 c f f e e g g c c c bes a g f4
 \bar "|." 
-	\autoBeamOn
+	\autoBeamOn \autoPageBreaksOn
 	} % relative
 	\addlyrics { \set stanza = #"1. "
 Ni -- a a -- vo fo -- je tro -- vis e -- ri -- na -- con en ĝar -- den' kaj li ka -- ŝis ĝin sub tu -- kon sur la ben -- ko ĉe ka -- men'. 

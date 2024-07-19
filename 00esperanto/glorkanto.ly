@@ -16,10 +16,10 @@
 		\time 3/4
 		\key g \minor
 		\partial 4
-	\autoBeamOff
+	\autoBeamOff \autoPageBreaksOff
 	d4 g2 a4 bes2 a4 g2. d2 d4 es r2 g4 r2 d2.( d4) r d g2 a4 bes2 a4 g2. d'2 d4 d2 c4 bes2 c4 d r2 g,4 a bes  a4 r2 a4 r2 g4 r2 r2 
        \bar "|." 
-	\autoBeamOn
+	\autoBeamOn \autoPageBreaksOn
 	} % relative
 	\addlyrics {
 Mi ko -- nis de -- le -- gi -- ton de U -- E -- A.

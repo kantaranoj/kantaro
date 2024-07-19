@@ -46,6 +46,7 @@ kaj la ra -- no fa -- ras um-e.
 	} % transpose
 } % score
 
+\noPageBreak
 
 \markup {
   \fill-line {

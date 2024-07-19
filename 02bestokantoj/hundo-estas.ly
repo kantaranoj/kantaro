@@ -19,9 +19,10 @@
 		\key f \major
 		%\partial 4
 	%\autoBeamOff
+	\autoPageBreaksOff
 	f8 f f f f g a f g g g g c bes a g f f c4 f8 f c4 d8 bes' a g f f f r
        \bar "|." 
-	\autoBeamOn
+	\autoBeamOn \autoPageBreaksOn
 	} % relative
 	\addlyrics {
 	Hun -- do es -- tas bo -- na bes -- to,

@@ -1,34 +1,51 @@
-\pageBreak
+%\pageBreak
 \include "04popolkantoj/apudmoskvaj-vesperoj.ly"
-\pageBreak
+\markup \vspace #0.5
+%\pageBreak
 \include "04popolkantoj/cxokolado.ly"
-\pageBreak
+\markup \vspace #0.5
+%\pageBreak
 \include "04popolkantoj/dancu-dancu.ly"
-\pageBreak
+\markup \vspace #0.5
+%\pageBreak
 \include "04popolkantoj/diru-la-vorton.ly"
-\pageBreak
+\markup \vspace #0.5
+%\pageBreak
 \include "04popolkantoj/farmisto-el-loveno.ly"
-\pageBreak
+\markup \vspace #0.5
+%\pageBreak
 \include "04popolkantoj/fromagx-el-edamo.ly"
-\pageBreak
+\markup \vspace #0.5
+%\pageBreak
 \include "04popolkantoj/iamo-longe-for.ly"
-\pageBreak
+\markup \vspace #0.5
+%\pageBreak
 \include "04popolkantoj/iris-knabineto.ly"
-\pageBreak
+\markup \vspace #0.5
+%\pageBreak
 \include "04popolkantoj/katjusxka.ly"
-\pageBreak
+\markup \vspace #0.5
+%\pageBreak
 \include "04popolkantoj/kukolo.ly"
-\pageBreak
+\markup \vspace #0.5
+%\pageBreak
 \include "04popolkantoj/marisxa-kisu-min.ly"
-\pageBreak
+\markup \vspace #0.5
+%\pageBreak
 \include "04popolkantoj/mi-ligas-chevalon.ly"
-\pageBreak
+\markup \vspace #0.5
+%\pageBreak
 \include "04popolkantoj/panjo-mi-volas-edzon.ly"
-\pageBreak
+\markup \vspace #0.5
+%\pageBreak
 \include "04popolkantoj/sankta-lucia.ly"
-\pageBreak
+\markup \vspace #0.5
+%\pageBreak
 \include "04popolkantoj/tike-tike-tok.ly"
-\pageBreak
+\markup \vspace #0.5
+%\pageBreak
 \include "04popolkantoj/tumbalalajko.ly"
-\pageBreak
+\markup \vspace #0.5
+%\pageBreak
 \include "04popolkantoj/vent-printempa.ly"
+\markup \vspace #0.5

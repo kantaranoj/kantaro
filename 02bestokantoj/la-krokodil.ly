@@ -35,6 +35,7 @@
 		\key c \major
 		%\partial 4
 	%\autoBeamOff
+	\autoPageBreaksOff
 	c4 c8 e g4. e8 e8. d16 e8. f16 e4 d d d8 e d4. d8 e d e fis g2
 	c,4 c8 e g4. e8 e d e f e4 d d d8 e d4. d8 e d e fis g2
 	\repeat volta 2 {c,8 e e e c e e e c e e e e4 d b8 d d d b d d d g f e d }
@@ -42,7 +43,7 @@
 	\repeat volta 2 {e e e8 g e g f4 f f f d d d8 g g g }
 	\alternative { { e2 r4 g } { c,2 } }
        \bar "|." 
-	\autoBeamOn
+	\autoBeamOn \autoPageBreaksOn
 	} % relative
 	\addlyrics { \set stanza = #"1. "
 	La kro -- ko -- dil' i -- ran -- te al mi -- li -- to

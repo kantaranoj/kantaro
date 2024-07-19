@@ -14,7 +14,7 @@
 		\time 4/4
 		\key a \minor
 		\partial 2.
-	\autoBeamOff
+	\autoBeamOff \autoPageBreaksOff
 	e8 e16 e a8 gis a b c4 c d4 d4 c c r8 d d d c4 b8( a) b c b4 a r8 e' e4 d c8 c
         % jen truko per teni silabon ĉe paŭzo per kaŝita paralela noto:
         << { \voiceOne \hideNotes c \unHideNotes }
@@ -22,7 +22,7 @@
         >> \oneVoice
         c d4 d8 d c4 c4  d4 d8 d c4 b8 a b c b4 a
        \bar "|." 
-	\autoBeamOn
+	\autoBeamOn \autoPageBreaksOn
 	} % relative
 	\addlyrics {
 	En An -- to -- nik' en Ger -- ma -- ni -- o mi -- a pa -- tro a -- ĉe -- tis blan -- kan mu -- son por mi.

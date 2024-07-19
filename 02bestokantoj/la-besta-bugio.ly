@@ -26,6 +26,7 @@
 		\key c \major
 		\partial 8
 	%\autoBeamOff
+	\autoPageBreaksOff
         g8 c,8. c16 c8. c16 e8 e4. f8. f16 f8. g16( g4)  r4 
         c,8. c16 c8. c16 e8 e4. f8. f16 f8. f16 g4  r4 
         c,8. c16 c8. c16 e8 e4 e8 f8. f16 f8. f16 fis4  r4 
@@ -38,6 +39,7 @@
         c, c e e f8. f16 f8. f16 fis8 fis8( fis4) 
         g4. a8 g4 f e8. c16 d8. c16( c4) r8
        \bar "|." 
+	\autoPageBreaksOn
 	%\autoBeamOn
 	} % relative
 	\addlyrics {
@@ -126,6 +128,7 @@
     } % fill-line
 } % markup	
 
+\noPageBreak
 
 \markup {
   \fill-line {

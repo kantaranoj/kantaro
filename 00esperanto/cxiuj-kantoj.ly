@@ -3,9 +3,13 @@
 %\pageBreak
 
 \include "00esperanto/ludoviko.ly"
-\pageBreak
+\markup \vspace #0.5
+%\pageBreak
 \include "00esperanto/glorkanto.ly"
-\pageBreak
+\markup \vspace #0.5
+%\pageBreak
 \include "00esperanto/balado-del-akuzativo.ly"
+\markup \vspace #0.5
 \pageBreak
 \include "00esperanto/sola.ly"
+\markup \vspace #0.5

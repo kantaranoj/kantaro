@@ -2,15 +2,12 @@
 \score {
 	\header {
 	title = "Veterokanto"
-%	subtitle = "Originala titolo: "
-%	subsubtitle = "Tradukis"
+	subsubtitle = \markup { \vspace #1 }
 	}
-  % jen truko por aperigi kanta(j)n titolo(j)n ankaŭ kiam mankas notoj:
-  \layout { #(layout-set-staff-size 0) }
-  \new Staff \with { \remove Staff_symbol_engraver } {
-    \omit Staff.Clef \omit Staff.BarLine \omit Staff.TimeSignature \omit Score.BarNumber { s1 }
-    } % staff
+  % nur simbolaj notoj, necesaj por ke entute aperu la titolo:
+  \layout { indent = 9\cm } \new Staff { \omit Staff.BarLine \omit Staff.TimeSignature \omit Score.BarNumber { s1 } }
 }
+\noPageBreak
 
 \markup {
 % \combine \null \vspace #0.3 % adds vertical spacing between verses

@@ -27,9 +27,10 @@ tocAct =
 			\unless \on-first-page-of-part \fromproperty #'header:instrument
 			""
 			}
+		page-breaking = #ly:optimal-breaking
 	}
 	\header {
-		title = "Kantaro de REF 2024"
+		% title = "Kantaro de REF 2024" % se ŝaltita, aperas en apartaj paĝoj antaŭ ĉiu ĉapitro
 		copyright = "Renkontiĝo de Esperanto-Familioj"
 		tagline = \markup {
 			\center-column {
@@ -42,6 +43,22 @@ tocAct =
 		}
 	}
 %	#(set-global-staff-size 26) % ne ŝajnas efiki por ŝanĝi la tekstograndon
+
+\markup {
+  \fill-line {
+  \magnify #3.0 {
+    \center-column {
+      % \hspace #5.0
+      \line {
+        \bold {
+          "Kantaro de REF 2024"
+          }
+        }
+      \hspace #2.0
+      }
+    }
+  }
+}
 
 \markup {
   \general-align #Y #DOWN {
