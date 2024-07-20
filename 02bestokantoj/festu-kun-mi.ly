@@ -18,7 +18,7 @@
      % can be removed if space on the page is tight
      \column {
         "Festu kun mi, ĉevalon perdis mi. |: Sed la brido :|"
-        "Festu kun mi, cevalon perdis mi. Sed la brido revenis jam."
+        "Festu kun mi, ĉevalon perdis mi. Sed la brido revenis jam."
         } % column
     } % fill-line
 } % markup	
