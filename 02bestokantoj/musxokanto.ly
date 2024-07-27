@@ -2,7 +2,7 @@
 
 \score {
 	\header {
-	title = "Muŝo-kanto"
+	title = "Kulo-kanto"
 	subsubtitle = \markup { \vspace #1 }
 	}
   % nur simbolaj notoj, necesaj por ke entute aperu la titolo:
@@ -15,7 +15,7 @@
     % \hspace #0.1 % moves the column off the left margin;
      % can be removed if space on the page is tight
      \column {
-      \line { \bold "1." "Hodiaŭ kaptis muŝon mi pli grandan ol ĉevalo," }
+      \line { \bold "1." "Hodiaŭ kaptis kulon mi pli grandan ol ĉevalo," }
       \line { "eligis ĝian grason kaj plenigis eĉ barelon." }
 
 	\combine \null \vspace #0.05 % adds vertical spacing between verses
