@@ -24,7 +24,7 @@
 	} % relative
 	\addlyrics {
 	       \set stanza = #"1. "
-	       Li es -- tis ma -- ri -- to fi -- de -- la,
+	       Li es -- tis ma -- ris -- to fi -- de -- la,
 	       ki -- u post lon -- ga vo -- jaĝ', __
 	       al la fi -- an -- ĉi -- no en hej -- ma vi -- laĝ',
 	       re -- ve -- nis kun bu -- lo da fro -- maĝ'.
@@ -36,7 +36,7 @@
 	     } %addlyrics
 	\addlyrics {
 	       \set stanza = #"2. "
-	       Sed ni -- a ma -- ri -- to tuj de -- vis
+	       Sed ni -- a ma -- ris -- to tuj de -- vis
 	       i -- ri por no -- va ve -- tur' __
 	       kaj li -- a fraŭ -- li -- no kun plo -- ra mur -- mur'
 	       pro -- me -- sis per plej so -- le -- na ĵur:
