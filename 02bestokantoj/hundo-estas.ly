@@ -134,7 +134,7 @@ zi -- me -- zum, zi -- me -- zum, es -- tas fes -- to –_bum, bum, bum.
       \combine \null \vspace #0.1 % adds vertical spacing between verses
       \line { \bold "12."
         \column {
-		"Nun sekvas la lasta strofo,"
+		"Sekvas nun la lasta strofo,"
 		"ne okazu katastrofo;"
 		"zi-me-zum, zi-me-zum,"
 		"katastrofo – bum, bum, bum."
