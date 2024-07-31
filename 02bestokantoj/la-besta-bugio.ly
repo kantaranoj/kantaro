@@ -83,9 +83,9 @@
         \column {
 		"Profunde en ĝangalo, venu kun mi." 
 	"Estas tie besto, kion faras ĝi?"
-	"Ĝi stampfas sur la tero, preskaŭ timas mi."
+	"Ĝi stamfas sur la tero, preskaŭ timas mi."
 	\line { Kiu besto estas ĝi? Estas \bold "elefanto!" }
-	"Stampfu, stampfu, bugi ŭugi ugi (3×)"
+	"Stamfu, stamfu, bugi ŭugi ugi (3×)"
 	"Venu vi kaj stampfu kun ni."
         } % column
       } % line
