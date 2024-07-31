@@ -67,7 +67,7 @@ I -- li -- an ek -- zem -- plon sekvis pa -- ro post par'
 ĉe la bor -- do de ti -- u ri -- ver'.
 A -- li -- ĝis a -- man -- toj de_l' tu -- ta bes -- tar'
 al la hi -- po -- po -- tam  -- am -- a -- fer'.
-I -- li ĉi -- uj en -- sal -- tis kun plaŭ -- do kaj ond' _
+I -- li ĉi -- uj en -- sal -- tis kun plaŭ -- do kaj ond'. _
 Pe -- _ to -- lis kaj plon -- ĝis sen pen',
 'popo -- tam -- a -- ma -- sa -- ro plen -- ple -- na je a -- mo
 kun -- kan -- tis per je -- na re -- fren':
