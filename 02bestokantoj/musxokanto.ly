@@ -1,4 +1,4 @@
-\tocItem \markup "Muŝo-kanto"
+\tocItem \markup "Kulo-kanto"
 
 \score {
 	\header {
