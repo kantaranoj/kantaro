@@ -33,7 +33,7 @@
       \combine \null \vspace #0.5 % adds vertical spacing between verses
       \line { \bold "Klarigo:"
         \column {
-          "Ripetu uzante ĉiam nur unu vokalon: a, e, i, o, u, aŭ, oŭ, ej, y/ü, ktp."
+          "Ripetu uzante ĉiam nur unu vokalon: a, e, i, o, u, aŭ, eŭ, ktp."
               \combine \null \vspace #0.5 % adds vertical spacing between verses
             } % column
       } %
