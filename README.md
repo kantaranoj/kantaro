@@ -47,7 +47,7 @@ Kaze ke vi ne certas pri notoj de la kanto kaj nenio troveblas jam en interreto,
 
 La gestoj de movkantoj estas ankoraŭ nenie dokumentitaj. Vi povas krei fotojn aŭ filmeton, kiu dokumentas la gestojn por iu kanto. Tion oni povas poste ligi en la koncerna dosierujo. 
 
-## Krei novan kanton en LilyPond formato
+## Krei novan kanton en LilyPond-formato
 
 Por krei novajn kantojn, necesas fine aldoni tekstdosieron al tiu ĉi retdosierujo. La tekstdosiero estu senerare kompilebla per LilyPond. 
 
@@ -56,6 +56,8 @@ Por atingi tion, vi havas plurajn opciojn:
 1. La facila opcio estas uzi la retan, senpagan servon [lilybin](http://lilybin.com/). 
 2. La iom pli malfacila opcio estas instali LilyPond sur via komputilo. Por redakti, ni rekomendas la senpagan programon [frescobaldi](http://frescobaldi.org/), kiu haveblas por linukso, vindozo, kaj makoso.
 3. La plej malfacila opcio estas instali LilyPond kaj simple uzi normalan tekstredaktilon kiel vim, emacs aŭ notepad. Sed ankaŭ tio funkcias fidinde.
+
+Entajpi notojn vide (WYSIWYG) eblas per [scorio](https://www.scorio.com/). Per tabulkomputilo tion scias fari eĉ infano. Sufiĉas registriĝi por la senpaga konto kaj en la fino uzi el la menuo File – Export – LilyPond.
 
 # Kunlabori kaj aldoni dosierojn
 
