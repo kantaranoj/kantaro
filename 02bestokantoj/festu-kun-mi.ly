@@ -1,8 +1,10 @@
+% notoj por la originala kanto troveblas ekzemple ĉe: https://www.mamalisa.com/?t=es&p=1797
+
 \tocItem \markup "Festu kun mi"
 \score {
 	\header {
 	title = "Festu kun mi"
-        subtitle = "tradukita el la franca"
+        subtitle = "originala franca titolo: Buvons un coup ma serpette est perdue"
 	subsubtitle = \markup { \vspace #1 }
 	}
   % nur simbolaj notoj, necesaj por ke entute aperu la titolo:
