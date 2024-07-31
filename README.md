@@ -4,7 +4,7 @@ Tiu ĉi paĝo kolektas kantojn en Esperanto, kutime kantataj en [Renkontiĝo de 
 
 La celo de tiu ĉi paĝaro estas havi centran lokon, en kiu eblas kolekti fidindan version de la kantaro uzata en la ĉiujara [Renkontiĝo de Esperantistaj Familioj](https://eo.wikipedia.org/wiki/Renkonti%C4%9Do_de_Esperantistaj_Familioj). Kompreneble ankaŭ eblas uzi la kantaron aliloke kaj alicele.
 
-La ideo estis aprobita en la  [REF 2019 en Mühlhausen](https://familioj.miraheze.org/wiki/REF_2019).
+La ideo estis aprobita en la  [REF 2019 en Mühlhausen](https://familioj.miraheze.org/wiki/REF_2019). La unuan presita version REF uzis en [2024 en Geyer](https://familioj.miraheze.org/wiki/REF_2024).
 
 ## Teknika bazo
 
