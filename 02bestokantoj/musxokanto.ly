@@ -3,6 +3,7 @@
 \score {
 	\header {
 	title = "Kulo-kanto"
+        subtitle = "tradukita el la hungara" 
 	subsubtitle = \markup { \vspace #1 }
 	}
   % nur simbolaj notoj, necesaj por ke entute aperu la titolo:
