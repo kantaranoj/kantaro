@@ -56,7 +56,7 @@
 	\new Lyrics \lyricsto "aldo" {
 	\set stanza = #"2. "
 	"\"Mi" vi a -- "mas\"," li al ŝin di -- ris, "\"mi" vi a -- "mas\"," li al ŝin di -- ris;
-	nu ja, pri ti -- o mul -- te ŝin mi -- ris, nu ja, pri ti -- o mul -- te ŝin mi -- ris.
+	nu ja, pri ti -- on mul -- te ŝin mi -- ris, nu ja, pri ti -- o mul -- te ŝin mi -- ris.
 				% rekantaĵo
 	\set stanza = #"ald': "
 	A -- ku-, a -- ku-, a -- ku -- za -- ti -- vo! __ A -- ku-, a -- ku-, a -- ku za -- ti -- vo!
