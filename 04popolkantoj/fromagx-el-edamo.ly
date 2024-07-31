@@ -39,7 +39,7 @@
 	       Sed ni -- a ma -- ris -- to tuj de -- vis
 	       i -- ri por no -- va ve -- tur' __
 	       kaj li -- a fraŭ -- li -- no kun plo -- ra mur -- mur'
-	       pro -- me -- sis per plej so -- le -- na ĵur:
+	       pro -- me -- sis per plej so -- le -- na ĵur':
 				% rekontaĵo
 	       Fro -- maĝ' el E -- da -- mo, mi ĵu -- ras al vi,
 	       ke mi -- a a -- mo nur es -- tos li. __
@@ -48,7 +48,7 @@
 	     } %addlyrics
 	\addlyrics {
 	       \set stanza = #"3. "
-	       Kaj ĉi -- u ma -- te -- ne, fi -- de -- le,
+	       Kaj ĉi -- u -- ma -- te -- ne, fi -- de -- le,
 	       al la fro -- maĝ' sur bu -- fed' __
 	       ŝi por -- tis du va -- zojn kun fre -- ŝa bu -- ked'
 	       ŝte -- li -- ta ĵus el naj -- ba -- ra bed'.
