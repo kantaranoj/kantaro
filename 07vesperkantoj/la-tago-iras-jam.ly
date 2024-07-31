@@ -5,7 +5,7 @@
 	  title = "La tago iras jam de ni"
 	  poet = "de Adam Krieger"
 	  composer = "aranĝo laŭ Karl Lütge"
-	  subsubtitle = "tradukis Volframo Distel'"
+	  subsubtitle = "tradukis Volframo Distel' el la germana"
 	}
 	
 
