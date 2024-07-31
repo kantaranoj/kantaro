@@ -42,7 +42,7 @@
       \combine \null \vspace #0.5 % adds vertical spacing between verses
       \line { \bold "Klarigo:"
         \column {
-          "Infano ŝajnigas rostron per teni la nazon unumane kaj trameti la duan brakon tra la truo."
+          "Infano ŝajnigas rostron tenante la nazon unumane kaj trameti la duan brakon tra la truo."
           "Kun ĉiu strofo, elektiĝas plia infano, kiu kaptas per sia rostro la dorson de la lasta."
           "Dum oni kantas, la kreskanta elefanta vico vagas sur la scenejo. Fine ĉiuj falas teren."
           \combine \null \vspace #0.5 % adds vertical spacing between verses
