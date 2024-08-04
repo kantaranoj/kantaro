@@ -3,6 +3,7 @@
 \score {
 	\header {
 	  title = "Fromaĝ' el Edamo"
+          subtitle = "originale verkita de Raymond Schwartz"
 	}
 	
 	\transpose c c' { <<
