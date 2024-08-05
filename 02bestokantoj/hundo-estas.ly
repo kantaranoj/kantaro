@@ -7,7 +7,7 @@
 	title = "Hundo estas"
         %title = "Zime-zum"
 	subtitle = "Esperanta teksto de Paŭlo Balkányi"
-        subsubtitle = "laŭ melodio de ŝerca hungara popolkanto"
+        subsubtitle = "laŭ melodio de ŝerca hungara popolkanto Virágéknál ég a világ"
 	}
 	
 	\transpose c c' {
