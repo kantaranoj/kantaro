@@ -3,7 +3,8 @@
 \score {
 	\header {
 	title = "Blanka muso"
-	subsubtitle = "Tradukis el la itala Lars Sözüer"
+	subtitle = "Originala titolo: Alla fiera dell'est"
+	subsubtitle = "Tradukis Lars Sözüer"
 	}
 	
 	\transpose c a {
@@ -24,8 +25,8 @@
        \bar "|." 
 	\autoBeamOn \autoPageBreaksOn
 	} % relative
-	\addlyrics {
-	En An -- to -- nik' en Ger -- ma -- ni -- o mi -- a pa -- tro a -- ĉe -- tis blan -- kan mu -- son por mi.
+	\addlyrics { \set stanza = #"1. "
+	En mu -- e -- le -- jo en Ĉe -- ĥi -- o* mi -- a pa -- tro a -- ĉe -- tis blan -- kan mu -- son por mi.
         Kaj ve -- nis \markup{\bold "ka"} -- \markup{\bold "to"} kaj al -- sal -- tis la mu -- son, ki -- un la pa -- tro a -- ĉe -- tis por mi.
 	} %addlyrics
 >>
@@ -62,11 +63,11 @@
     \column {
       
     \combine \null \vspace #0.05 % adds vertical spacing between verses
-      \line { \bold "6."		"Jen venis" \bold "bovo" "kaj fortrinkis la akvon ..."
+      \line { \bold "6." "Jen venis" \bold "bovo" "kaj fortrinkis la akvon ..."
       } % line     
 
     \combine \null \vspace #0.1 % adds vertical spacing between verses
-      \line { \bold "7."	 "Jen venis" \bold "buĉisto" "kaj buĉis la bovon ..."
+      \line { \bold "7." "Jen venis" \bold "buĉisto" "kaj buĉis la bovon ..."
       } % line 
      
     \combine \null \vspace #0.1 % adds vertical spacing between verses
@@ -80,3 +81,24 @@
      }  % column
     } % fill-line
 } % markup	
+
+\markup {
+  \fill-line {
+    \column {
+      \combine \null \vspace #0.5 % adds vertical spacing between verses
+      \line { \bold "(*) Klarigo:"
+        \column {
+          \line { "La unua verso celas adaptiĝi al la loko de la kantantoj." }
+          \line { "En REF 2013 oni kantis" \italic "En la kastel' de Greziljon'." }
+          \line { "En REF 2014 oni kantis" \italic "En la gastej' en Lesjöfors'." }
+          \line { "En REF 2018 kaj 2019 oni kantis" \italic "En Antonik' en Germanio." }
+          \line { "En REF 2021 oni kantis" \italic "En feridomo en Aŭstrio." }
+          \line { "En REF 2022 oni kantis" \italic "En kampadej' en Hungario." }
+          \line { "En REF 2024 oni kantis" \italic "En grupodom' en Germanio." }
+          \line { "En REF 2026 oni kantis" \italic "En muelejo en Ĉeĥio." }
+          \combine \null \vspace #0.5 % adds vertical spacing between verses }
+          } % column
+       } % line
+    } % column
+  } % fill-line
+} % markup

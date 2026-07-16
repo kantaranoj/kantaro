@@ -24,7 +24,7 @@
 		     Ĉi -- uj kna -- boj kaj kna -- bi -- noj a -- mas sin,
 		     nur ne -- ni -- u ju -- nu -- le -- to a -- mas min.
 				% rekantaĵo
-		     Ma -- ri -- ŝa ki -- su min, sen pe -- to al pa -- trin
+		     Ma -- ri -- ŝa ki -- su min, sen pe -- to al pa -- trin',
 		     ŝi ju -- na sa -- me fa -- ris pri ki -- soj ne a -- va -- ris.
 	} %addlyrics
 	\addlyrics { \set stanza = #"2. "
@@ -38,6 +38,8 @@
 
 >>
 	} % transpose
+        \layout { }
+        \midi { }
       } % score
 
 

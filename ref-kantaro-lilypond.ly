@@ -30,14 +30,16 @@ tocAct =
 		page-breaking = #ly:optimal-breaking
 	}
 	\header {
-		% title = "Kantaro de REF 2024" % se ŝaltita, aperas en apartaj paĝoj antaŭ ĉiu ĉapitro
+		% title = "Kantaro de REF 2026" % se ŝaltita, aperas en apartaj paĝoj antaŭ ĉiu ĉapitro
 		copyright = "Renkontiĝo de Esperanto-Familioj"
 		tagline = \markup {
 			\center-column {
 				\line {
-					"Kompostita per LilyPond " #(lilypond-version) "por interna uzo dum REF"
+					"Kompostita per LilyPond" #(lilypond-version)
+					"por interna uzo dum REF,"
+					"lasta ŝanĝo je" #(strftime "%Y-%m-%d." (localtime (current-time)))
 				}
-				"Redaktita de Marek, Felix, Edi, Wolfram, Duncan"
+				"Redaktita de Marek, Felix, Edi, Wolfram, Duncan, Rozaria."
 				"Por pli da denaskulaĵoj vizitu https://familioj.miraheze.org/"
 			}
 		}
@@ -51,7 +53,7 @@ tocAct =
       % \hspace #5.0
       \line {
         \bold {
-          "Kantaro de REF 2024"
+          "Kantaro de REF 2026"
           }
         }
       \hspace #2.0
@@ -73,15 +75,15 @@ tocAct =
 \magnify #1.5 {
   \center-column {
     \line {
-      "45-a Renkontiĝo de Esperanto-Familioj"
+      "47-a Renkontiĝo de Esperanto-Familioj"
     }
     \hspace #0.5
     \line {
-      "Geyer, Germanio"
+      "Kapral-muelejo, Ĉeĥio"
     }
     \hspace #1
     \line {
-      "22-a de julio – 1-a de aŭgusto 2024"
+      "20-a – 30-a de julio 2026"
     }
   }
 }

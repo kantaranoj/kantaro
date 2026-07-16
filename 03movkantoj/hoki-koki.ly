@@ -1,81 +1,120 @@
 \tocItem \markup "Hoki-koki"
 \score {
-	\header {
-	title = "Hoki-hoki"
-	subtitle = "laŭ anglalingva kunfara danco Hokey Cokey"
-	subsubtitle = \markup { \vspace #1 }
-	}
-  % nur simbolaj notoj, necesaj por ke entute aperu la titolo:
-  \layout { indent = 9\cm } \new Staff { \omit Staff.BarLine \omit Staff.TimeSignature \omit Score.BarNumber { s1 } }
+        \header {
+        %%% middle column:
+        % dedication = ""
+        title = "Hoki-koki"
+        subtitle = "Hokey Cokey"
+        % subsubtitle = ""
+        % instrument = ""
+        %%% left column:
+        poet = "popola"
+        meter = "elangligis nekonato"
+        % piece = ""
+        %%% right column:
+        composer = "melodio popola brita"
+        % arranger = ""
+        % opus = ""
+        }
+        \new Staff {
+                \time 4/4
+                \partial 4.
+                \key g \major
+                \autoPageBreaksOff
+d'8 
+e'8 
+d'8 
+g'4 
+g'4 
+g'8 
+d'8 
+e'8 
+d'8 
+g'4 
+g'4 
+g'8 
+d'8 
+e'8 
+d'8 
+g'4 
+g'4 
+g'4 
+e'8 
+d'8 
+fis'8 
+eis'8 
+fis'8 
+eis'8 
+fis'4 
+r8 
+d'8 
+fis'8 
+eis'8 
+fis'8 
+eis'8 
+fis'8 
+fis'8 
+e'8 
+d'8 
+fis'8 
+eis'8 
+fis'8 
+eis'8 
+fis'4 
+r4 
+d'8 
+d'4 
+d'8 
+e'4 
+fis'4 
+g'4 
+r4 
+r2 
+                \autoPageBreaksOn
+        } % new Staff
+        \addlyrics { \set stanza = #"1. "
+	La dek -- stran ma -- non en, la dek -- stran ma -- non el, la dek -- stran ma -- non en kaj ĝin svin -- gu jen kaj jen, nun sek -- vas ho -- ki- -- ko -- ki kaj vi tur _ -- nu _ vin, jen ki -- el dan -- cas ni!
+        }
+	\layout { }
+	\midi { }
 } % score
 \noPageBreak
 
 \markup {
-% \combine \null \vspace #0.3 % adds vertical spacing between verses
+\vspace #1
+
+ \fill-line {
+    % \hspace #0.1 % moves the column off the left margin;
+     % can be removed if space on the page is tight
+     \column {
+	\bold "Rekantaĵo:"
+        "Ho, jen la hoki-koki!"
+        "Ho, jen la hoki-koki!"
+        "Ho, jen la hoki-koki!"
+        "Jen kiel dancas ni!"
+        } % column
+    } % fill-line
+} % markup
+
+\markup {
+\vspace #1
       
 \fill-line {
   \column {
      \line {
        \column {
 
-     \line { \bold "1."
-       \column {
-         "La dekstran manon en, la dekstran manon el,"
-         "la ekstran manon en kaj ĝin svingu jen kaj jen,"
-         "nun sekvas hoki-koki kaj vi turnu vin,"
-         "jen kiel dancas ni!"
-         } % column
-      } % line
-     \combine \null \vspace #0.1 % adds vertical spacing between verses
-     \line { \bold "Rekantaĵo:"
-       \column {
-         "Ho, jen la hoki-koki!"
-         "Ho, jen la hoki-koki!"
-         "Ho, jen la hoki-koki!"
-         "Jen kiel dancas ni!"
-         } % column
-      } % line
-     %\combine \null \vspace #0.1 % adds vertical spacing between verses
+     \line { \bold "2." "Maldekstran manon en ..." }
+     \line { \bold "3." "La dekstran kruron en ..." }
+     \line { \bold "4." "Maldekstran kruron en ..." }
 
-       } % column
+        } % column
      \hspace #2.0 % adds horizontal spacing between columns;
-     \column {
+       \column {
 
-     \line { \bold "2."
-       \column {
-         "Maldekstran manon ..."
-         } % column
-      } % line
-     %\combine \null \vspace #0.1 % adds vertical spacing between verses
-     \line { \bold "3."
-       \column {
-         "La dekstran kruron ..."
-         } % column
-      } % line
-     %\combine \null \vspace #0.1 % adds vertical spacing between verses
-     \line { \bold "4."
-       \column {
-         "Maldekstran kruron ..."
-         } % column
-      } % line
-     %\combine \null \vspace #0.1 % adds vertical spacing between verses
-     \line { \bold "5."
-       \column {
-         "La dekstran kokson ..."
-         } % column
-      } % line
-     %\combine \null \vspace #0.1 % adds vertical spacing between verses
-     \line { \bold "6."
-       \column {
-         "Maldekstran kokson ..."
-         } % column
-      } % line
-     %\combine \null \vspace #0.1 % adds vertical spacing between verses
-     \line { \bold "7."
-       \column {
-         "La tutan korpon ..."
-         } % column
-      } % line
+     \line { \bold "5." "La dekstran kokson en ..." }
+     \line { \bold "6." "Maldekstran kokson en ..." }
+     \line { \bold "7." "La tutan korpon en ..." }
 
         } % column
       } % line
