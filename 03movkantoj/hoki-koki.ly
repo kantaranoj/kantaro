@@ -130,7 +130,8 @@ r2
         \column {
           "Oni formas cirklon, rigardante en la centron."
           "Kantante, oni faras la menciatajn movojn (en la cirklon, el la cirklo, svingo, turniĝo)."
-          "Je \"Ho, jen la hoki-koki!\" oni tenante manojn fermas kaj remalfermas la cirklon."
+          "Je \"Ho, jen la hoki-koki!\" oni levante manojn fermas kaj remalfermas la cirklon."
+          "Je \"Jen kiel dancas ni!\" oni aplaŭdas."
           \combine \null \vspace #0.5 % adds vertical spacing between verses
           } % column
        } % line

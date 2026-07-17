@@ -1,4 +1,5 @@
 % FARENDA: ekhavi de Edi la plibonigitan version, inkl. de plibonigo de la nekomprenebla rimo "sur vezik'"
+% NOTO: En REF 2024 oni konstatis, ke "ie alie" en la teksto estas negramatika, sed aliflanke ĝi jam tradiciiĝis en la kanto, do eble konservindas?
 
 \tocItem \markup "La eta verda kakto"
 \score {
@@ -6,10 +7,9 @@
 	title = "La eta verda kakto"
         % subtitle = "originala germana titolo: Mein kleiner grüne Kaktus; tradukita de Nikola, Martin, Jens, Volframo, Edi dum IS 1995–1996"
         subtitle = "tradukita de Nikola, Martin, Jens, Volframo, Edi dum IS 1995–1996"
-	subsubtitle = \markup { \vspace #1 }
 	}
-  % nur simbolaj notoj, necesaj por ke entute aperu la titolo:
-  \layout { indent = 9\cm } \new Staff { \omit Staff.BarLine \omit Staff.TimeSignature \omit Score.BarNumber { s1 } }
+  % por kanto sen notoj necesas ĉi tio:
+  \new Staff { s1 } \layout { \context { \Staff \remove "Staff_symbol_engraver" \remove "Time_signature_engraver" \remove "Clef_engraver" } }
 } % score
 \noPageBreak
 
@@ -18,7 +18,7 @@
       
 \fill-line {
   \column {
-     \line { \bold "Rekantaĵo 1:"
+     \line { \bold "A."
        \column {
          "La eta verda kakto troviĝas sur balkon'."
          "Holari, holara, holaro."
@@ -49,7 +49,7 @@
          } % column
       } % line
      \combine \null \vspace #0.1 % adds vertical spacing between verses
-     \line { \bold "Rekantaĵo 2:"
+     \line { \bold "B."
        \column {
          "Ĉu vi ne havis kakton, ekstere sur balkon'?"
          "Holari, holara, holaro."
@@ -71,7 +71,7 @@
          } % column
       } % line
      \combine \null \vspace #0.1 % adds vertical spacing between verses
-     \line { \bold "Rekantaĵo 3:"
+     \line { \bold "C."
        \column {
          "Pri eta verda kakto ni ne parolu plu."
          "Holari, holara, holaruuu!"
@@ -80,3 +80,20 @@
     } % column
   } % fill-line
 } % markup	
+
+\noPageBreak
+
+\markup {
+  \fill-line {
+    %\hspace #0.1 % moves the column off the left margin;
+     % can be removed if space on the page is tight
+     \column {
+      \combine \null \vspace #0.5 % adds vertical spacing between verses
+      \line { \bold "Klarigo:"
+        \column {
+          "Je \"pik', pik', pik'\" faru per fingro pikajn gestojn al apuduloj."
+          } % column
+      } % line
+    }       
+  }
+}

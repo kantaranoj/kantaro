@@ -10,6 +10,6 @@
 %\pageBreak
 \include "00esperanto/balado-del-akuzativo.ly"
 \markup \vspace #0.5
-\pageBreak
+%\pageBreak
 \include "00esperanto/sola.ly"
 \markup \vspace #0.5

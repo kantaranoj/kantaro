@@ -59,13 +59,13 @@
 	\addlyrics { \set stanza = #"2. "
 	Mur -- mu -- ris ĝi mi -- li -- tan mar -- ŝon glu -- te, 
 	in -- ter la den -- toj vor -- toj res -- tis for,
-	Ki -- am la faŭ -- kon ĝi mal -- fer -- mis tu -- te, 
+	ki -- am la faŭ -- kon ĝi mal -- fer -- mis tu -- te, 
 	la mal -- a -- mi -- koj tre -- mis el la kor'.
 	} %addlyrics
 	\addlyrics { \set stanza = #"3. "
 	Ĉe Ni -- lo -- bor -- do zu -- mis ĝi -- a kan -- to 
 	kaj ĉi -- o tre -- mis ĉe la bord' de Nil',
-	sed _ -- su -- bi -- te ve -- nis e -- le -- fan -- to 
+	sed – su -- bi -- te ve -- nis e -- le -- fan -- to 
 	kaj mal -- a -- pe -- ris bra -- va kro -- ko -- dil'.
 
 	} %addlyrics

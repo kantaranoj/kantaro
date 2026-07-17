@@ -1,3 +1,6 @@
+% NOTO: En REF 2024 Eddie petis "ŝovi la fismon al malpli aĉa melodio"
+% NOTO: eble dikigi ĉiam la frazon "batis la hundon" ktp. (do verbon kun objekto, same kiel oni ĝin kantas) anstataŭ alilinie aparte dikigi la subjekton kaj post ĝi (=post "kaj") la verbon
+
 \tocItem \markup "Blanka muso"
 
 \score {
@@ -26,8 +29,8 @@
 	\autoBeamOn \autoPageBreaksOn
 	} % relative
 	\addlyrics { \set stanza = #"1. "
-	En mu -- e -- le -- jo en Ĉe -- ĥi -- o* mi -- a pa -- tro a -- ĉe -- tis blan -- kan mu -- son por mi.
-        Kaj ve -- nis \markup{\bold "ka"} -- \markup{\bold "to"} kaj al -- sal -- tis la mu -- son, ki -- un la pa -- tro a -- ĉe -- tis por mi.
+	En mu -- e -- le -- jo en Ĉe -- ĥi -- o* mi -- a pa -- tro a -- ĉe -- tis blan -- kan \markup{\bold "mu"} -- \markup{\bold "son"} por mi.
+        Kaj ve -- nis \markup{\bold "ka"} -- \markup{\bold "to"} kaj \markup{\bold "al"} -- \markup{\bold "sal"} -- \markup{\bold "tis"} la mu -- son, ki -- un la pa -- tro a -- ĉe -- tis por mi.
 	} %addlyrics
 >>
 	} % transpose
@@ -40,41 +43,41 @@
     % \hspace #0.1 % moves the column off the left margin;
      % can be removed if space on the page is tight
      \column {
-      \line { \bold "2." "Jen venis" \bold "hundo" "kaj forpelis la katon," } \line{
+      \line { \bold "2." "Jen venis" \bold "hundo" "kaj" \bold "forpelis" "la katon," } \line{
 	"kiu alsaltis la muson, kiun la patro aĉetis por mi."
       } % line
 	  \combine \null \vspace #0.05 % adds vertical spacing between verses
       \line { \bold "3."
-		"Jen venis" \bold "bastono" "kaj batis la hundon," } \line{
+		"Jen venis" \bold "bastono" "kaj" \bold "batis" "la hundon," } \line{
 		  "kiu forpelis la katon kiu alsaltis la muson, kiun la patro ..."
       } % line
 
 \combine \null \vspace #0.05 % adds vertical spacing between verses
       \line { \bold "4."
-		"Jen venis" \bold "fajro" "kaj bruligis la bastonon ..."
+		"Jen venis" \bold "fajro" "kaj" \bold "bruligis" "la bastonon ..."
       } % line
       \combine \null \vspace #0.05 % adds vertical spacing between verses
      
  
-\line { \bold "5." "Jen venis" \bold "akvo" "kaj estingis la fajron ..."
+\line { \bold "5." "Jen venis" \bold "akvo" "kaj" \bold "estingis" "la fajron ..."
       } % line     
       
              } % column
     \column {
       
     \combine \null \vspace #0.05 % adds vertical spacing between verses
-      \line { \bold "6." "Jen venis" \bold "bovo" "kaj fortrinkis la akvon ..."
+      \line { \bold "6." "Jen venis" \bold "bovo" "kaj" \bold "fortrinkis" "la akvon ..."
       } % line     
 
     \combine \null \vspace #0.1 % adds vertical spacing between verses
-      \line { \bold "7." "Jen venis" \bold "buĉisto" "kaj buĉis la bovon ..."
+      \line { \bold "7." "Jen venis" \bold "buĉisto" "kaj" \bold "buĉis" "la bovon ..."
       } % line 
      
     \combine \null \vspace #0.1 % adds vertical spacing between verses
-      \line { \bold "8." "Jen venis" \bold "anĝelo" "kaj prenis la buĉiston ..."
+      \line { \bold "8." "Jen venis" \bold "anĝelo" "kaj" \bold "prenis" "la buĉiston ..."
       } % line     
     \combine \null \vspace #0.1 % adds vertical spacing between verses
-      \line { \bold "9." "Kaj fine venis" \bold "Dio" "kaj faligis la anĝelon ..."
+      \line { \bold "9." "Kaj fine venis" \bold "Dio" "kaj" \bold "faligis" "la anĝelon ..."
 
       } % line   
 
@@ -94,7 +97,8 @@
           \line { "En REF 2018 kaj 2019 oni kantis" \italic "En Antonik' en Germanio." }
           \line { "En REF 2021 oni kantis" \italic "En feridomo en Aŭstrio." }
           \line { "En REF 2022 oni kantis" \italic "En kampadej' en Hungario." }
-          \line { "En REF 2024 oni kantis" \italic "En grupodom' en Germanio." }
+          \line { "En REF 2024 oni kantis" \italic "En Ercmontar' en Germanio." }
+          \line { "En REF 2025 oni kantis" \italic "En Greziljono en Francio." }
           \line { "En REF 2026 oni kantis" \italic "En muelejo en Ĉeĥio." }
           \combine \null \vspace #0.5 % adds vertical spacing between verses }
           } % column

@@ -1,9 +1,11 @@
 %\pageBreak
 \include "03movkantoj/la-auxto-de-la-cxefo.ly"
 \markup \vspace #0.5
+% En REF 2024 estis decidite ne transpreni en la novan kantaron la kanton "Per okuloj vidas ni" pro ne plua uzado.
 %\pageBreak
 \include "03movkantoj/muzikanto.ly"
 \markup \vspace #0.5
+% En REF 2024 estis decidite ne transpreni en la novan kantaron la kanton "Mia korpo" pro ne plua uzado.
 %\pageBreak
 \include "03movkantoj/granda-urso.ly"
 \markup \vspace #0.5
@@ -30,4 +32,7 @@
 \markup \vspace #0.5
 %\pageBreak
 \include "03movkantoj/onklino-el-maroko.ly"
+\markup \vspace #0.5
+%\pageBreak
+\include "03movkantoj/la-korpo-per-muzik.ly"
 \markup \vspace #0.5

@@ -5,7 +5,6 @@
 	\header {
 	title = "Festu kun mi"
         subtitle = "originala franca titolo: Buvons un coup ma serpette est perdue"
-	subsubtitle = \markup { \vspace #1 }
 	}
 %       \transpose c c' {
 %       \relative {

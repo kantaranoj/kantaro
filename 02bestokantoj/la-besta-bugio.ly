@@ -1,3 +1,5 @@
+% NOTO: En REF 2024 oni konstatis, ke necesas "altigi ĉiun duan strofon".
+
 \version "2.20.0"
 
 \tocItem \markup "La besta bugio"
@@ -86,7 +88,7 @@
 	"Ĝi stamfas sur la tero, preskaŭ timas mi."
 	\line { Kiu besto estas ĝi? Estas \bold "elefanto!" }
 	"Stamfu, stamfu, bugi ŭugi ugi (3×)"
-	"Venu vi kaj stampfu kun ni."
+	"Venu vi kaj stamfu kun ni."
         } % column
       } % line
      } % column

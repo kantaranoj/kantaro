@@ -4,10 +4,9 @@
 	title = "Farmisto el Loveno"
         %subtitle = "flandra popolkanto Daar reed een boer naar Leuven; aranĝis Stan Van Vaerenberg, tradukis Saskia Idzerda"
         subtitle = "flandra popolkanto Daar reed een boer naar Leuven; tradukis Saskia Idzerda"
-	subsubtitle = \markup { \vspace #1 }
 	}
-  % nur simbolaj notoj, necesaj por ke entute aperu la titolo:
-  \layout { indent = 9\cm } \new Staff { \omit Staff.BarLine \omit Staff.TimeSignature \omit Score.BarNumber { s1 } }
+  % por kanto sen notoj necesas ĉi tio:
+  \new Staff { s1 } \layout { \context { \Staff \remove "Staff_symbol_engraver" \remove "Time_signature_engraver" \remove "Clef_engraver" } }
 } % score
 \noPageBreak
 

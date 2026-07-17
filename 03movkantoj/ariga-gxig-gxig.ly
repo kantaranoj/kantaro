@@ -3,10 +3,9 @@
 	\header {
 	title = "Ariga-ĝig-ĝig"
 	subtitle = "el la angla tradukis Amanda Schmidt"
-	subsubtitle = \markup { \vspace #1 }
 	}
-  % nur simbolaj notoj, necesaj por ke entute aperu la titolo:
-  \layout { indent = 9\cm } \new Staff { \omit Staff.BarLine \omit Staff.TimeSignature \omit Score.BarNumber { s1 } }
+  % por kanto sen notoj necesas ĉi tio:
+  \new Staff { s1 } \layout { \context { \Staff \remove "Staff_symbol_engraver" \remove "Time_signature_engraver" \remove "Clef_engraver" } }
 } % score
 \noPageBreak
 
@@ -18,7 +17,26 @@
     "Dum laŭ la strato paŝis mi, paŝis mi, paŝis mi,"
     "amikon mian vidis mi, haj ho, haj ho, haj ho!"
     "Ariga-ĝig-ĝig kaj ekiru ni, ekiru ni, ekiru ni,"
-    "ariga-ĝig-ĝig kaj ekiru ni, ekiru ni, ekriu ni. Haj ho, haj ho, haj ho!"
+    "ariga-ĝig-ĝig kaj ekiru ni, ekiru ni, ekiru ni. Haj ho, haj ho, haj ho!"
     } % column
   } % fill-line
 } % markup	
+
+\noPageBreak
+
+\markup {
+  \fill-line {
+    %\hspace #0.1 % moves the column off the left margin;
+     % can be removed if space on the page is tight
+     \column {
+      \combine \null \vspace #0.5 % adds vertical spacing between verses
+      \line { \bold "Klarigo:"
+        \column {
+          "Oni komencas per unu iranta persono."
+          "Komence de nova strofo la iranto alvokas partneron kaj ili paŝas kune man'-en-mane."
+          "Fine de strofo ili disiĝas kaj ĉiu serĉas novan partneron, ĝis ĉiuj partoprenas."
+          } % column
+      } % line
+    }       
+  }
+}

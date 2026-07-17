@@ -7,10 +7,10 @@
 
 \version "2.20.0"
 
-\tocItem \markup "Lingvo por ni"
+\tocItem \markup "Lingvo por ni (tradicia)"
 \score {
 	\header {
-	title = "Lingvo por ni"
+	title = "Lingvo por ni (tradicia)"
 	subtitle = "Originala titolo: My Bonnie is over the Ocean"
 	subsubtitle = "Teksto de Frederick Douglas Murphy (adaptita)"
 	}

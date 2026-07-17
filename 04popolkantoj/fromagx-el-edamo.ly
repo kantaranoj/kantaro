@@ -3,7 +3,8 @@
 \score {
 	\header {
 	  title = "Fromaĝ' el Edamo"
-          subtitle = "originale verkita de Raymond Schwartz"
+          subtitle = "teksto originale verkita de Raymond Schwartz"
+          subsubtitle = "laŭ la melodio de la aŭstra kanto Fliege mit mir in die Heimat (Franz Winkler)"
 	}
 	
 	\transpose c c' { <<

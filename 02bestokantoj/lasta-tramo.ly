@@ -3,10 +3,9 @@
 \score {
 	\header {
 	title = "Lasta tramo"
-	subsubtitle = \markup { \vspace #1 }
 	}
-  % nur simbolaj notoj, necesaj por ke entute aperu la titolo:
-  \layout { indent = 9\cm } \new Staff { \omit Staff.BarLine \omit Staff.TimeSignature \omit Score.BarNumber { s1 } }
+  % por kanto sen notoj necesas ĉi tio:
+  \new Staff { s1 } \layout { \context { \Staff \remove "Staff_symbol_engraver" \remove "Time_signature_engraver" \remove "Clef_engraver" } }
 } % score
 \noPageBreak
 
@@ -29,10 +28,11 @@
       \line { "\"Foriris lasta tramo, ĉu mi povas dormi ĉe vi?\"" }
 
 	\combine \null \vspace #0.05 % adds vertical spacing between verses
-      \line { \bold "3.–7." \italic "La infanoj elpensas pliajn personojn aŭ bestojn." }
+      \line { \bold "3.–7." "Je la" \italic "(…)" "horo dormas" \italic "(…)" "elefanto, policano kaj mi en la lit'…" }
+      \line { \italic "La infanoj elpensas pliajn personojn aŭ bestojn." }
 
 	\combine \null \vspace #0.05 % adds vertical spacing between verses
-      \line { \bold "8." "Je la kvina horo dormas policano, ..., kaj mi en la lit'." }
+      \line { \bold "8." "Je la kvina horo dormas" \italic "(…)," "elefanto, policano, kaj mi en la lit'." }
       \line { "Sonoras vekhorloĝo: BRING!" }
       \line { "\"Ĉiuj ellitiĝu, ekiras unua tramo!\"" }
 

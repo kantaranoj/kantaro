@@ -66,3 +66,19 @@ r4
 	\midi { }
 } % score
 \noPageBreak
+
+\markup {
+  \fill-line {
+    %\hspace #0.1 % moves the column off the left margin;
+     % can be removed if space on the page is tight
+     \column {
+      \combine \null \vspace #0.5 % adds vertical spacing between verses
+      \line { \bold "Klarigo:"
+        \column {
+          "Oni staras en cirklo, tenante la najbarojn per siaj brakoj."
+          "Oni komencas moviĝi dekstren, sed ĉe ĉiu \"danc'\" oni paŝfrapas kaj inversigas la direkton."
+        } % column
+      } % line
+    }       
+  }
+}

@@ -1,3 +1,5 @@
+% NOTO: En REF 2024 estis proponite preferi la pli konatan tekston uzatan de la kantisto JoMo, sed ne klaras, kiu tiu estas.
+
 \tocItem \markup "Dancu, dancu"
 
 \score {

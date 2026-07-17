@@ -4,10 +4,9 @@
 	title = "Aventuroj de la eta Juju'"
 	subtitle = "Originala bosna titolo: Bila mama Kukunka, bio tata Taranta"
         subsubtitle = "verkis Goran Bregović (el Bijelo Dugme), tradukis Vanja Radovanović"
-	%subsubtitle = \markup { \vspace #1 }
 	}
-  % nur simbolaj notoj, necesaj por ke entute aperu la titolo:
-  \layout { indent = 9\cm } \new Staff { \omit Staff.BarLine \omit Staff.TimeSignature \omit Score.BarNumber { s1 } }
+  % por kanto sen notoj necesas ĉi tio:
+  \new Staff { s1 } \layout { \context { \Staff \remove "Staff_symbol_engraver" \remove "Time_signature_engraver" \remove "Clef_engraver" } }
 } % score
 \noPageBreak
 
@@ -62,7 +61,7 @@
          \combine \null \vspace #0.1 % adds vertical spacing between verses
          \line { \bold "6."
            \column {
-             "Kuras panjo Kukumka, Kukumka,"
+             \line { \italic "(rapide)" "Kuras panjo Kukumka, Kukumka," }
              "kuras paĉjo Taranta, Taranta,"
              "ili prenas bovon bakitan."
              } % column
@@ -78,7 +77,7 @@
          \combine \null \vspace #0.1 % adds vertical spacing between verses
          \line { \bold "8."
            \column {
-             "(rapide) Ĝojas panjo Kukumka, Kukumka,"
+             \line { \italic "(rapide)" "Ĝojas panjo Kukumka, Kukumka," }
              "ĝojas paĉjo Taranta, Taranta,"
              "kaj kun ili eta Jujuo."
              } % column

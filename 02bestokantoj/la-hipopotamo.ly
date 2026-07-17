@@ -1,3 +1,5 @@
+% NOTO: klopodi teni ĉi tion sur unusola paĝo (aŭ du apudaj)
+
 \version "2.20.0"
 
 \tocItem \markup "La hipopotamo"

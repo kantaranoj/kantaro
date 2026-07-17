@@ -3,10 +3,9 @@
 	\header {
 	title = "Sola"
         subtitle = "Kim J. Henriksen (Amplifiki, Esperanto Desperado)"
-	subsubtitle = \markup { \vspace #1 }
 	}
-  % nur simbolaj notoj, necesaj por ke entute aperu la titolo:
-  \layout { indent = 9\cm } \new Staff { \omit Staff.BarLine \omit Staff.TimeSignature \omit Score.BarNumber { s1 } }
+  % por kanto sen notoj necesas ĉi tio:
+  \new Staff { s1 } \layout { \context { \Staff \remove "Staff_symbol_engraver" \remove "Time_signature_engraver" \remove "Clef_engraver" } }
 }
 \noPageBreak
 
@@ -32,7 +31,7 @@
        \column {
          "Mi venis finfine al la kongreso kaj tie renkontiĝis kun karaj amikoj."
          "Ni kisis, brakumis kaj estis gajaj."
-         "Nun mi estas kun fratoj kaj fratinoj de la tuta mondo kaj ne"
+         "Nun mi estas kun fratoj kaj fratinoj de la tuta mondo kaj tute ne"
          "Sola, sola, so-la, sola, sola, so-la."
          } % column
       } % line

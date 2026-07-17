@@ -1,13 +1,14 @@
 \tocItem \markup "Hundo estas"
 
 % Marek: ĉu vere ĝi apartenas al "bestokantoj", nur pro la mencio de hundo en la unua strofo?
+% NOTO: ĉapitro 9 estis korektita de Edi dum REF 2024 por ke ĝi rimiĝu (originale estis: "plafono" kaj "planko")
 
 \score {
 	\header {
 	title = "Hundo estas"
         %title = "Zime-zum"
 	subtitle = "Esperanta teksto de Paŭlo Balkányi"
-        subsubtitle = "laŭ melodio de ŝerca hungara popolkanto"
+        subsubtitle = "laŭ melodio de ŝerca hungara popolkanto Virágéknál ég a világ"
 	}
 	
 	\transpose c c' {
@@ -107,8 +108,8 @@ zi -- me -- zum, zi -- me -- zum, es -- tas fes -- to –_bum, bum, bum.
       \combine \null \vspace #0.1 % adds vertical spacing between verses
       \line { \bold " 9."
         \column {
-		"Supre estas la plafono,"
-		"kaj malsupre estas planko;"
+		"Muroj jen ĉe ĉiu flanko,"
+		"sub piedoj estas planko;"
 		"zi-me-zum, zi-me-zum,"
 		"estas planko – bum, bum, bum."
         } % column

@@ -3,10 +3,9 @@
 	\header {
 	title = "Muzikanto"
         subtitle = "silezia popolkanto"
-	subsubtitle = \markup { \vspace #1 }
 	}
-  % nur simbolaj notoj, necesaj por ke entute aperu la titolo:
-  \layout { indent = 9\cm } \new Staff { \omit Staff.BarLine \omit Staff.TimeSignature \omit Score.BarNumber { s1 } }
+  % por kanto sen notoj necesas ĉi tio:
+  \new Staff { s1 } \layout { \context { \Staff \remove "Staff_symbol_engraver" \remove "Time_signature_engraver" \remove "Clef_engraver" } }
 } % score
 \noPageBreak
 
@@ -67,3 +66,20 @@
       } % column
     } % fill-line
 } % markup	
+
+\noPageBreak
+
+\markup {
+  \fill-line {
+    %\hspace #0.1 % moves the column off the left margin;
+     % can be removed if space on the page is tight
+     \column {
+      \combine \null \vspace #0.5 % adds vertical spacing between verses
+      \line { \bold "Klarigo:"
+        \column {
+          "Dum \"sonas\" la instrumentoj, oni gestas ludadon per ili."
+          } % column
+      } % line
+    }       
+  }
+}

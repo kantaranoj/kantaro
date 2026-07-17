@@ -10,6 +10,8 @@
 
 % solvindas la malsama kvanto da silaboj ĉe la diversaj profesioj (mariston kaj pentriston havas nur 3, esperantiston havas 5, dum mueliston kaj kameniston havas 4)
 
+% NOTO: Dum REF 2024 Hanna petis realdoni ankaŭ la originalan tekston (el la kantaro de REF 2019), sed tiu ŝajnas apenaŭ kongrui kun la melodio. 
+
 \tocItem \markup "Pri koloroj"
 \score {
 	\header {
@@ -25,7 +27,10 @@
 		\time 2/4
 		\key f \major
 	\autoBeamOff
-	 f4 f g g f8 e d e f4 c f f g g f8 e d e f2 a8 a a c bes4 bes g8 g g bes a4 a f f8 f g4 g f8 e d e f2 \bar "|." 
+	 f4 f g g f8 e d e f4 c f f g g f8 e d e f2
+         \repeat volta 2 {
+         a8 a a c bes4 bes g8 g g bes a4 a f f8 f g4 g f8 e d e f2
+         }
 	\autoBeamOn
 	} % relative
 	\addlyrics {

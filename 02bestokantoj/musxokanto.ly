@@ -1,12 +1,14 @@
+% NOTO: En REF 2024 Feliks avertis, ke ĉar muŝo ne havas pikilon, oni eble ŝanĝu al "kulo" (same kiel estas en germana teksto).
+% NOTO: En REF 2024 Karolin diris, ke ŝi konas melodion, origine hungaran.
+
 \tocItem \markup "Muŝo-kanto"
 
 \score {
 	\header {
 	title = "Muŝo-kanto"
-	subsubtitle = \markup { \vspace #1 }
 	}
-  % nur simbolaj notoj, necesaj por ke entute aperu la titolo:
-  \layout { indent = 9\cm } \new Staff { \omit Staff.BarLine \omit Staff.TimeSignature \omit Score.BarNumber { s1 } }
+  % por kanto sen notoj necesas ĉi tio:
+  \new Staff { s1 } \layout { \context { \Staff \remove "Staff_symbol_engraver" \remove "Time_signature_engraver" \remove "Clef_engraver" } }
 } % score
 \noPageBreak
 

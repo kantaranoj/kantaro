@@ -18,11 +18,11 @@
 \include "01ref-kantoj/lingvo-por-ni-tomio.ly"
 \markup \vspace #0.5
 %\pageBreak
-\include "01ref-kantoj/veterokanto.ly"
-\markup \vspace #0.5
+% \include "01ref-kantoj/veterokanto.ly" %  nekonata dum REF 2024 kaj tial ellasota
+% \markup \vspace #0.5
 %\pageBreak 
-\include "01ref-kantoj/tru-en-la-poto.ly"
-\markup \vspace #0.5
+% \include "01ref-kantoj/tru-en-la-poto.ly" %  opiniata neuzata dum REF 2024 kaj tiel ellasota
+% \markup \vspace #0.5
 %\pageBreak
 \include "01ref-kantoj/estas-tru-en-sitelo.ly"
 \markup \vspace #0.5

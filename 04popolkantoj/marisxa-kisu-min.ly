@@ -1,3 +1,5 @@
+% NOTO: En REF 2024 ŝajne Marek registris videaĵon de akompanaj movoj.
+
 \tocItem \markup "Mariŝa kisu min"
 
 \score {
@@ -29,7 +31,7 @@
 	} %addlyrics
 	\addlyrics { \set stanza = #"2. "
 		     Ba -- tas pan -- jo, ba -- tas pan -- jo, ba -- tas min,
-		     ke mi a -- mas, ke mi ki -- sas, kna -- bo vin.
+		     se mi a -- mas, se mi ki -- sas, kna -- bo, vin.
 		   } %addlyrics
 		\addlyrics { \set stanza = #"3. "
 			     Si -- das pan -- jo, si -- das pan -- jo sur kor -- tet',

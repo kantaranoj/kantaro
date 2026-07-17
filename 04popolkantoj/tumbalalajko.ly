@@ -1,3 +1,5 @@
+% NOTO: prefere ne estu dividita inter du paĝoj
+
 \tocItem \markup "Tumbalalajko"
 
 \score {
@@ -80,6 +82,3 @@
      
      >> % ChoirStaff
       } % score
-
-
-

@@ -10,4 +10,10 @@
 %\pageBreak
 \include "06folk-rok-pop/la-eta-verda-kakto.ly"
 \markup \vspace #0.5
+%\pageBreak
+\include "06folk-rok-pop/vere-longe-jam.ly"
+\markup \vspace #0.5
+%\pageBreak
+\include "06folk-rok-pop/flava-biciklo.ly"
+\markup \vspace #0.5
 

@@ -8,6 +8,8 @@
 
 % Marek: mi grandparte korektis la kvanton de silaboj (4 kiam parolas Lizbeto, 7 kiam parolas Henriko), krom unu loko (la malsekigado de la ŝtono) kie neniu el la ebloj estas plene kontentiga, kiel indikite
 
+% NOTO: En REF 2024 oni petis "adapti la notojn"
+
 \tocItem \markup "Estas tru' en sitelo"
 \score {
 	\header {

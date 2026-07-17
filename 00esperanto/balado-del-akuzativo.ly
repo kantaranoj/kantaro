@@ -7,7 +7,7 @@
 	\header {
 	  title = "La balado de l' akuzativo"
 	  composer = "muziko laŭ Tumbalalajko"
-	  subsubtitle = "Volframo Distel' laŭ ideo de Edi Werner"
+	  subsubtitle = "verkis Edi Werner, Volframo Distel' kaj Uli"
 	}
 	
 
@@ -79,5 +79,20 @@
      >> % ChoirStaff
       } % score
 
+\noPageBreak
 
-
+\markup {
+  \fill-line {
+    %\hspace #0.1 % moves the column off the left margin;
+     % can be removed if space on the page is tight
+     \column {
+      \combine \null \vspace #0.5 % adds vertical spacing between verses
+      \line { \bold "Klarigo:"
+        \column {
+          "Averto: \"Ne faru ĝin hejme!\" :-)"
+          "Eble indas klarigi al la denaskuloj, kio estas \"akuzativo\"."
+          } % column
+      } % line
+    }       
+  }
+}

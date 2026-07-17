@@ -57,7 +57,7 @@ f'4.
                 \autoPageBreaksOn
         } % new Staff
         \addlyrics { %\set stanza = #"1. "
-	Por trajn -- hal -- tig', en ka -- zo de dan -- ĝe _ -- ro, ti -- ru la ŝnu -- ron, ti -- ru la ŝnu -- ron. Mis -- u -- zan -- toj de -- vas pa -- gi pun -- dojn tri.
+	Por trajn -- hal -- tig', en ka -- zo de dan -- ĝe _ -- ro, ti -- ru la ŝnu -- ron, ti -- ru la ŝnu -- ron. Mis -- u -- zin -- toj de -- vas pa -- gi pun -- dojn tri.
         }
 	\layout { }
 	\midi { }

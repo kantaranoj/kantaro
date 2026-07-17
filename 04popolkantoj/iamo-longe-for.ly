@@ -3,7 +3,7 @@
 \score {
 	\header {
 	  title = "La iamo longe for"
-	  poet = "poemo de Robert Burns"
+	  poet = "poemo Auld Lang Syne de Robert Burns"
 	  subsubtitle = "skota popolkanto, tradukis Reto Rosetti"
 	}
 	

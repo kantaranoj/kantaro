@@ -1,5 +1,7 @@
 % kontrolindas la korespondo inter la notoj kaj ĉiu el la du strofoj (kiuj ĉiu havas malsaman kvanton da silaboj ĉe la fino)
 
+% NOTO: En REF 2024 Markos kaj Uljana diris, ke ili konas movojn por tiu kanto.
+
 \tocItem \markup "Du amikoj"
 \score {
 	\header {

@@ -1,8 +1,9 @@
-\tocItem \markup "Vespera kanto (unuvoĉe)"
+\tocItem \markup "La luno (unuvoĉe)"
 
 \score {
 	\header {
-	  title = "Vespera kanto (unuvoĉe)"
+	  % title = "Vespera kanto (unuvoĉe)" % en REF 2024 estis decidite alinomi la kanton al "La luno" (por aliaj nomoj vidu "Vespera kanto (poemo)" en Vikipedio)
+	  title = "La luno (unuvoĉe)"
 	  composer = "Joh. A. P. Shulz (1747-1800)"
 	  poet = "de Matthias Claudius, 1778"
 	  subsubtitle = "el la germana tradukis Volframo Distel'"

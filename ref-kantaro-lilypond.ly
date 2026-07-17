@@ -24,14 +24,36 @@ tocAct =
 		evenHeaderMarkup = \markup
 		\fill-line {
 			\if \should-print-page-number { \unless \on-last-page \fromproperty #'page:page-number-string }
-			\unless \on-first-page-of-part \fromproperty #'header:instrument
+			\unless \on-first-page-of-part \fromproperty #'header:title
 			""
 			}
+		oddHeaderMarkup = \markup
+		\fill-line {
+			""
+			\unless \on-first-page-of-part \fromproperty #'header:title
+			\if \should-print-page-number { \unless \on-last-page \fromproperty #'page:page-number-string }
+			}
 		page-breaking = #ly:optimal-breaking
+		top-system-spacing = 
+			#'((basic-distance . 12)
+			(minimum-distance . 6)
+			(padding . 1)
+			(stretchability . 12))
+		markup-system-spacing = 
+			#'((basic-distance . 12)
+			(minimum-distance . 6)
+			(padding . 1)
+			(stretchability . 12))
+% ĉi tio helpas funkciigi la sen-notajn kantojn (por ke ne aperu tro granda blanko spaco anstataŭ la muziko):
+		score-markup-spacing = 
+			#'((basic-distance . 0)
+			(minimum-distance . 0)
+			(padding . 6)
+			(stretchability . 1.0e7))
 	}
 	\header {
 		% title = "Kantaro de REF 2026" % se ŝaltita, aperas en apartaj paĝoj antaŭ ĉiu ĉapitro
-		copyright = "Renkontiĝo de Esperanto-Familioj"
+		% copyright = "Renkontiĝo de Esperanto-Familioj"
 		tagline = \markup {
 			\center-column {
 				\line {
@@ -50,23 +72,24 @@ tocAct =
   \fill-line {
   \magnify #3.0 {
     \center-column {
-      % \hspace #5.0
+      \vspace #2.0
       \line {
         \bold {
           "Kantaro de REF 2026"
           }
         }
-      \hspace #2.0
       }
     }
   }
 }
 
 \markup {
+  \fill-line {
   \general-align #Y #DOWN {
  % \general-align #Y #DOWN {
     \epsfile #X #100 #"bildoj/ref.eps"
     %\epsfile #Y #20 #"Picture1.eps" ŝ
+  }
   }
 }
 
@@ -74,30 +97,45 @@ tocAct =
 \fill-line {
 \magnify #1.5 {
   \center-column {
+    \vspace #1
     \line {
       "47-a Renkontiĝo de Esperanto-Familioj"
     }
-    \hspace #0.5
+    \vspace #1
     \line {
       "Kapral-muelejo, Ĉeĥio"
     }
-    \hspace #1
+    \vspace #0.5
     \line {
       "20-a – 30-a de julio 2026"
     }
+    \vspace #2
   }
 }
 }
+}
+
+\markup {
+  \fill-line {
+  \general-align #Y #DOWN {
+ % \general-align #Y #DOWN {
+    \epsfile #X #70 #"bildoj/flugantoj.eps"
+    %\epsfile #Y #20 #"Picture1.eps" ŝ
+  }
+  }
 }
 
 \pageBreak
 
 
 
-\tocAct actI \markup { Esperantaj kantoj }
+\tocAct actI \markup { 0. Esperantaj kantoj }
 \bookpart {
 	\header {
-		title = "Esperantaj kantoj"
+		title = "0. Esperantaj kantoj"
+	}
+	\paper {
+		bookTitleMarkup = \markup { \column { \underline \fill-line { \fontsize #6 \fromproperty #'header:title } \vspace #1 } }
 	}
 %\markup {
 % % \general-align #Y #LEFT {
@@ -110,59 +148,80 @@ tocAct =
 \include "00esperanto/cxiuj-kantoj.ly"
 } % bookpart
 
-\tocAct actI \markup { REF-kantoj }
+\tocAct actI \markup { 1. REF-kantoj }
 \bookpart {
 	\header {
-		title = "REF-kantoj"
+		title = "1. REF-kantoj"
 	} % header
+	\paper {
+		bookTitleMarkup = \markup { \column { \underline \fill-line { \fontsize #6 \fromproperty #'header:title } \vspace #1 } }
+	}
 \include "01ref-kantoj/cxiuj-kantoj.ly"
 } % bookpart
 
-\tocAct actI \markup { Besto-kantoj }
+\tocAct actI \markup { 2. Besto-kantoj }
 \bookpart {
 	\header {
-		title = "Besto-kantoj"
+		title = "2. Besto-kantoj"
 	} % header
+	\paper {
+		bookTitleMarkup = \markup { \column { \underline \fill-line { \fontsize #6 \fromproperty #'header:title } \vspace #1 } }
+	}
 \include "02bestokantoj/cxiuj-kantoj.ly"
 } % bookpart
 
-\tocAct actI \markup { Mov-kantoj }
+\tocAct actI \markup { 3. Mov-kantoj }
 \bookpart {
 	\header {
-		title = "Mov-kantoj"
+		title = "3. Mov-kantoj"
 	} % header
+	\paper {
+		bookTitleMarkup = \markup { \column { \underline \fill-line { \fontsize #6 \fromproperty #'header:title } \vspace #1 } }
+	}
 \include "03movkantoj/cxiuj-kantoj.ly"
 } % bookpart
 
-\tocAct actI \markup { Popol-kantoj }
+\tocAct actI \markup { 4. Popol-kantoj }
 \bookpart {
 	\header {
-		title = "Popol-kantoj"
+		title = "4. Popol-kantoj"
 	} % header
+	\paper {
+		bookTitleMarkup = \markup { \column { \underline \fill-line { \fontsize #6 \fromproperty #'header:title } \vspace #1 } }
+	}
 \include "04popolkantoj/cxiuj-kantoj.ly"
 } % bookpart
 
-\tocAct actI \markup { Kanonoj kaj plurvoĉaj kantoj }
+\tocAct actI \markup { 5. Kanonoj kaj plurvoĉaj kantoj }
 \bookpart {
 	\header {
-		title = "Kanonoj kaj plurvoĉaj kantoj"
+		title = "5. Kanonoj kaj plurvoĉaj kantoj"
 	} % header
+	\paper {
+		bookTitleMarkup = \markup { \column { \underline \fill-line { \fontsize #6 \fromproperty #'header:title } \vspace #1 } }
+	}
 \include "05kanonoj/cxiuj-kantoj.ly"
 } % bookpart
 
-\tocAct actI \markup { Folk', rok' kaj pop' }
+\tocAct actI \markup { 6. Folk', rok' kaj pop' }
 \bookpart {
 	\header {
-		title = "Folk', rok' kaj pop'"
+		title = "6. Folk', rok' kaj pop'"
 	} % header
+	\paper {
+		bookTitleMarkup = \markup { \column { \underline \fill-line { \fontsize #6 \fromproperty #'header:title } \vspace #1 } }
+	}
 \include "06folk-rok-pop/cxiuj-kantoj.ly"
 } % bookpart
 
-\tocAct actI \markup { Vesper- kaj lulkantoj }
+\tocAct actI \markup { 7. Vesper- kaj lulkantoj }
 \bookpart {
 	\header {
-		title = "Vesper- kaj lulkantoj"
+		title = "7. Vesper- kaj lulkantoj"
 	} % header
+	\paper {
+		bookTitleMarkup = \markup { \column { \underline \fill-line { \fontsize #6 \fromproperty #'header:title } \vspace #1 } }
+	}
 \include "07vesperkantoj/cxiuj-kantoj.ly"
 } % bookpart
 	

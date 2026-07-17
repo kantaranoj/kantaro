@@ -1,3 +1,6 @@
+% NOTO: En REF 2024 oni rimarkigis ke necesas ŝanĝi la melodion al "nia tradicia"
+% NOTO: En REF 2024 oni rimarkigis ke en la fino eble mankas ripeto de "um-e"???
+
 \tocItem \markup "Rano en lageto"
 \score {
 	\header {
@@ -41,6 +44,9 @@ Kaj la al -- goj en la a -- kvo fa -- ras ŝlin -- ge -- lin -- ge -- ling,
 ŝlin -- ge -- lin -- ge -- ling, ŝlin -- ge -- lin -- ge -- ling,
 kaj la al -- goj en la a -- kvo fa -- ras ŝlin -- ge -- lin -- ge -- ling,
 kaj la ra -- no fa -- ras um-e.
+	}
+\addlyrics { \set stanza = #"3. "
+\markup{\bold "= 1."}
 	}
 >>
 	} % transpose
