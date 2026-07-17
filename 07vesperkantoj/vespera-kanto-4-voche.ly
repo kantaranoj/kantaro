@@ -4,9 +4,9 @@
 	\header {
           % title = "Vespera kanto (kvarvoĉe)" % en REF 2024 estis decidite alinomi la kanton al "La luno" (por aliaj nomoj vidu "Vespera kanto (poemo)" en Vikipedio)
 	  title = "La luno (kvarvoĉe)"
-	  composer = "melodio de Joh. A. P. Shulz, aranĝo laŭ Karl Schleifer"
-	  poet = "de Matthias Claudius, 1778"
-	  subsubtitle = "el la germana tradukis Volframo Distel'"
+	  % composer = "melodio de Joh. A. P. Shulz, aranĝo laŭ Karl Schleifer"
+	  % poet = "de Matthias Claudius, 1778"
+	  % subsubtitle = "el la germana tradukis Volframo Distel'"
 	}
 	
 
@@ -89,33 +89,36 @@
      >> % ChoirStaff
       } % score
 
-\markup {
-  \fill-line {
-     \hspace #1 % moves the column off the left margin;
-     % can be removed if space on the page is tight
-     \column {
-       \combine \null \vspace #0.06 % adds vertical spacing between verses
+%\markup {
+%  \fill-line {
+%    \bold "4.+5." "(same kiel supre)"
+%  }
+%}
 
-       \line { \bold "4." "Nin, homojn fierantajn," }
-       \line { "pekulojn povrajn vantajn," }
-       \line { "jam ĝenas bagatel'." }
-       \line { "Ni blovas sapvezikojn" }
-       \line {  "kaj serĉas artifikojn;" }
-       \line { "foriĝas plu de l' vera cel'." }
-              } % column
-     \hspace #2
-     \column {
-
-       \combine \null \vspace #0.06 % adds vertical spacing between verses
-  
-       \line { \bold "5." "Ekkuŝu do, gefratoj," }
-       \line { "de nia Di' gardatoj!" }      
-       \line { "Fridetas nokta klar'." }
-       \line { "Ho Di', ne furiozu," }
-       \line { "por ke ni nun ripozu;" }
-       \line { "saniĝu dorme la najbar'." }
-     }  % column
-     \hspace #3
-    } % fill-line
-} % markup      
+%\markup {
+%  \fill-line {
+%     \hspace #1 % moves the column off the left margin;
+%     % can be removed if space on the page is tight
+%     \column {
+%
+%       \line { \bold "4." "Nin, homojn fierantajn," }
+%       \line { "pekulojn povrajn vantajn," }
+%       \line { "jam ĝenas bagatel'." }
+%       \line { "Ni blovas sapvezikojn" }
+%       \line {  "kaj serĉas artifikojn;" }
+%       \line { "foriĝas plu de l' vera cel'." }
+%              } % column
+%     \hspace #2
+%     \column {
+%
+%       \line { \bold "5." "Ekkuŝu do, gefratoj," }
+%       \line { "de nia Di' gardatoj!" }      
+%       \line { "Fridetas nokta klar'." }
+%       \line { "Ho Di', ne furiozu," }
+%       \line { "por ke ni nun ripozu;" }
+%       \line { "saniĝu dorme la najbar'." }
+%     }  % column
+%     \hspace #3
+%    } % fill-line
+%} % markup      
 

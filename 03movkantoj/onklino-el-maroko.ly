@@ -44,7 +44,7 @@
 \markup {
   \column {
     \left-align {
-      "Rekantaĵo:"
+      \bold { "Rekantaĵo:" }
       "Kantu ja, ja, jipi jipi je (hip hop)"
       "Kantu ja, ja, jipi jipi je (hip hop)"
       "Kantu ja, ja, jipi jipi, ja, ja, jipi jipi"
@@ -52,13 +52,13 @@
     }
     \null
     \left-align {
-      "2. Kaj ŝi rajdos sur kamelo, venos ŝi --- (hopel hopel) ... Rek."
-      "3. Kaj ŝi pafos per pistolo, venos ŝi --- (pif paf) ... Rek."
-      "4. Kaj eksonos sonoriloj, venos ŝi --- (bim bam) ... Rek."
-      "5. Kaj ni kantos kanoneton, venos ŝi --- (la la) ... Rek."
-      "6. Kaj ni buĉos la porketon, venos ŝi --- (riĉ raĉ) ... Rek."
-      "7. Ĵus alvenis nur letero, sed ne ŝi --- (ooooo) ... Rek."
-      "8. Ĵus alvenis telegramo, venos ŝi --- (hu ra) ... Rek."
+      \line{ \bold 2. "Kaj ŝi rajdos sur kamelo, venos ŝi --- (hopel hopel) ... Rek." }
+      \line{ \bold 3. "Kaj ŝi pafos per pistolo, venos ŝi --- (pif paf) ... Rek." }
+      \line{ \bold 4. "Kaj eksonos sonoriloj, venos ŝi --- (bim bam) ... Rek." }
+      \line{ \bold 5. "Kaj ni kantos kanoneton, venos ŝi --- (la la) ... Rek." }
+      \line{ \bold 6. "Kaj ni buĉos la porketon, venos ŝi --- (riĉ raĉ) ... Rek." }
+      \line{ \bold 7. "Ĵus alvenis nur letero, sed ne ŝi --- (ooooo) ... Rek." }
+      \line{ \bold 8. "Ĵus alvenis telegramo, venos ŝi --- (hu ra) ... Rek." }
     }
   }
 }

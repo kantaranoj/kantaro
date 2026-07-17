@@ -4,7 +4,8 @@
 \score {
 	\header {
 	title = "Flava biciklo"
-        subtitle = "tradicia sveda kanto, tradukita de Tomas Frejarö dum REF 2023"
+        subtitle = "tradicia sveda kanto"
+	subsubtitle = "tradukita de Tomas Frejarö dum REF 2023"
 	}
   % por kanto sen notoj necesas ĉi tio:
   \new Staff { s1 } \layout { \context { \Staff \remove "Staff_symbol_engraver" \remove "Time_signature_engraver" \remove "Clef_engraver" } }
@@ -16,6 +17,7 @@
       
 \fill-line {
   \column {
+     \vspace #1
      \line {
        \column {
          "Flavan biciklon, biciklon havas mi."

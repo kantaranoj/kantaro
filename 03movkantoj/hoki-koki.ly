@@ -81,11 +81,10 @@ r2
 \noPageBreak
 
 \markup {
-\vspace #1
-
- \fill-line {
-    % \hspace #0.1 % moves the column off the left margin;
-     % can be removed if space on the page is tight
+      
+\fill-line {
+  \column {
+     \line {
      \column {
 	\bold "Rekantaĵo:"
         "Ho, jen la hoki-koki!"
@@ -93,15 +92,7 @@ r2
         "Ho, jen la hoki-koki!"
         "Jen kiel dancas ni!"
         } % column
-    } % fill-line
-} % markup
-
-\markup {
-\vspace #1
-      
-\fill-line {
-  \column {
-     \line {
+     \hspace #2.0 % adds horizontal spacing between columns;
        \column {
 
      \line { \bold "2." "Maldekstran manon en ..." }

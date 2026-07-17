@@ -1,18 +1,18 @@
 %\pageBreak
 \include "05kanonoj/en-gxangalo.ly"
-\markup \vspace #0.5
-%\pageBreak
-\include "05kanonoj/cxiam-ronderond.ly"
-\markup \vspace #0.5
-%\pageBreak
-\include "05kanonoj/por-trajnhaltig.ly"
-\markup \vspace #0.5
-% En REF 2024 estis decidite ne plu teni ĉi tie la kanton "Horloĝoj" el la malnova kantaro pro nekonateco
-%\pageBreak
-\include "05kanonoj/la-plej-bela-vorto.ly"
-\markup \vspace #0.5
-% En REF 2024 estis decidite ne plu teni ĉi tie la kanton "Nun velu ni" el la malnova kantaro pro nekonateco
-%\pageBreak
+\noPageBreak
+\markup \vspace #1 \noPageBreak
+\noPageBreak
 \include "05kanonoj/frukta-kanono.ly"
-\markup \vspace #0.5
+%\pageBreak
+\markup \vspace #0.5 \noPageBreak
+\include "05kanonoj/cxiam-ronderond.ly"
+%\pageBreak
+\markup \vspace #2 \noPageBreak
+\include "05kanonoj/por-trajnhaltig.ly"
+%\pageBreak
+\markup \vspace #0.5 \noPageBreak
+\include "05kanonoj/la-plej-bela-vorto.ly"
+% En REF 2024 estis decidite ne plu teni ĉi tie la kanton "Horloĝoj" el la malnova kantaro pro nekonateco
+% En REF 2024 estis decidite ne plu teni ĉi tie la kanton "Nun velu ni" el la malnova kantaro pro nekonateco
 

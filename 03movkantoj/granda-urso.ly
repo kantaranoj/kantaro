@@ -73,7 +73,6 @@ c'2
 \noPageBreak
 
 \markup {
-\vspace #1
       
  \fill-line {
     % \hspace #0.1 % moves the column off the left margin;
@@ -93,16 +92,15 @@ c'2
     %\hspace #0.1 % moves the column off the left margin;
      % can be removed if space on the page is tight
      \column {
-      \combine \null \vspace #0.5 % adds vertical spacing between verses
+      \vspace #1
       \line { \bold "Klarigo:"
         \column {
           "Unu infano kaŭras kaj ludas la urson."
           "Aliaj infanoj tenas manojn kaj moviĝas ĉirkaŭ ĝi, kantante."
           "Post ĉiu \"horo\" venas paŭzo, en kiu la urso faras sonon aŭ ekkaptas."
           "Ĉiuj diskuras. Ripetu kelkfoje: La unua kaptito fariĝas la nova urso."
-              \combine \null \vspace #0.5 % adds vertical spacing between verses
-            } % column
-      } %
-        }       
+          } % column
+        } %
+      }       
   }
 }

@@ -16,6 +16,7 @@
       
 \fill-line {
   \column {
+     \vspace #1
      \line {
        \column {
          "Kapo, ŝultroj, kruroj du, piedoj du."
@@ -26,6 +27,8 @@
     } % column
   } % fill-line
 } % markup	
+
+\noPageBreak
 
 \markup {
   \fill-line {

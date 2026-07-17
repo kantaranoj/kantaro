@@ -15,6 +15,7 @@
 
 \fill-line {
   \column {
+     \vspace #1
      \line {
        \column {
          \line { \bold "1."

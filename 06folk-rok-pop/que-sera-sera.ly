@@ -28,7 +28,7 @@
      \combine \null \vspace #0.1 % adds vertical spacing between verses
      \line { \bold "Rekantaĵo:"
        \column {
-         "|: Que sera, sera,"
+         "|: Que sera, sera,*"
          "per nekomprenebla vort'"
          "parolas venonta sort',"
          "que sera, sera :|"
@@ -70,7 +70,7 @@
   \fill-line {
     \column {
       \combine \null \vspace #0.5 % adds vertical spacing between verses
-      \line { \bold "Klarigo:"
+      \line { \bold "(*) Klarigo:"
         \column {
           "La ĉeffrazon elparolu \"ke sera sera\". Ĝi estas fuŝ-hispana esprimo por \"kio estos, estos\"."
           \combine \null \vspace #0.5 % adds vertical spacing between verses

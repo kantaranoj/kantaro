@@ -6,7 +6,7 @@
 \score {
 	\header {
 	title = "Blanka muso"
-	subtitle = "Originala titolo: Alla fiera dell'est"
+	subtitle = "Originala itala titolo: Alla fiera dell'est"
 	subsubtitle = "Tradukis Lars Sözüer"
 	}
 	

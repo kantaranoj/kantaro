@@ -49,7 +49,12 @@ tocAct =
 			#'((basic-distance . 0)
 			(minimum-distance . 0)
 			(padding . 6)
-			(stretchability . 1.0e7))
+			(stretchability . 0))
+%		score-system-spacing = 
+%			#'((basic-distance . 0)
+%			(minimum-distance . 0)
+%			(padding . 0)
+%			(stretchability . 0))
 	}
 	\header {
 		% title = "Kantaro de REF 2026" % se ŝaltita, aperas en apartaj paĝoj antaŭ ĉiu ĉapitro
@@ -62,7 +67,8 @@ tocAct =
 					"lasta ŝanĝo je" #(strftime "%Y-%m-%d." (localtime (current-time)))
 				}
 				"Redaktita de Marek, Felix, Edi, Wolfram, Duncan, Rozaria."
-				"Por pli da denaskulaĵoj vizitu https://familioj.miraheze.org/"
+				"Bildoj sur la kovrilo desegnitaj de Martin Markarian."
+				\line { "Por pli da denaskulaĵoj vizitu" \typewriter "https://familioj.miraheze.org/" }
 			}
 		}
 	}
@@ -229,8 +235,14 @@ tocAct =
 
 \pageBreak
 
-\markup { } % lasta malplena dorsopaĝo
+% la dorsopaĝo
 
-%} % markup
+\markup {
+  \fill-line {
+  \general-align #Y #DOWN {
+    \epsfile #X #100 #"bildoj/folio3.eps"
+    }
+  }
+}
 
 } % book

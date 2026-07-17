@@ -116,7 +116,6 @@ Mi ko -- nis de -- le -- gi -- ton fer -- vo -- ran pli ol mi;
     %\hspace #0.1 % moves the column off the left margin;
      % can be removed if space on the page is tight
      \column {
-      \combine \null \vspace #0.5 % adds vertical spacing between verses
       \line { \bold "Klarigo:"
         \column {
           "UEA = Universala Esperanto-Asocio, la plej granda organizo de esperantistoj."

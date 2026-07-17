@@ -35,6 +35,8 @@
   } % fill-line
 } % markup	
 
+\noPageBreak
+
 \markup {
   \fill-line {
     \column {

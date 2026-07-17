@@ -66,7 +66,6 @@
 \markup {
   \fill-line {
     \column {
-      \combine \null \vspace #0.5 % adds vertical spacing between verses
       \line { \bold "Klarigo:"
         \column {
           "La vortojn oni akompanas per jenaj movoj de manoj aŭ brakoj:"
@@ -81,7 +80,6 @@
           "\"sur sablo\": malfermu la brakojn en flankojn"
           "\"frenezul'\": gestu cirklojn apud la kapo"
           "\"domon portis for\": ambaŭmane ŝajnigu forĵeton al la flanko"
-          \combine \null \vspace #0.5 % adds vertical spacing between verses
           } % column
        } % line
     } % column

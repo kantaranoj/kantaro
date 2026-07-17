@@ -49,6 +49,8 @@
   } % fill-line
 } % markup	
 
+\noPageBreak
+
 \markup {
   \fill-line {
     %\hspace #0.1 % moves the column off the left margin;

@@ -23,10 +23,10 @@
 	\autoBeamOn
 	} % relative
 	\addlyrics { \set stanza = #"1. " 
-Ku -- ne mi kaj vi --, a -- mi -- koj es -- tas ni, mi kaj vi, pli kaj pli, ami -- koj es -- tas ni.
+Ku -- ne mi kaj vi __ _ a -- mi -- koj es -- tas ni, mi kaj vi, pli kaj pli, ami -- koj es -- tas ni.
 	}
 	\addlyrics { \set stanza = #"2. " 
-Ku -- ne mi kaj vi --, a -- mi -- koj es -- tas ni, mi kaj vi, pli kaj pli, du a -- mi -- koj ni!
+Ku -- ne mi kaj vi __ _ a -- mi -- koj es -- tas ni, mi kaj vi, pli kaj pli, du a -- mi -- koj ni!
 	}
 >>
 	} % transpose

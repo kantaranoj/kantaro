@@ -26,6 +26,7 @@
 		\key g \major
 		\partial 4
 	%\autoBeamOff
+	\autoPageBreaksOff
 	d4 g g g g8( d) b4 g4 a4 b c b2 b8 a g4 g' g fis g e d2.( d2) 
 	d4 g g g g8( d) b4 g a b c b2 b'8 a g4 fis e a fis e d2.( d2) 
 	e8 e a4 a a e e e a a a e e a8 a c4 b a a b gis a2.( a2) 
@@ -35,6 +36,7 @@
 
 \bar "|." 
 	\autoBeamOn
+	\autoPageBreaksOn
 	} % relative
 	\addlyrics { \set stanza = #"1. "
 	Ku -- ra -- ĝe pa -- ra  -- dis iam hi -- po -- po -- tam'

@@ -50,8 +50,6 @@
      \hspace #1 % moves the column off the left margin;
      % can be removed if space on the page is tight
      \column {
-       \combine \null \vspace #0.06 % adds vertical spacing between verses
-
        \line { \bold "4." "Nin, homojn fierantajn," }
        \line { "pekulojn povrajn vantajn," }
        \line { "jam ĝenas bagatel'." }
@@ -62,8 +60,6 @@
      \hspace #2
      \column {
 
-       \combine \null \vspace #0.06 % adds vertical spacing between verses
-  
        \line { \bold "5." "Ekkuŝu do, gefratoj," }
        \line { "de nia Di' gardatoj!" }      
        \line { "Fridetas nokta klar'." }
