@@ -53,7 +53,7 @@ Por krei novajn kantojn, necesas fine aldoni tekstdosieron al tiu ĉi retdosieru
 
 Por atingi tion, vi havas plurajn opciojn:
 
-1. La facila opcio estas uzi la retan, senpagan servon [lilybin](http://lilybin.com/). 
+1. La facila opcio estas uzi la retan, senpagan servon [Hacklily](https://www.hacklily.org/). 
 2. La iom pli malfacila opcio estas instali LilyPond sur via komputilo. Por redakti, ni rekomendas la senpagan programon [Frescobaldi](http://frescobaldi.org/), kiu haveblas por linukso, vindozo, kaj makoso.
 3. La plej malfacila opcio estas instali LilyPond kaj simple uzi normalan tekstredaktilon kiel vim, emacs aŭ notepad. Sed ankaŭ tio funkcias fidinde.
 
