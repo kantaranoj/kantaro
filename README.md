@@ -16,7 +16,7 @@ Ni volas traduki kaj plibonigi la ekzistantajn priskribojn de kantoj (teksto + m
 
 # Kiel kontribui
 
-Unua paŝo por kontribui al tiu ĉi kantaro estas [kreado de konto ĉe github](https://github.com/join). Vi ne bezonas profundajn sciojn pri git por helpi. Malgrandajn korektojn vi ankaŭ povas fari simple per retumilo, se vi komprenas kie estas la teksto en kanto kaj kie la melodio. Ĉio troviĝas en tekstdosieroj. Por kontroli, ĉu io daŭre funkcias, vi povas mane kopii la tekston al programo kiel Frescobaldi instalita sur via loka komputilo.
+Unua paŝo por kontribui al tiu ĉi kantaro estas [kreado de konto ĉe github](https://github.com/join). Vi ne bezonas profundajn sciojn pri git por helpi. Malgrandajn korektojn vi ankaŭ povas fari simple per retumilo, se vi komprenas kie estas la teksto en kanto kaj kie la melodio. Ĉio troviĝas en tekstdosieroj. Por kontroli, ĉu io daŭre funkcias, vi povas mane kopii la tekston al programo kiel [Frescobaldi](http://frescobaldi.org/) instalita sur via loka komputilo.
 
 Kantoj en REF konsistas ĝenerale el du partoj: teksto kaj melodio. Foje aldoniĝas ankoraŭ gestoj aŭ movoj.
 
@@ -53,8 +53,8 @@ Por krei novajn kantojn, necesas fine aldoni tekstdosieron al tiu ĉi retdosieru
 
 Por atingi tion, vi havas plurajn opciojn:
 
-1. La facila opcio estas uzi la retan, senpagan servon [lilybin](http://lilybin.com/). 
-2. La iom pli malfacila opcio estas instali LilyPond sur via komputilo. Por redakti, ni rekomendas la senpagan programon [frescobaldi](http://frescobaldi.org/), kiu haveblas por linukso, vindozo, kaj makoso.
+1. La facila opcio estas uzi la retan, senpagan servon [Hacklily](https://www.hacklily.org/). 
+2. La iom pli malfacila opcio estas instali LilyPond sur via komputilo. Por redakti, ni rekomendas la senpagan programon [Frescobaldi](http://frescobaldi.org/), kiu haveblas por linukso, vindozo, kaj makoso.
 3. La plej malfacila opcio estas instali LilyPond kaj simple uzi normalan tekstredaktilon kiel vim, emacs aŭ notepad. Sed ankaŭ tio funkcias fidinde.
 
 Entajpi notojn vide (WYSIWYG) eblas per [scorio](https://www.scorio.com/). Per tabulkomputilo tion scias fari eĉ infano. Sufiĉas registriĝi por la senpaga konto kaj en la fino uzi el la menuo File – Export – LilyPond.
