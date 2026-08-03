@@ -1,3 +1,6 @@
+% Carolin 3.8.2026: "Betti [Tomanjo Maul] supozas ke la ĉokolado-kanto povus esti kroata aŭ serba, ĉiuokaze de iu lando kie la 8a de marto tradicie gravas, kompreneble, sed ŝi eĉ ne konas la kanton kaj miras ke mi opinias ĝin tradicia. Tio iom surprizas min, ĉar laŭ mi ĝi ne aldoniĝis dum nia tempo [do ekde 2012, nia unua REF] sed ĉiam estis."
+% Daŝa Filipčič 3.8.2026: "Tio certe ne estas kroata kanto. Eble povus esti rusa kanto, cxar dum REF en Svedio tie estis kelkaj tagoj unu grupo el Rusio kaj oni "donis" tiun kanton al refanoj (se mi bone memoras)."
+
 \tocItem \markup "Ĉokolado"
 \score {
 	\header {

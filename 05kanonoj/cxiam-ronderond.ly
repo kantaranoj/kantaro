@@ -1,12 +1,14 @@
-% Marek: klarigi la gramatikaĵon/ortografion de la titolo
-% Marek: eltrovi la originon de la kanto
+% Carolin 3.8.2026: "Ĉu nomiĝas Ĉiam ronde rond' aŭ Ĉiam rond' en rond' aŭ Ĉiam ronderond'?" – Betti Tomanjo Maul: "La unua"
+% Betti Tomanjo Maul per Carolin 3.8.2026: "Pri ĉiam rond' fakte efektive ekzistas ambaŭ versioj ekde komence! [En 2026, VS kantas "Ĉiam rond' en rond', ... Nia amo fortas", dum REF kantas "Ĉiam ronde rond', ... Nia amo grandas"] Oni povas elekti unu aŭ kanti alterne. La dancon mi mem instruis nur per emfaza stamfo kaj sekva direktoŝanĝo, sed por amuzi foje la ŝanĝo venas preskaŭ tuj denove (kiam oni jam pli konas la kanton) alterne kun pli da paŝoj antaŭ la ŝanĝo. (Ĉu klaras?)"
+% Betti Tomanjo Maul per Carolin 3.8.2026: "La originala fakte diras FORTAS, mi tamen mem pli ŝatas GRANDAS"
+% en la Telegrama grupo REF, temo Kantaro, en 3.8.2026 aperis fotoj de la germana originalo kun notoj kaj pliaj informoj
 
-\tocItem \markup "Ĉiam ronderond'"
+\tocItem \markup "Ĉiam ronde rond'"
 \score {
         \header {
         %%% middle column:
         % dedication = ""
-        title = "Ĉiam ronderond'"
+        title = "Ĉiam ronde rond'"
         subtitle = "Immer rundherum"
         % subsubtitle = ""
         % instrument = ""
@@ -60,7 +62,7 @@ r4
                 \autoPageBreaksOn
         } % new Staff
         \addlyrics { %\set stanza = #"1. "
-	Ĉi -- am ron -- de -- rond', ni do -- nas al ni ma -- nojn, tek -- sas vi -- von en cir -- klo. Ni -- a a -- mo gran -- das, la viv' es -- tas danc'.
+	Ĉi -- am ron -- de rond', ni do -- nas al ni ma -- nojn, tek -- sas vi -- von en cir -- klo. Ni -- a a -- mo gran -- das, la viv' es -- tas danc'.
         }
 	\layout { }
 	\midi { }
